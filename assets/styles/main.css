@@ -1211,6 +1211,11 @@ body {
   margin-left: 5px
 }
 
+/* .active:after {
+  content: "\276F";
+  transform: rotate(270deg)
+} */
+
  .active:after {
   content: "\276F";
   transform: rotate(270deg)
@@ -2010,6 +2015,10 @@ body {
   margin-left: 7.4%
 }
 
+.tab button.active {
+  color:#0058e8;
+}
+
 .tab button.active,
 .tab button:hover {
   opacity: 100%
@@ -2533,7 +2542,7 @@ a.footerlink:active {
 .staffloc {
   font-family: Calluna;
   font-style: italic;
-  opacity: .3;
+  opacity: .55;
   margin-bottom: 5%
 }
 
@@ -2708,7 +2717,7 @@ a.footerlink:active {
 
 .jobdate {
   font-family: Calluna;
-  opacity: .3;
+  opacity: .55;
   text-transform: uppercase;
 }
 
@@ -3470,7 +3479,42 @@ a.footerlink:active {
   }
 }
 
+#prevBtn,
+#nextBtn {
+  display: none;
+}
+
 @media (max-width:768px) {
+  .wrapper {
+    position: relative; /* Needed for absolute positioning */
+    padding-left: 11%;
+    padding-right: 11%;
+  }
+  #prevBtn,
+  #nextBtn {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    background: white; /* Make visible */
+    opacity: .7;
+
+    /* border: none;        
+    background: none;     
+    outline: none;         */
+    padding: 10px;         
+    font-size: 1rem;    /* Make arrows larger/more visible */
+    color: #333; 
+  }
+  
+  #prevBtn { left: 0; }
+  #nextBtn { right: 0; }
+
+  #prevBtn:focus,
+  #nextBtn:focus {
+  box-shadow: 0 0 0 2px rgba(0,0,255,0.3);
+}
 
   .headerabgrid,
   .headergigrid,
@@ -5068,7 +5112,8 @@ a.footerlink:active {
     line-height: 133%;
     letter-spacing: .08em;
     text-transform: uppercase;
-    opacity: 30%;
+    /* opacity: 30% */
+    opacity: 55%
   }
 
   .six {
