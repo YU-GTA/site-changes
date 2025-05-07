@@ -27,7 +27,7 @@
       <a class="footerheader footerlink" href="/./encountering-injustice">Encountering Injustice</a>
     </div>
     <div class="footer5">
-      <!-- <span class="footertextbold">Stay up to date and sign up for our newsletter</span>
+      <!-- <span class="footertextbold">Stay up to date and sign up for our newsletter.</span>
         <form method="post" action="<?= $page->url() ?>" enctype="text/plain" id="contact-form">
           <input class="emailinput" title="Email Form" aria-label="Email Form" type="email" id="email" placeholder="Email address" name="email" value="<?= $data['email'] ?? '' ?>" required>
           <?= isset($alert['email']) ? '<span class="alert error">' . html($alert['email']) . '</span>' : '' ?>

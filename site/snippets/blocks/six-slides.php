@@ -3,16 +3,18 @@
     <div class="">
       <h2 class="sixslideheader"><?= $data->heading()->html() ?></h2>
     </div>
-
-    <div class="tab scrolling-wrapper-flexbox">
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide1heading()->html() ?>')" id="defaultOpen"><?= $data->slide1heading()->html() ?></button>
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide2heading()->html() ?>')"><?= $data->slide2heading()->html() ?></button>
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide3heading()->html() ?>')"><?= $data->slide3heading()->html() ?></button>
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide4heading()->html() ?>')"><?= $data->slide4heading()->html() ?></button>
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide5heading()->html() ?>')"><?= $data->slide5heading()->html() ?></button>
-      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide6heading()->html() ?>')"><?= $data->slide6heading()->html() ?></button>
+    <div class="wrapper">
+        <button id="prevBtn" aria-label="Previous tab">←</button>
+        <button id="nextBtn" aria-label="Next tab">→</button>
+        <div class="tab scrolling-wrapper-flexbox">
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide1heading()->html() ?>')" id="defaultOpen"><?= $data->slide1heading()->html() ?></button>
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide2heading()->html() ?>')"><?= $data->slide2heading()->html() ?></button>
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide3heading()->html() ?>')"><?= $data->slide3heading()->html() ?></button>
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide4heading()->html() ?>')"><?= $data->slide4heading()->html() ?></button>
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide5heading()->html() ?>')"><?= $data->slide5heading()->html() ?></button>
+          <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide6heading()->html() ?>')"><?= $data->slide6heading()->html() ?></button>
+        </div>
     </div>
-
     <div id="<?= $data->slide1heading()->html() ?>" class="tabcontent">
       <div class="tab1">
         <div class="tabheader"><?= $data->slide1heading()->html() ?></div>
@@ -142,3 +144,14 @@
   <label id="colbut" for="chckcol" class="collapse-label">Read More</label>
   <input type="checkbox" id="chckcol" checked="checked">
 </section>
+<script>
+  const container = document.querySelector(
+    ".scrolling-wrapper-flexbox"
+  );
+  document.getElementById("prevBtn").addEventListener("click", () => {
+    container.scrollBy({ left: -200, behavior: "smooth" });
+  });
+  document.getElementById("nextBtn").addEventListener("click", () => {
+    container.scrollBy({ left: 200, behavior: "smooth" });
+  });
+</script>

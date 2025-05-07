@@ -3,17 +3,16 @@
     <div class="">
       <h2 class="sixslideheader"><?= $data->heading()->html() ?></h2>
     </div>
-    <div class="wrapper">
-        <button id="prevBtn" aria-label="Previous tab">←</button>
-        <button id="nextBtn" aria-label="Next tab">→</button>
-        <div class="tab scrolling-wrapper-flexbox">
-          <button class="card tablinks five" onclick="openTab(event, '<?= $data->slide1heading()->html() ?>')" id="defaultOpen"><?= $data->slide1heading()->html() ?></button>
-          <button class="card tablinks five" onclick="openTab(event, '<?= $data->slide2heading()->html() ?>')"><?= $data->slide2heading()->html() ?></button>
-          <button class="card tablinks five" onclick="openTab(event, '<?= $data->slide3heading()->html() ?>')"><?= $data->slide3heading()->html() ?></button>
-          <button class="card tablinks five" onclick="openTab(event, '<?= $data->slide4heading()->html() ?>')"><?= $data->slide4heading()->html() ?></button>
-          <button class="card tablinks five" onclick="openTab(event, '<?= $data->slide5heading()->html() ?>')"><?= $data->slide5heading()->html() ?></button>
-        </div>
+
+    <div class="tab scrolling-wrapper-flexbox">
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide1heading()->html() ?>')" id="defaultOpen"><?= $data->slide1heading()->html() ?></button>
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide2heading()->html() ?>')"><?= $data->slide2heading()->html() ?></button>
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide3heading()->html() ?>')"><?= $data->slide3heading()->html() ?></button>
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide4heading()->html() ?>')"><?= $data->slide4heading()->html() ?></button>
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide5heading()->html() ?>')"><?= $data->slide5heading()->html() ?></button>
+      <button class="card tablinks six" onclick="openTab(event, '<?= $data->slide6heading()->html() ?>')"><?= $data->slide6heading()->html() ?></button>
     </div>
+
     <div id="<?= $data->slide1heading()->html() ?>" class="tabcontent">
       <div class="tab1">
         <div class="tabheader"><?= $data->slide1heading()->html() ?></div>
@@ -118,18 +117,28 @@
         <img class="tabimg" alt="<?= $data->alttext5()->html() ?>" src="<?= $image->url() ?>">
       </div>
     </div>
+
+    <div id="<?= $data->slide6heading()->html() ?>" class="tabcontent">
+      <div class="tab1">
+        <div class="tabheader"><?= $data->slide6heading()->html() ?></div>
+        <div class="tabtext"><?= $data->slide6text()->kt() ?></div>
+      </div>
+      <div class="tab2">
+      <div class="tabm1">
+          <div class="tabnumber"><?= $data->slide6topheading()->html() ?></div>
+          <div class="tabnumbertxt"><?= $data->slide6toptext()->html() ?></div>
+        </div>
+        <div class="tabm2">  
+          <div class="tabnumber"><?= $data->slide6bottomheading()->html() ?></div>
+          <div class="tabnumbertxt"><?= $data->slide6bottomtext()->html() ?></div>
+        </div>
+      </div>
+      <div class="tab3">
+        <?php $image = $data->slide6image()->toFile() ?>
+        <img class="tabimg" alt="<?= $data->alttext6()->html() ?>" src="<?= $image->url() ?>">
+      </div>
+    </div>
   </div>
   <label id="colbut" for="chckcol" class="collapse-label">Read More</label>
   <input type="checkbox" id="chckcol" checked="checked">
 </section>
-<script>
-  const container = document.querySelector(
-    ".scrolling-wrapper-flexbox"
-  );
-  document.getElementById("prevBtn").addEventListener("click", () => {
-    container.scrollBy({ left: -200, behavior: "smooth" });
-  });
-  document.getElementById("nextBtn").addEventListener("click", () => {
-    container.scrollBy({ left: 200, behavior: "smooth" });
-  });
-</script>
