@@ -27,12 +27,12 @@
       <a class="footerheader footerlink" href="/./encountering-injustice">Encountering Injustice</a>
     </div>
     <div class="footer5">
-      <span class="footertextbold">Stay up to date and sign up for our newsletter</span>
+      <!-- <span class="footertextbold">Stay up to date and sign up for our newsletter</span>
         <form method="post" action="<?= $page->url() ?>" enctype="text/plain" id="contact-form">
           <input class="emailinput" title="Email Form" aria-label="Email Form" type="email" id="email" placeholder="Email address" name="email" value="<?= $data['email'] ?? '' ?>" required>
           <?= isset($alert['email']) ? '<span class="alert error">' . html($alert['email']) . '</span>' : '' ?>
         <input class="submit emailbutton" type="submit" name="submit" value="Submit">
-        </form>
+        </form> -->
         <span class="footertext">
           <a class="footerlink" href="mailto:info@yugta.ca">info@yugta.ca</a>
             <a class="social social1" href="https://www.facebook.com/youthunlimitedtoronto/" target="_blank"><img class="social" alt="Facebook Logo" src="\.\assets\images\svgs\fbgrey.svg"></a>
