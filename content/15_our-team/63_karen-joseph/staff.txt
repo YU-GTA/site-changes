@@ -1,0 +1,56 @@
+Title: Karen Joseph
+
+----
+
+Name: Karen Joseph
+
+----
+
+Position: People Development Associate
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34453" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></scr
+
+----
+
+Description: Karen has been with YU since 2004. She started on the frontlines with Light Patrol and then the Jane Finch community. Over time she began supervising and shepherding staff. She now works with the People Development team, overseeing staff training and development.
+
+----
+
+Image:
+
+- karen-joseph.png
+
+----
+
+Alttext: Karen Joseph portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

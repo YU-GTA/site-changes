@@ -1,0 +1,54 @@
+name: Three Image and Text
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  subheadleft:
+    label: Subheading Left
+    type: text
+    required: true
+  textleft:
+    label: Text Left
+    type: text
+    required: true
+  imageleft:
+    label: Image Left
+    type: files
+    multiple: false
+    required: true
+  alttextleft:
+    label: Image Alt Text
+    type: text
+  subheadmid:
+    label: Subheading Mid
+    type: text
+    required: true
+  textmid:
+    label: Text Mid
+    type: text
+    required: true
+  imagemid:
+    label: Image Mid
+    type: files
+    multiple: false
+    required: true
+  alttextmid:
+    label: Image Alt Text
+    type: text
+  subheadright:
+    label: Subheading Right
+    type: text
+    required: true
+  textright:
+    label: Text Right
+    type: text
+    required: true
+  imageright:
+    label: Image Right
+    type: files
+    multiple: false
+    required: true
+  alttextright:
+    label: Image Alt Text
+    type: text

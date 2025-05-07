@@ -1,0 +1,56 @@
+Title: Paul Robertson
+
+----
+
+Name: Paul Robertson
+
+----
+
+Position: Youth Culture Specialist
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34461" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Paul has dedicated himself to helping adults deepen their relationships with young people through a better understanding of today’s youth culture. His goal is to help both groups see their lives and their world through a biblical worldview. His seminars have taken him across Canada and it’s been a joy to equip and encourage thousands of adults working with kids.
+
+----
+
+Image:
+
+- paul-may-30.jpeg
+
+----
+
+Alttext: Paul Robertson portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers

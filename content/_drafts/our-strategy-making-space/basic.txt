@@ -1,0 +1,183 @@
+Title: Our Strategy
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628925834_5064
+- 
+  heading: Our "Making Space" Strategy
+  backgroundimage:
+    - headerabbg.png
+  _key: header-makingspace
+  _uid: header-makingspace_1605907861522_6966
+- 
+  heading: 'Making Space Impact 2019 - 2022'
+  text: >
+    Check out this video highlighting the
+    impact God has had through YU as we have
+    lived out our "Making Space" strategy
+    since July 2019. Learn more about our
+    current strategy below!
+  buttontext: Learn More About YU
+  button:
+    type: page
+    value: about-us
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/NEdCNvZWbjE
+  caption: Making Space Impact Video
+  position: 'false'
+  _key: video-text
+  _uid: video-text_1667572843361_1680
+- 
+  image:
+    - 0000s_0000_discerning.png
+  alttext: >
+    Empty three-lane street at night painted
+    with a left-turn arrow
+  heading: 4 Pathways, 1 Direction
+  text: >
+    Making Space is YU’s discerned way
+    forward so we can all make a meaningful
+    impact together, and be empowered to
+    live out our calling as staff,
+    volunteers, and donors for the sake of
+    the youth of the GTA.
+  buttontext: Download the Full Plan
+  button:
+    type: url
+    value: >
+      https://drive.google.com/file/d/1JL1788CrrnGqUN7NG0aTwWWeGYKPCw7B/view
+  _key: image-text-alt
+  _uid: image-text-alt_1613600077297_7923
+- 
+  heading: 'Pathway #1'
+  text: >
+    We simply cannot ignore the disparities,
+    inequity, and injustice facing young
+    people on the margins each day –
+    whether by virtue of their
+    circumstances, internal struggles, or
+    even where they live. By fostering
+    transformation among these precious
+    friends of ours, we hope to see their
+    renewal bring hope and flourishing to
+    every inch of our city. To do so, we
+    will intentionally increase our
+    engagement with vulnerable youth, with
+    the hope that a growing number of these
+    friends will experience wholistic
+    transformation.
+  buttontext: ""
+  button: null
+  image:
+    - 0002_making-space-vulnerable-youth.png
+  alttext: >
+    Yellow blurb saying "Increasing our
+    engagement with vulnerable youth"
+  _key: text-image-alt
+  _uid: text-image-alt_1613600747293_15132
+- 
+  image:
+    - 0001_making-space-mental-health.png
+  alttext: >
+    Teal blurb saying "Accompanying youth in
+    the midst of their mental health
+    challenges"
+  heading: 'Pathway #2'
+  text: >
+    Many of us are all-too-aware of the
+    growing mental health epidemic among
+    young people, and it’s a reality our
+    staff grapple with in each of our
+    programs across the city. Our hope is
+    that no young person we serve would go
+    through these struggles alone. We know
+    it’s imperative that we be a
+    consistent, loving, and well-equipped
+    presence for the sake of these young
+    people’s wellbeing. Therefore, we will
+    intentionally accompany youth in the
+    midst of their mental health challenges,
+    with the hope that they feel
+    well-supported and are better able to
+    flourish.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1613601492634_1798
+- 
+  heading: 'Pathway #3'
+  text: >
+    Furthermore, we know young people need
+    to find a vibrant community of belonging
+    that nurtures their faith and wellbeing
+    for life–well into their adult years.
+    We believe, too, that young people can
+    breathe life into local churches
+    throughout the city. To this end, we
+    will intentionally come alongside
+    neighbourhood churches to engage in
+    mission together, with the hope that all
+    our youth will find a long-term place of
+    belonging in vibrant local Christian
+    communities.
+  buttontext: ""
+  button: null
+  image:
+    - 0000_making-space-church.png
+  alttext: >
+    Blue blurb saying "Integrating young
+    people into neighbourhood churches"
+  _key: text-image-alt
+  _uid: text-image-alt_1613607964744_2549
+- 
+  image:
+    - >
+      0003_making-space-wholistic-transformation.png
+  alttext: >
+    Yellow blurb saying "Living out
+    wholistic transformation"
+  heading: 'Pathway #4'
+  text: >
+    Seeing young lives radically changed by
+    personal experiences of God remains the
+    heartbeat of Youth Unlimited.
+    Transformed youth transforming our city
+    is a vision born out of our “Canvas of
+    Transformation” coming to life in the
+    individuals and communities we serve. We
+    will intentionally live out wholistic
+    transformation as team members together
+    with our youth, with the hope that more
+    and more young people will experience
+    God’s transformative work in their
+    lives.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1613608037879_3237
+- 
+  heading: Supporting the Pathways
+  text: 'In order to have the impact we hope to see in the four “ministry pathways”, we recognize YU needs to build adequate infrastructure and support for them. To that end, our Central Services team is committed to supporting Making Space in these ways: (1) Equipping staff and volunteers; (2) Recruiting for key leadership positions and a growing, diverse team of field staff; (3) Developing earned-income ministries; (4) Enhancing field collaboration; (5) Coordinating central services engagement.'
+  buttontext: ""
+  button: null
+  image:
+    - 0004_making-space-central-services.png
+  alttext: Red Central Services blurb
+  _key: text-image-alt
+  _uid: text-image-alt_1613608226565_3882
+- 
+  heading: View our full Making Space Strategy
+  buttontext: Download Now
+  button:
+    type: url
+    value: >
+      https://www.yugta.ca/media/pages/publications/making-space-strategy/1442529558-1616779627/21-02-18-yu-friends-reception-19-booklet-web.pdf
+  _key: footer-aboutus
+  _uid: footer-aboutus_1613601563823_2459

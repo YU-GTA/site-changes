@@ -1,0 +1,149 @@
+Title: LAUNCH
+
+----
+
+Name: LAUNCH
+
+----
+
+Lefttext: LAUNCH comes alongside young Christians, inspiring them to walk long-term in their God-given potential by equipping them to grow spiritually, in character and in leadership.
+
+----
+
+Righttext: Join us in our mission to build up the youth and young adults in our city. We equip, inspire and empower young leaders through coaching, workshops, and a leadership course, helping them to grow and impact their world.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit the LAUNCH website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: https://321launch.ca
+
+----
+
+Headingone: LAUNCH Initiatives
+
+----
+
+Titleone: Leadership Developement
+
+----
+
+Textone:
+
+**LAUNCH EQUIP Coaching/Mentoring** 
+
+Partnering young adults and youth with a mentor/coach who helps them launch a Kingdom dream or maximize an existing leadership opportunity, all while equipping them to grow spiritually, in character and in leadership
+
+**LAUNCH High School Leadership Course** 
+
+A Grade 11 Leadership course (GPP 3O), taught from a Christian perspective, that provides students with leadership training, individual mentoring by a skilled coach, and empowers them to create and implement a community impact project
+
+**LAUNCH Leadership Workshops** 
+
+Workshops focused on leadership, character and spiritual growth, suitable for all sizes of groups of students, young adults, camps, classrooms or conferences
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Let's take-off together!
+
+----
+
+Stats: Help us reach our goal of working with 100 LAUNCHees! If you know someone between the ages of 14-25, or if you yourself are and have some ideas you want help getting off the ground, then sign up to become a LAUNCHee!
+
+----
+
+Image:
+
+- launch.png
+
+----
+
+Alttext: Three young women sitting and looking at various photos
+
+----
+
+Footer: Support Us Today
+
+----
+
+Tags: LAUNCH
+
+----
+
+Titletop: LEADERSHIP DEVELOPMENT
+
+----
+
+Texttop:
+
+**LAUNCH EQUIP Mentoring**
+
+EQUIP partnerships exist to coach young Christian leaders as they grow in their capacity to influence the world for Jesus.
+
+**LAUNCH High School Leadership Course**
+
+High school students earn a credit while growing their leadership and impacting their world.
+
+**LAUNCH Leadership Workshops**
+
+A variety of leadership and spiritual development training workshops suitable for groups of all sizes.
+
+----
+
+Titlebottom: .
+
+----
+
+Textbottom: .

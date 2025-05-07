@@ -1,0 +1,56 @@
+Title: Lee Sommerfeldt
+
+----
+
+Name: Lee Sommerfeldt
+
+----
+
+Position: Program Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19994" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As the Young Moms Program Lead in Durham, Lee provides hope and help for pregnant and parenting youth (ages 15-25) in Pickering, Ajax, Whitby, Oshawa and the surrounding area. She brings her love and compassion for young people, her passion for parenting and her teaching experience to walk alongside young moms on their journeys of transformation.
+
+----
+
+Image:
+
+- lee-sommerfeldt.png
+
+----
+
+Alttext: Lee Sommerfeldt portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

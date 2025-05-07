@@ -1,0 +1,56 @@
+Title: Bianca Armstrong
+
+----
+
+Name: Bianca Armstrong
+
+----
+
+Position: Outreach Worker and Oversight Team
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="33165" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: I work to build relationships with homeless and street-involved youth, providing them with whole-person care. I am dedicated to walking alongside Light Patrol’s youth through the light and dark seasons of their lives. I desire to join God in redeeming fundamental pieces of life that have been broken for so many youth on the street, like home and healthy relationships.
+
+----
+
+Image:
+
+- layer-24.png
+
+----
+
+Alttext: Bianca Armstrong portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

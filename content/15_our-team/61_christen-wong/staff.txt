@@ -1,0 +1,56 @@
+Title: Christen Wong
+
+----
+
+Name: Christen Wong
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="101770" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Christen loves leading and caring for youth by inviting them into community and sharing God's love with them! She wants to use her gifts to serve God through YU outreach and social media. God created everyone as His masterpiece, so Christen wants to share the Father's forgiveness and grace. She is excited to help transform Toronto youth by doing good things through God.
+
+----
+
+Image:
+
+- christen-wong.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: Intern

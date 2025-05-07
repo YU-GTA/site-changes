@@ -1,0 +1,56 @@
+Title: Lisa Rose
+
+----
+
+Name: Lisa Rose
+
+----
+
+Position: BlessUP Coordinator
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="96393" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Lisa provides leadership to our BlessUP initiative, which seeks to instill hope and courage in the day-to-day lives of young people through the medium of carefully crafted text messages.
+
+----
+
+Image:
+
+- lisa-rose.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: 

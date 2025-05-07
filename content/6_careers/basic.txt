@@ -1,0 +1,157 @@
+Title: Careers
+
+----
+
+Blocks:
+
+- 
+  heading: ' '
+  _key: navbar-getinvolved
+  isnew: true
+  _uid: navbar-getinvolved_1614105844670_52484
+- 
+  heading: Careers with a Calling
+  image:
+    - get-involved_475x701_blue-this-one.png
+  backgroundimage:
+    - headergibg.png
+  alttext: Two male staff conversing and laughing
+  bottomsubhead: ' '
+  bottomhtext: >
+    We are always eager to discern with you
+    how God might be inviting you to join
+    the work of YU and impact the lives of
+    young people, their families, and their
+    neighbourhoods.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1614105798921_52091
+- 
+  image:
+    - dave-b-using-gifts-talents.png
+  alttext: Male staff guiding a youth in archery
+  heading: The work we do requires grit.
+  text: 'It needs people who feel called to help the vulnerable and marginalized.  It needs difference makers and game changers;  people who are relationally-gifted and community-minded.  This work needs those with vision and perseverance.  This work changes lives, and will change yours, too. '
+  buttontext: ""
+  button:
+    type: page
+    value: job-openings
+  _key: image-text-alt
+  _uid: image-text-alt_1613510552374_59959
+- 
+  heading: >
+    We believe in our staff and invest in
+    their full potential.
+  text: >
+    Live out your faith, pursue your
+    calling, chart your career path, build
+    and lead teams, and give back to your
+    community. We believe in our staff and
+    invest in their full potential through
+    intentional training, mentorship
+    programs, leadership development and
+    spiritual formation. For some, this will
+    be your first job out of school; for
+    others, the next step in your unfolding
+    calling; or, perhaps this is a place you
+    decide to call home for many years.
+  buttontext: 'Career Opportunities  ›'
+  button:
+    type: page
+    value: job-openings
+  image:
+    - staff-group-photo.png
+  alttext: >
+    Youth Unlimited staff group photo
+    outside on a trail
+  _key: text-image-alt
+  _uid: text-image-alt_1613510664629_60842
+- 
+  image:
+    - becky-using-gifts-talents.png
+  alttext: Young girl and female jiu jitsu teacher
+  heading: >
+    We are dedicated to discovering and
+    mobilizing your gifts.
+  text: >
+    Whether you feel called to youth
+    ministry or community partnerships,
+    administration or program development, a
+    new initiative or an established team,
+    YU is dedicated to discovering and
+    mobilizing your gifts, and helping you
+    find your place and purpose in our
+    organization.
+  buttontext: 'Internship Program  ›'
+  button:
+    type: page
+    value: internship-program
+  _key: image-text-alt
+  _uid: image-text-alt_1613510754527_61526
+- 
+  heading: You are a leader.
+  text: >
+    You are excited by change, spurred on by
+    challenge. You aren’t afraid to take
+    risks and take them with your whole
+    heart. Whenever you set your mind to
+    something, you are all in. We call this
+    a creative, entrepreneurial spirit. You
+    want to be part of a team of fun and
+    authentic people who are
+    “adventurously expectant”.
+  buttontext: 'Career Opportunities  ›'
+  button:
+    type: page
+    value: job-openings
+  image:
+    - marianne-young-leaders.png
+  alttext: Four young women walking side by side
+  _key: text-image-alt
+  _uid: text-image-alt_1613510910164_62977
+- 
+  image:
+    - 000034.jpg
+  alttext: >
+    distant skyline of the city of toronto
+    while the sun sets
+  heading: 'We are committed to fair and accessible employment practices.  '
+  text: >
+    Please click on the below button to read
+    our Accessibility policy.
+  buttontext: Click Here to Read More
+  button:
+    type: url
+    value: >
+      https://drive.google.com/file/d/1_5iV23V0QEE87J4T3N_k3x4bbcECpIop/view?usp=sharing
+  _key: image-text-alt
+  _uid: image-text-alt_1625072642968_3805
+- 
+  heading: Adventure is ahead...
+  text: |
+    # "This resurrection life you received from God is not a timid, grave-tending life. It’s adventurously expectant, greeting God with a childlike, 'What’s next, Papa?'"
+    
+    ### Romans 8:35 MSG
+  image:
+    - mask-group-1408x.png
+  alttext: Two young boys playing basketball
+  imagemobile:
+    - mask-group-1-1408x.png
+  alttextmobile: Two young boys playing basketball
+  _key: text-on-image
+  _uid: text-on-image_1613511199571_65056
+- 
+  heading: '  Get Involved'
+  leftbuttontext: 'Job Openings  ›'
+  leftbutton:
+    type: page
+    value: job-openings
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1615399238856_1425

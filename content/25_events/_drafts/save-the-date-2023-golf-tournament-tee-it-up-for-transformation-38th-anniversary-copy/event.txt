@@ -1,0 +1,71 @@
+Title: Save the Date! Tee It Up For Transformation 2024 Golf Tournament
+
+----
+
+Name: Save the Date - Tee It Up For Transformation!
+
+----
+
+Location: King's Riding Golf Club
+
+----
+
+Button: Register
+
+----
+
+Link:
+
+type: url
+value: >
+  mailto:mkollar@yugta.ca?subject=Please
+  register me for Tee It Up For
+  Transformation
+
+----
+
+Body:
+
+## **Save The Date**
+
+**Tuesday, May 6, 2025**
+
+Youth Unlimited's Board of Directors & Golf Committee can't wait to see you at our 38th annual 
+Tee It Up For Transformation charity golf tournament. 
+
+This year, we will be hosted by **King's Riding Golf Club, King City**.
+
+Shotgun start is at 10am. 
+Lunch and dinner are included! And of course, so are our well-liked socks!
+
+----
+
+Date: 2025-01-29 01:55
+
+----
+
+Eventdate: 2025-05-07 02:00
+
+----
+
+Bottomimage:
+
+- gt2025-save-the-date-bottom.png
+
+----
+
+Alttext2: Foursome golfers on the putting green.
+
+----
+
+Topimage:
+
+- gt2025-save-the-date-top.png
+
+----
+
+Alttext: Two golfers waving in golf cart.
+
+----
+
+Tags: Golf Tournament, Pitch and Pledge, youth and their families, Tee It Up For Transformation

@@ -1,0 +1,56 @@
+Title: Cynthia Rivera
+
+----
+
+Name: Cynthia Rivera
+
+----
+
+Position: DOXA Journeys Assistant Coordinator
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="52686" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Cynthia has been a part of Doxa Journeys over the years as a youth participant, summer intern, volunteer trip leader, and now as the Doxa Journeys Assistant Coordinator. With a background in International Development and Project Management, Cynthia assists in overseeing the organization and planning of Doxa Journeys trips.
+
+----
+
+Image:
+
+- layer-6.png
+
+----
+
+Alttext: Cynthia Rivera portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: DOXA

@@ -1,0 +1,56 @@
+Title: Paula Castrucci
+
+----
+
+Name: Paula Castrucci
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34211" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As an Outreach Worker for Light Patrol, Paula strives to build relationships with homeless and street involved youth and provide them with holistic care. Through weekly meals and programs, outreach, and one-on-ones, she is dedicated to helping them get the help that they need and to a place where they can function at their best and cling to the hope that we have in Christ.
+
+----
+
+Image:
+
+- layer-80.png
+
+----
+
+Alttext: Paula Castrucci portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: light patrol

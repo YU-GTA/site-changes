@@ -1,0 +1,56 @@
+Title: Chelsea Haemel
+
+----
+
+Name: Chelsea Haemel
+
+----
+
+Position: People Development Team Assistant - Administration & HR Project Support
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="82217" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Chelsea is excited about building systems, processes, and structures that make organizations better. Whether this means more effectiveness in the organization, a team feels more equipped, or an employee feels happier. She will be supporting the People Development team and Human Resources projects so YU’s staff and volunteers can serve as a confident and joyful team.
+
+----
+
+Image:
+
+- chelsea-haemal.png
+
+----
+
+Alttext: Headshot of Chelsea
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: central services, people development

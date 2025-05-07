@@ -1,0 +1,22 @@
+Title: Youth Unlimited
+
+----
+
+Social-links:
+
+- 
+  name: Instagram
+  icon:
+    - instagram.svg
+- 
+  name: LinkedIn
+  icon:
+    - linkedin.svg
+  url: >
+- 
+  name: Facebook
+  icon:
+    - facebook.svg
+  url: >
+
+----

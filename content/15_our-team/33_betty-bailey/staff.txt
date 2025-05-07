@@ -1,0 +1,56 @@
+Title: Betty Bailey
+
+----
+
+Name: Betty Bailey
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="42954" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Betty coordinates our Seeds of Hope programs, including summer day and overnight camp, and afterschool club. They provide a place where all participants experience the love of God in life-transforming ways. In addition, she facilitates weekly mentorship programs for Seeds of Hope Moms, and a program for girls in partnership with Lisle Memorial Baptist Church.
+
+----
+
+Image:
+
+- layer-15.png
+
+----
+
+Alttext: Betty Bailey portrait
+
+----
+
+Facebooklink:
+
+type: page
+value: home
+
+----
+
+Instagramlink:
+
+type: page
+value: home
+
+----
+
+Twitterlink:
+
+type: page
+value: home
+
+----
+
+Tags: Jane-Finch

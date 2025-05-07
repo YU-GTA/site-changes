@@ -1,0 +1,56 @@
+Title: Matt Wilkinson
+
+----
+
+Name: Matt Wilkinson
+
+----
+
+Position: Director, Today's Teens Conference
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="61344" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Matt serves as Director of the Today's Teens Conference, the longest running youth ministry training conference in Canada, which provides the latest research, insights and practical tools to reach and disciple the next generation.  With a commitment to providing high quality, practical and affordable training, Today's Teens has equipped over 40,000 youth and youth ministry leaders (both paid and volunteer) since the conference first began in 1983.
+
+----
+
+Image:
+
+- layer-93.png
+
+----
+
+Alttext: Matt Wilkinson portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Today's Teens

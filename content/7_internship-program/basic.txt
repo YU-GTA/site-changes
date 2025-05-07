@@ -1,0 +1,158 @@
+Title: Internship
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1677173506409_4324
+- 
+  heading: Internship Program
+  image:
+    - header-ps.png
+  backgroundimage:
+    - headergibg.png
+  alttext: Adult and youth playing a game
+  bottomsubhead: 'Y.U. Should Dive into an Internship! '
+  bottomhtext: >
+    Eager to make a difference in our city?
+    Want to use the skills you’ve gained
+    in college or university to serve youth
+    and families? Considering a career in
+    ministry? Then, Youth Unlimited’s
+    internship program is an exciting
+    opportunity for you!
+  _key: header-getinvolved
+  _uid: header-getinvolved_1676498958037_9360
+- 
+  image:
+    - >
+      image-text-alternate-2-cut-corners-yu-belong-here.png
+  alttext: ""
+  heading: Y.U. Belong Here
+  text: >
+    Our Internship Program equips and
+    supports emerging leaders and ministry
+    workers to reach their full personal and
+    vocational potential, released to serve
+    in the areas of their gifting. YU is an
+    incredible place to live out your faith,
+    grow in your leadership skills, explore
+    what God might be calling you to in your
+    career, and serve youth in your
+    community. We believe in our interns and
+    invest in their full potential through
+    intentional training, mentorship,
+    leadership development, spiritual
+    formation, and practical ministry
+    experience.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1681412566246_3618
+- 
+  texttopleft: '  '
+  textbottomleft: 'Spiritual Growth '
+  imageleft:
+    - circles-spiriutal-growth-1b.png
+  alttextleft: ""
+  texttopmid: ' '
+  textbottommid: Leadership Development
+  imagemid:
+    - becc-interns.png
+  alttextmid: ""
+  texttopright: ' '
+  textbottomright: Ministry Experience
+  imageright:
+    - circles-ministry-experience-3.png
+  alttextright: ""
+  _key: circles
+  _uid: circles_1677191985425_20457
+- 
+  image:
+    - image-text-alternate-2-cut-corners.png
+  alttext: ""
+  heading: What You Can Expect
+  text: 'It is our hope and intention that interns will be: 1) Equipped to minister out of a rootedness in Jesus; 2) Given practical group training, one-on-one coaching, supervision and shepherding, and relevant field ministry experience; 3) Trained to engage in community-based, trauma-informed, spiritually-grounded youth ministry; 4) Supported through the process of building ministry partner development teams, and 5) Shepherded as they seek a clearer understanding of God’s calling on their lives.'
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: image-text-alt_1702044633060_1867
+- 
+  heading: 'Preparing You for the Future '
+  text: |
+    The internship experience has been the cornerstone of my ministry at Youth Unlimited. It provided me with the necessary support and structure to develop skills and effectively carry out ministry work today.
+    *- Kirushanthan, DOXA Outreach Worker (Tyndale University graduate)*
+  image:
+    - text-on-image-desktop-kirushanthan.png
+  alttext: ""
+  imagemobile:
+    - text-on-image-mobile-kirushanthan.png
+  alttextmobile: ""
+  _key: text-on-image
+  _uid: text-on-image_1677704483298_6994
+- 
+  heading: 'Y.U. Should Dive In  '
+  text: '  '
+  buttontext: ' Email Melissa!'
+  button:
+    type: url
+    value: >
+      mailto:mwilliams@yugta.ca?subject=Inquiring
+      about internship
+  question1: 'How long is the internship program? '
+  answer1: 'The internship ranges from 6 months - 2 years, depending on the needs of the individual. As the internship experience draws to a close, interns enter into a discernment process to help better understand their calling and next steps. From there, interns may extend their internship, step into a role with Youth Unlimited, or pursue their career in another vocational context.'
+  question2: >
+    Is the internship program a paid
+    opportunity?
+  answer2: >
+    Interns may choose to take part in this
+    program unpaid, or choose to be paid
+    through support raising. Training and
+    support is provided during the
+    fundraising process by our internship
+    team.
+  question3: >
+    What experiences will I have throughout
+    the internship?
+  answer3: >
+    Through a thoughtfully designed
+    year-long program, interns participate
+    in bi-weekly workshops, peer support and
+    debrief sessions; gain exposure to a
+    variety of YU ministries; submit
+    assignments that make their training
+    relevant; and participate in regular
+    supervision, shepherding and coachings
+    sessions with YU ministry staff.
+  question4: Who can I contact to learn more?
+  answer4: 'Melissa, our Internship Director, would love to chat with you! Contact her at mwilliams@yugta.ca   '
+  _key: faq
+  _uid: faq_1676499494060_9254
+- 
+  image:
+    - melissa-bruce.png
+  alttext: ""
+  heading: 'Application Details '
+  text: >
+    If you are interested in exploring
+    ministry as a vocation, are actively
+    growing in your spiritual maturity, able
+    to commit a minimum of 7 hours each week
+    to the program, and are 18-30 years of
+    age (or a mature student), we encourage
+    you to apply! Internship cohorts kick
+    off in September, January and May of
+    each year. The application deadline is a
+    minimum of 2 months before a cohort
+    begins.
+  buttontext: 'Apply today '
+  button:
+    type: url
+    value: https://form.jotform.com/232703728524254
+  _key: image-text-alt
+  _uid: image-text-alt_1677196405762_4523

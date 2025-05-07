@@ -1,0 +1,56 @@
+Title: Carl Nash
+
+----
+
+Name: Carl Nash
+
+----
+
+Position: Ministry Director
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19467" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As Ministry Director, Carl serves YU team and program leaders by helping them maximize their effectiveness in order to fulfill our YU vision. This includes providing support for recruiting key personnel, strategic planning, creative implementation, program evaluation and pastoral care.
+
+----
+
+Image:
+
+- layer-54.png
+
+----
+
+Alttext: Carl Nash portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

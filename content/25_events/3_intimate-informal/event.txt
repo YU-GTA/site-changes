@@ -1,0 +1,62 @@
+Title: Intimate & Informal
+
+----
+
+Name: Intimate & Informal
+
+----
+
+Location: Zoom (Link to be shared after registering)
+
+----
+
+Button: Register Here
+
+----
+
+Link:
+
+type: url
+value: https://forms.gle/XWZS7NvBY54rMJ346
+
+----
+
+Body:
+
+As a friend of Youth Unlimited, we want to celebrate you and give you an opportunity to learn more about what's happening at YU!  
+
+**Join us at 7:30pm on June 7** for an intimate & informal online conversation with Scott Moore, our Executive Director, and Mel Kollar, YU’s Development Coordinator. It’s just an opportunity to connect, which Scott and Mel enjoy doing!
+ 
+They look forward to sharing how your partnership is changing young lives, sharing the vision of YU, and giving you an opportunity to ask any questions you might have about YU!
+
+----
+
+Date: 2021-05-20 09:00
+
+----
+
+Eventdate: 2021-06-07 19:30
+
+----
+
+Topimage:
+
+- intimate-informal-top-image.png
+
+----
+
+Alttext: Intimate & Informal logo
+
+----
+
+Bottomimage:
+
+- intimate-informal-bottom-image.png
+
+----
+
+Alttext2: Summer camp leader shaking hands with young girl
+
+----
+
+Tags: 

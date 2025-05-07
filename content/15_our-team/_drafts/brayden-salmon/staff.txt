@@ -1,0 +1,56 @@
+Title: Brayden Salmon
+
+----
+
+Name: Brayden Salmon
+
+----
+
+Position: Parkway Youth Pastor & DOXA Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="59461" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As part of the DOXA team, Brayden works in partnership with a local church focusing on mentorship and discipleship in one of Toronto’s high priority neighbourhoods in Scarborough.
+
+----
+
+Image:
+
+- layer-23.png
+
+----
+
+Alttext: Brayden Salmon portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: DOXA

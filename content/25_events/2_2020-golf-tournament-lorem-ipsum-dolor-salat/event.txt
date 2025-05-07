@@ -1,0 +1,107 @@
+Title: 2021 Golf Tournament: Tee It Up For Transformation
+
+----
+
+Name: 2021 Golf Tournament
+
+----
+
+Location: King’s Riding Golf Club
+
+----
+
+Button: Register Online   >
+
+----
+
+Link:
+
+type: url
+value: >
+  https://sites.google.com/yugta.ca/forwardforfuture
+
+----
+
+Body:
+
+**We are eager to see you for a safe and delightful 34th annual ‘Tee It Up For Transformation’ charity golf tournament in support of Youth Unlimited on Tuesday, June 15!**
+
+ **Registration Details:**
+
+- Cost: $400 for single golfer(s), $1600 for a foursome.
+- Sponsorship: See the registration page for sponsorship options (100% of funds go directly to the ministry of YU). 
+- We are doing a staggered start this year!
+
+Foursome hosts will be able to choose a one-hour window for their tee time.
+Single golfers will be accommodated as best as possible with their preferred tee time.
+
+- To minimize contact at the tournament, you can also directly support the work of YU at registration by:
+
+Purchasing your mulligans!
+Entering the putting contest!
+Making an early pledge for our annual Pitch & Pledge!
+
+ 
+
+**Tournament Details:**
+
+** Here are a few other important details for your safety and enjoyment:**
+
+- We will follow all COVID protocols as directed by ClubLink for a safe and enjoyable experience for all.
+- We will have a live digital leaderboard throughout the day!
+- We will send you home with a meal gift card for you and your family to enjoy dinner together after the tournament!
+- We will serve you a delicious meal on the course as arranged safely by ClubLink.
+- We will spread the fun of our usual “Pitch & Pledge” throughout the golf course for you to have a blast giving to this year’s impact cause.
+
+----
+
+Date: 2021-06-01 15:30
+
+----
+
+Eventdate: 2021-06-15 08:00
+
+----
+
+Topimage:
+
+- >
+  events-top-image-gt2021-date-change-june-15.png
+
+----
+
+Alttext: Golfers holding up signs with words Chip-in 4 Changed Lives
+
+----
+
+Bottomimage:
+
+- image2.png
+
+----
+
+Alttext2: Golfers on greens giving high give
+
+----
+
+Tags: Events
+
+----
+
+Topmage: - image2.png
+
+----
+
+Bottomimage2: - image1.png
+
+----
+
+Description:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fames mattis donec diam netus morbi varius mi. Orci nullam elit placerat metus neque a ac mauris. Eget turpis est sed gravida euismod ipsum hendrerit. Scelerisque magna aliquam dolor venenatis. Dui ut dictum facilisis cursus maecenas feugiat. Fusce tempor sed orci sed dui blandit. Et sodales mi, ac maecenas quam vel.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fames mattis donec diam netus morbi varius mi. Orci nullam elit placerat metus neque a ac mauris. Eget turpis est sed gravida euismod ipsum hendrerit. Scelerisque magna aliquam dolor venenatis. Dui ut dictum facilisis cursus maecenas feugiat. Fusce tempor sed orci sed dui blandit. Et sodales mi, ac maecenas quam vel.
+
+----
+
+Dateposted: 2021-01-16 04:40

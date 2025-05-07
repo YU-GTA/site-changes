@@ -1,0 +1,56 @@
+Title: Mark Dean
+
+----
+
+Name: Mark Dean
+
+----
+
+Position: Director of The Shop
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34215" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mark co-ordinates The Shop, a youth training centre that spreads the word of God through one-to-one mentorship. We mentor youth in life skills using the avenue of auto mechanics, small engine mechanics and carpentry. This program has lead to many youth hearing for the first time God’s story and how it relates to their current life situations.
+
+----
+
+Image:
+
+- headshot-mark-dean.png
+
+----
+
+Alttext: Mark Dean portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: The Shop

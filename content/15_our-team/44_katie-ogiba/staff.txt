@@ -1,0 +1,56 @@
+Title: Katie Ogiba
+
+----
+
+Name: Katie Ogiba
+
+----
+
+Position: Discipleship Coordinator
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="33849" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Katie is the Discipleship Coordinator for the Young Parents ministry. She loves Jesus, the Bible, and the Church and works to share them to young parents by offering faith mentorship, Bible study and connection to local churches. She believes in the transforming power of Jesus in the lives of young parents. Katie lives in Mississauga with her husband Greg, and three sons.
+
+----
+
+Image:
+
+- katie-ogiba.png
+
+----
+
+Alttext: Katie Ogiba portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

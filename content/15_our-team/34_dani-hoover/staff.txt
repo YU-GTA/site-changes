@@ -1,0 +1,63 @@
+Title: Dani Hoover
+
+----
+
+Name: Dani Hoover
+
+----
+
+Position: Reintegration Coordinator
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="27736" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Prison Fellowship Canada's (PFC) Bridgecare program mobilizes volunteer teams to walk alongside former prisoners with the goal of seeing them connected long-term to a local church for spiritual mentorship. The focus of this partnership will be on combining both PFC’s Bridgecare program and YU programs for post-incarcerated 18-25 year-old youth in the Toronto area.
+
+----
+
+Image:
+
+- 0000_launch-dani-hoover.png
+
+----
+
+Alttext: Dani Hoover portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: Frontiers
+
+----
+
+Link:
+
+type: page
+value: teams/launch

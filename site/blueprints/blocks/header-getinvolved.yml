@@ -1,0 +1,27 @@
+name: Header Get Involved
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true
+  backgroundimage:
+    label: Background Image
+    type: files
+    multiple: false
+    required: true
+  alttext:
+    label: Image Alt Text
+    type: text
+  bottomsubhead:
+    label: Bottom Subheading
+    type: text
+    required: true
+  bottomhtext:
+    label: Bottom Text
+    type: text
+    required: true

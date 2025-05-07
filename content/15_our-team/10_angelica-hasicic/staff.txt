@@ -1,0 +1,56 @@
+Title: Angelica Hasicic
+
+----
+
+Name: Angelica Hasicic
+
+----
+
+Position: Program Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="75251" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Angelica supports, encourages and shares the Gospel with parenting young women, ages 15-25, on their journey towards becoming transformative members of their community while having an identity rooted in Christ. She is a graduate of Guelph University and the University of Toronto with a Masters in Teaching. Angelica and her husband Neil are parents to Maximilian Joseph.
+
+----
+
+Image:
+
+- angelica-hasicic.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: -
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: young parents

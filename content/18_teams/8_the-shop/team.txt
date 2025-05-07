@@ -1,0 +1,121 @@
+Title: The Shop
+
+----
+
+Name: The Shop
+
+----
+
+Lefttext: “Transforming lives through relationship for eternity”. The Shop envisions a safe and orderly sanctuary where youth with life and learning barriers can experience God through relationships with loving mentors, recognize their value, then use their God given gifting to reach their potential and honour Him.
+
+----
+
+Righttext: The Shop provides support and training for teens with life barriers, giving them valuable technical experience and helping them gain employment.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit The Shop website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: http://vehicledonate.ca/
+
+----
+
+Headingone: The Shop Initiatives
+
+----
+
+Titleone: Marketplace Initiatives
+
+----
+
+Textone:
+
+**Shop Job Placement**
+
+Youth aged 15-25 are supported to find a job through resume building and job search support
+
+**Shop Job Skills Mentoring** 
+
+Youth aged 15-25 gain skills in basic automotive, small engines repair and other trades in our fully-equipped multi-trade mentoring and skills training center located in Newmarket
+
+**Shop Paid Work Experience**
+
+Youth aged 15-25 are provided with the opportunity to gain valuable work experience through our fully-equipped multi-trade mentoring and skills training center located in Newmarket
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Help Jump Start a Youth for Life!
+
+----
+
+Stats: Donate your car, truck, boat or RV by visiting our website online at (link: http://vehicledonate.ca/ text: www.vehicledonate.ca)  We’ll transfer the ownership into our name and mail you a tax receipt.  There is no cost, no fuss, and you will rest peaceful in the knowledge that your donation will change the life of a local youth!
+
+----
+
+Image:
+
+- the-shop.png
+
+----
+
+Alttext: Two young women working behind wooden frames in The Shop
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: The Shop

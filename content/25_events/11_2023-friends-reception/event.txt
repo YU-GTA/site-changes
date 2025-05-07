@@ -1,0 +1,90 @@
+Title: 2023 Friends Reception
+
+----
+
+Name: 2023 Friends Reception : Seeds to the Future
+
+----
+
+Location: Bayview Glen Church, Thornhill
+
+----
+
+Button: Register for Friends Reception
+
+----
+
+Link:
+
+type: url
+value: >
+  https://sites.google.com/yugta.ca/friendsreception2023?usp=sharing
+
+----
+
+Body:
+
+The Board of Directors and Staff Team at Youth Unlimited warmly invite you to join us for our biennial **Friends Reception**!
+
+# **Thursday, November 9, 2023**
+## **Doors open at 6:15 pm**
+
+**Dinner available at 6:30 pm**
+**Breakout Rooms begin at 7:15 pm**
+**Evening Program ends at 9:30 pm**
+
+**Bayview Glen Church 
+300 Steeles Ave. E,
+Thornhill, ON L3T 1A7
+Free parking **
+
+Enjoy a delicious light dinner provided by Encore Catering. Choose from an assortment of freshly-made bowls and refreshments as you reconnect with friends, new and old!
+
+##  **NEW!**
+## **Choose Your Breakout Room**
+
+**Evening Program**
+After our time in breakout rooms, we’ll gather in Bayview Glen’s sanctuary to:
+Experience compelling stories of transformation by youth
+Learn more about staff & program impact on young lives & neighbourhoods throughout the city 
+Be inspired by the unveiling of our new, four-year Gaining Ground strategy
+
+**Ticket cost: No charge. We've got you covered!**
+This is a fundraising event to support YU’s work in addressing the critical needs of young people, families, and communities throughout the GTA.
+
+**NEED TO LEARN MORE?**
+Reach out to Mel Kollar
+416-383-1229, ext. 7245
+mkollar@yugta.ca
+
+----
+
+Date: 2023-10-02 16:40
+
+----
+
+Eventdate: 2023-11-09 23:40
+
+----
+
+Bottomimage:
+
+- events-bottom-image-fr2023.jpg
+
+----
+
+Alttext2: Blank
+
+----
+
+Topimage:
+
+- events-top-image-fr2023.jpg
+
+----
+
+Alttext: Invitation
+
+----
+
+Tags: Friends Reception, Seeds to the Future

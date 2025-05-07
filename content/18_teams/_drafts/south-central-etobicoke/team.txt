@@ -1,0 +1,128 @@
+Title: South Etobicoke
+
+----
+
+Name: South Etobicoke
+
+----
+
+Lefttext: Youth will undergo spiritual and holistic development as we serve and journey with them and their families.
+
+----
+
+Righttext: Our South Etobicoke team comes alongside youth in our community. We look to offer wholistic care for youth through sports programs, leadership programs, a young moms program and camps. We highly value partnering with local churches in Etobicoke.
+
+----
+
+Donatelink:
+
+type: url
+value: >
+  https://www.canadahelps.org/en/dn/m/42099/donation
+text: Donate
+popup: true
+
+----
+
+Buttontext: Visit the SE website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: 'https://southcentraletobicoke.yugta.ca/ '
+
+----
+
+Headingone: South Etobicoke Initiatives
+
+----
+
+Titleone: Community Outreach
+
+----
+
+Textone:
+
+**Lakeshore Soccer Youth Program** 
+
+A fun, low-competitive, affordable and community-focused fall/winter soccer league in South Etobicoke for youth (ages 13-18)
+
+**Lakeshore Soccer League** 
+
+A fun, low-competitive, affordable and community-focused summer soccer league in South Etobicoke for kids aged 6-12
+
+----
+
+Titletwo: Leadership Developement
+
+----
+
+Texttwo:
+
+**Lakeshore LIT Leadership Training**
+
+Students ages 13-18 gain practical leadership experience in their communities through serving as Junior Coaches in the Lakeshore Soccer League kids program.
+
+----
+
+Titlethree: Trips & Camps & Events
+
+----
+
+Textthree:
+
+**Camp Widjitiwin Summer Program**
+
+A week-long summer camp experience for youth and families who are part of our South Etobicoke programs
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Join our Work in the Community of South Etobicoke!
+
+----
+
+Stats: Help us reach our goal of making our Summer Soccer League affordable for every child who wants to play this summer. We would love for you to financially partner with us and help make this transformative program a reality for the kids in our community!
+
+----
+
+Image:
+
+- sce.png
+
+----
+
+Alttext: Young boys in jerseys playing an outdoor soccer match
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: South-Central Etobicoke

@@ -1,0 +1,67 @@
+Title: Hue Francis
+
+----
+
+Name: Hue Francis
+
+----
+
+Position: Worship Arts Coordinator
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="36624" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As DOXA's Worship Arts Coordinator, Hue's ministry includes leading worship, graphic design and cinematography for DOXA and its various programs. Additionally, Hue is the Youth Worship Director at The People's Church, and is currently working on a Creative Arts Ministry for DOXA. Hue has served with DOXA since 2018.
+
+----
+
+Image:
+
+- layer-103.png
+
+----
+
+Alttext: Hue Francis portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: DOXA
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

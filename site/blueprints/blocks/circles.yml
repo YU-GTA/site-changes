@@ -1,0 +1,50 @@
+name: Circles
+fields:
+  Texttopleft:
+    label: Text Top Left
+    type: text
+    required: true
+  Textbottomleft:
+    label: Text Bottom Left
+    type: text
+    required: true
+  Imageleft:
+    label: Image Left
+    type: files
+    multiple: false
+    required: true
+  alttextleft:
+    label: Image Alt Text
+    type: text
+  Texttopmid:
+    label: Text Top Mid
+    type: text
+    required: true
+  Textbottommid:
+    label: Text Bottom Mid
+    type: text
+    required: true
+  Imagemid:
+    label: Image Mid
+    type: files
+    multiple: false
+    required: true
+  alttextmid:
+    label: Image Alt Text
+    type: text
+  Texttopright:
+    label: Text Top Right
+    type: text
+    required: true
+  Textbottomright:
+    label: Text Bottom Right
+    type: text
+    required: true
+  Imageright:
+    label: Image Right
+    type: files
+    multiple: false
+    required: true
+  alttextright:
+    label: Image Alt Text
+    type: text

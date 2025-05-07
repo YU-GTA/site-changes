@@ -1,0 +1,230 @@
+Title: About Us
+
+----
+
+Blocks:
+
+- 
+  heading: ' '
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628865214_2771
+- 
+  heading: About Us
+  backgroundimage:
+    - headerabbg.png
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/wJV0Az86JDo
+  text: "Learn about Youth Unlimited's vision, work, and impact across the Greater Toronto Area in this 4-minute video! We are all about transformed youth transforming our city."
+  _key: header-whatwedo
+  _uid: header-whatwedo_1650563249540_10881
+- 
+  image:
+    - our-vision-image.png
+  alttext: Youths playing with a parachute
+  heading: Our Vision
+  text: "That every young person in the GTA will be transformed by God's love and life-changing power and will be a redemptive presence in their family, community, and beyond."
+  buttontext: 'What We Do  ›'
+  button:
+    type: page
+    value: what-we-do
+  _key: image-text-alt
+  _uid: image-text-alt_1650567144400_21276
+- 
+  heading: Our Vision for Transformation
+  slide1heading: The "Canvas of Transformation"
+  slide1text: 'At YU, we imagine transformation as God at work as a compassionate artist, painting on the canvas of both lives and neighbourhoods over time. We envision the colour palette having YU’s 5 Transformative Colours, from which any combination of colours can be created. As we invest in youth wholeness in this context, we believe we will continue to see this ‘(link: https://sites.google.com/yugta.ca/yu-canvas-of-transformation/ text: **Canvas of Transformation**)’ come to life in young people, their families, and their neighbourhoods. This is transformed youth transforming our city.'
+  slide1topheading: ' '
+  slide1toptext: ' '
+  slide1bottomheading: ' '
+  slide1bottomtext: ' '
+  slide1image:
+    - canvas-of-transformation.jpg
+  alttext1: Multicoloured abstract mosaic
+  slide2heading: 'Colour #1: Rooted Identity'
+  slide2text: |
+    ***Engaging Life with Jesus***
+    
+    As young people grow in their journey of faith, the roots of their identity grow down deeply into a firm foundation. We envision young people finding contentment, building a healthy self-image, depending on God, and finding forgiveness, freedom, and healing.
+  slide2topheading: ' '
+  slide2toptext: ' '
+  slide2bottomheading: ' '
+  slide2bottomtext: ' '
+  slide2image:
+    - rooted-identity.jpg
+  alttext2: >
+    Green icon with drawing of a tree and
+    sun
+  slide3heading: 'Colour #2: Renewed Character'
+  slide3text: |
+    ***Growing in Virtue***
+    
+    In an increasingly connected world, we know character matters more than ever. Just like fruit in an orchard, God grows in our young people virtues such as love, joy, peace, patience, kindness, humility, goodness, and gentleness. Young people with these virtues can truly change our world.
+  slide3topheading: ' '
+  slide3toptext: ' '
+  slide3bottomheading: ' '
+  slide3bottomtext: ' '
+  slide3image:
+    - renewed-character.jpg
+  alttext3: >
+    Purple icon with drawing of a cluster of
+    grapes
+  slide4heading: 'Colour #3: Healthy Relationships'
+  slide4text: |
+    ***Seeking Reconciliation & Vibrant Community***
+    
+    We believe God is at work restoring and building every relationship in our lives. We aim to see young people act as bridge builders and participate in communities that nurture belonging, faith, and sacrificial love.
+  slide4topheading: ' '
+  slide4toptext: ' '
+  slide4bottomheading: ' '
+  slide4bottomtext: ' '
+  slide4image:
+    - healthy-relationships.jpg
+  alttext4: >
+    Red icon with drawing of a group of
+    people
+  slide5heading: 'Colour #4: Joyful Service'
+  slide5text: |
+    ***Putting Others First***
+    
+    We rejoice in seeing young people serve others, putting the needs of others before themselves. A mop and bucket symbolizes the humble acts of kindness we aim to nurture in our youth throughout the city. We believe our young people will discover lasting joy through a life of service for others.
+  slide5topheading: ' '
+  slide5toptext: ' '
+  slide5bottomheading: ' '
+  slide5bottomtext: ' '
+  slide5image:
+    - jofyful-service.jpg
+  alttext5: >
+    Yellow icon with drawing of a mop and
+    bucket
+  slide6heading: 'Colour #5: Clear Purpose'
+  slide6text: |
+    ***Discovering & Utilizing Gifts & Abilities***
+    
+    We believe every one of us has been given specific gifts, skills, and passions through which we find confidence and purpose. When young people find their 'sweet spot', it renews a sense of hope and direction, and everyone around them benefits.
+  slide6topheading: ' '
+  slide6toptext: ' '
+  slide6bottomheading: ' '
+  slide6bottomtext: ' '
+  slide6image:
+    - clear-purpose.jpg
+  alttext6: >
+    Blue icon with drawing of an arrow in an
+    archery target
+  _key: six-slides
+  _uid: six-slides_1614182623517_12066
+- 
+  heading: Our History
+  text: 'Youth Unlimited (originally Youth For Christ) was launched in 1944. Inspired by YFC rallies in Chicago, our roots in Toronto began with hosting large youth rallies at Massey Hall. These became some of the largest youth gatherings in the world at the time. Since then, YU’s entrepreneurial spirit has led us through a series of strategic shifts that clearly exemplifies our motto:  “Anchored to the Rock but geared to the times.”  Over the past 75 years our approach has developed to include weekly community clubs, proactive outreach programs, and neighbourhood-focused church partnerships.'
+  image:
+    - text-on-image-desktop.png
+  alttext: >
+    Black and white photo of stadium filled
+    with young people
+  imagemobile:
+    - text-on-image-mobile.png
+  alttextmobile: >
+    Black and white photo of stadium filled
+    with young people
+  _key: text-on-image
+  buttontext: null
+  button:
+    type: page
+  _uid: text-on-image_1605733390196_2795
+- 
+  heading: Unique Programs for Unique Needs
+  text: >
+    Every demographic and community of young
+    people has specific and unique needs
+    that we seek to address. We always
+    commit to contextualizing the hope we
+    find in Jesus to foster the wholistic
+    transformation of the youth we serve
+    through our six program categories.
+  lefttoptext: Community Outreach
+  leftmidtext: Critical Care
+  leftbottomtext: Innovative Centres
+  righttoptext: Leadership Development
+  rightmidtext: Marketplace Initiatives
+  rightbottomtext: 'Trips, Camps & Events'
+  _key: six-tab
+  _uid: six-tab_1614117216789_1154
+- 
+  heading: Gaining Ground Strategy
+  text: "We believe God is inviting us to 'gain ground' from 2023-2027: to build on the work to which He has already called us, so we can address more of the needs of our precious youth. Our strategy is guided by five commitments."
+  buttontext: 'Learn More  ›'
+  button:
+    type: page
+    value: our-strategy
+  image:
+    - hero-branded.png
+  alttext: Group of youth giving high-five.
+  _key: text-image
+  _uid: text-image_1605729589122_1419
+- 
+  heading: What If...
+  text: 'This is the big picture of what we believe God is inviting all of us into through our Graining Ground strategy from 2023 to 2027.  Watch a compelling video showcasing our staff as they envision all that could be for our program, young people and city over the next four years.'
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/qllqYttHirA
+    popup: true
+  caption: ""
+  _key: video
+  _uid: video_1708642197402_10414
+- 
+  image:
+    - web-land-acknowledgement.png
+  alttext: >
+    Multimedia abstract artwork with blue
+    and yellow and green depicting nature
+    and sunrise
+  heading: >
+    As one small step on the path towards
+    reconciliation
+  text: >
+    Youth Unlimited acknowledges that the
+    land here upon which we work is the
+    traditional territory of many nations...
+  buttontext: Read our Land Acknowledgement
+  button:
+    type: page
+    value: land-acknowledgement
+  _key: image-text-alt
+  _uid: image-text-alt_1671208423207_7896
+- 
+  heading: Part of a National Movement
+  text: >
+    YFC Toronto is a chartered member of
+    Youth for Christ Canada, an
+    international, non-denominational
+    Christian ministry who, for over 75
+    years, has passionately engaged young
+    people to live their full life potential
+    as designed by God. Motivated by our
+    faith, we believe that transformed youth
+    have the opportunity to transform
+    communities, our country, and the world.
+    We engage and equip youth to know and
+    follow Jesus.
+  buttontext: 'About YFC Canada  ›'
+  button:
+    type: url
+    value: https://yfc.ca/
+  image:
+    - yfc-national-map.jpg
+  alttext: >
+    Map of Canada with red YFC location
+    markers
+  _key: text-image-alt
+  _uid: text-image-alt_1620672452474_2520
+- 
+  heading: View our latest Impact Report
+  buttontext: 'Download Now  ›'
+  button:
+    type: url
+    value: >
+      https://yugta.ca/media/pages/publications/impact-report-2024-preparing-to-launch/2077378039-1733494292/yu-impact-report-2024-web.pdf
+  _key: footer-aboutus
+  _uid: footer-aboutus_1605733398136_3513

@@ -1,0 +1,14 @@
+name: Footer About Us
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+    required: true
+  button:
+    label: Button
+    type: link
+    required: true

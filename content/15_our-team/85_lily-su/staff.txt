@@ -1,0 +1,56 @@
+Title: Lily Su
+
+----
+
+Name: Lily Su
+
+----
+
+Position: Rahab Support Worker
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="101771" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Lily became a Rahab Support Worker in April 2025. Filled with joy by the Holy Spirit, she prays her testimony brings hope and comfort to sex workers. She longs to be a light in the darkness, walking with them in love and encouragement, praying they’ll one day step into a new life beyond their struggles.
+
+----
+
+Image:
+
+- lily-su.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: Rahab

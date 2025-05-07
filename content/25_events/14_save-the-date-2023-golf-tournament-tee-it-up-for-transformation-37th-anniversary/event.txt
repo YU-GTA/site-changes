@@ -1,0 +1,70 @@
+Title: Save the Date! Tee It Up For Transformation 2024 Golf Tournament
+
+----
+
+Name: Save the Date - Tee It Up For Transformation!
+
+----
+
+Location: Wyndance Golf Club
+
+----
+
+Button: Register
+
+----
+
+Link:
+
+type: url
+value: https://form.jotform.com/230444039590252
+
+----
+
+Body:
+
+## **Save The Date**
+
+**Wednesday, May 15, 2024**
+
+Youth Unlimited's Board of Directors & Golf Committee can't wait to see you at our 37th annual 
+Tee It Up For Transformation charity golf tournament. 
+
+This year, we will be hosted by **Wyndance Golf Club in Uxbridge**.
+
+Shotgun start is at 10am. 
+Lunch, dinner and our well liked YU socks are included!
+
+----
+
+Date: 2024-02-15 20:55
+
+----
+
+Eventdate: 2024-05-15 22:00
+
+----
+
+Bottomimage:
+
+- >
+  events-top-image-gt2024-save-the-date.png
+
+----
+
+Alttext2: Golfers putting and golfers in golf cart
+
+----
+
+Topimage:
+
+- >
+  events-bottom-image-gt2024-save-the-date.png
+
+----
+
+Alttext: Golfers holding out clubs
+
+----
+
+Tags: Golf Tournament, Pitch and Pledge, youth and their families, Tee It Up For Transformation

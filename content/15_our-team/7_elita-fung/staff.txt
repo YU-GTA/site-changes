@@ -1,0 +1,56 @@
+Title: Elita Fung
+
+----
+
+Name: Elita Fung
+
+----
+
+Position: Internship Associate Director
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="45503" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As an Internship Associate Director, Elita’s role is to help the interns at YU minister out of wholeness and rootedness in Christ. She desires to see each individual intern supported, equipped, and tuned in to the Father’s love so that they can in turn, minister out of the fullness of His grace and the giftings and passions He’s given them.
+
+----
+
+Image:
+
+- elita-fung.png
+
+----
+
+Alttext: Elita Fung portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services, Intern Cohort

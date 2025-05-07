@@ -1,0 +1,56 @@
+Title: Carmine Ferrone
+
+----
+
+Name: Carmine Ferrone
+
+----
+
+Position: Director of Advancement
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19464" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As Director of Advancement (DofA), Carmine serves Youth Unlimited (Toronto YFC) as the staff-lead and facilitator for enhancing sustainable funding for YU’s personnel and ministries through the research, design, planning, piloting and evaluation of new fundraising strategies/tools and by equipping each personnel to effectively utilize these strategies/tools. At the same time, he teaches and exemplifies a Christ-centred, biblically informed Spirituality of Fundraising.
+
+----
+
+Image:
+
+- layer-55.png
+
+----
+
+Alttext: Carmine Ferrone portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

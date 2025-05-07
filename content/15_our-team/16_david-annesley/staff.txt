@@ -1,0 +1,56 @@
+Title: David Annesley
+
+----
+
+Name: David Annesley
+
+----
+
+Position: New2YU Coordinator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34185" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: David seeks to use his ministry and leadership experience to bring support to each YU ministry team by overseeing the incoming/hiring process for new frontline missionaries. David has a real heart and passion to walk alongside and shepherd staff, by providing guidance, training and coaching as they get established in their ministries.
+
+----
+
+Image:
+
+- layer-56.png
+
+----
+
+Alttext: David Annesley portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

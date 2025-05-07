@@ -1,0 +1,27 @@
+id,aggregation_level,fill,opacity,outline,area,team_ids,initiative_ids,community_outreach,critical_care,innovative_centres,leadership_development,marketplace,trips_camps_events
+"Ajax, Whitby, Oshawa",2,#22baff,1,"rgba(0,0,0,0)",,young_parents,,,1,,,,
+Birchmount,4,#f5bc03,1,"rgba(0,0,0,0)",,doxa,,1,,,,,
+Brampton,2,#24b8ff,1,"rgba(0,0,0,0)",,"frontiers,young_parents",brampton_young_moms,,1,,,1,
+Bridletowne,4,#f5bc03,1,"rgba(0,0,0,0)",,frontiers,,2,,,,,
+Bridletowne East,4,#cc9c00,1,"rgba(0,0,0,0)",,doxa,,1,,,,,
+Central Etobicoke,3,#f5bc03,1,"rgba(0,0,0,0)",,south_central_etobicoke,,,,1,,,1
+City of Toronto,2,#ffbdce,1,"rgba(0,0,0,0)",,"rahab,young_parents",young_dads,,2,,,,
+Don Valley,3,#ff9cb7,1,"rgba(0,0,0,0)",,frontiers,hubsters,1,,,,,
+Downtown Toronto,4,#e3599c,1,"rgba(0,0,0,0)",,light_patrol,,,3,,,,
+Etobicoke,2,"hsl(46, 100%, 60%)",1,"rgba(0,0,0,0)",,"south_central_etobicoke,young_parents",,,1,,1,,
+Greater Toronto Area,1,#68d5ff,1,"rgba(0,0,0,0)",Greater Toronto Area,"doxa,frontiers,jane_finch,launch,rahab",,,5,,9,1,1
+Jane-Finch,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,1,,,,,
+Jane-Finch Central,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,1,,,,,
+Jane-Finch East,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,1,,,,,
+Jane-Finch North,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,3,,1,,,1
+Jane-Finch Rexdale,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,1,,,,,
+Jane-Finch West,5,#0cbab4,1,"rgba(0,0,0,0)",,jane_finch,,1,,,,,
+McCowan,4,#f5bc03,1,"rgba(0,0,0,0)",,doxa,,1,,,,,
+Newmarket,3,#87d430,1,"rgba(0,0,0,0)",,shop,,,,,,1,
+Old Toronto,3,#ff9cb7,1,"rgba(0,0,0,0)",,young_parents,,,1,,,,
+Oshawa,3,#04aeff,1,"rgba(0,0,0,0)",,frontiers,,1,,,,,
+Scarborough,3,#ffcf34,1,"rgba(0,0,0,0)",,"doxa,young_parents",,2,1,,1,,2
+South Central Etobicoke,3,#e0ac02,1,"rgba(0,0,0,0)",,south_central_etobicoke,,,,,,,1
+South Etobicoke,3,#cc9c00,1,"rgba(0,0,0,0)",,south_central_etobicoke,,2,,,1,,1
+Wexford,4,#cc9c00,1,"rgba(0,0,0,0)",,doxa,,1,,,,,
+York Region,2,#bdf925,1,"rgba(0,0,0,0)",,shop,,,,,,2,

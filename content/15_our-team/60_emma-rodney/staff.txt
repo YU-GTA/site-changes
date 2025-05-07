@@ -1,0 +1,67 @@
+Title: Emma Rodney
+
+----
+
+Name: Emma Rodney
+
+----
+
+Position: DOXA Ministry Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="52691" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Emma has a passion for walking with youth and supporting them in their holistic wellness and healing. Within DOXA, she assists with DOXA Journeys and REMIX planning. She is also currently completing her education to be a psychotherapist so that she can better assist youth with their mental health needs and challenges.
+
+----
+
+Image:
+
+- layer-7.png
+
+----
+
+Alttext: Emma Rodney portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

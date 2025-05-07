@@ -1,0 +1,56 @@
+Title: Michael Morrison
+
+----
+
+Name: Michael Morrison
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="57681" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Michael serves church and community youth in Scarborough. He has a passion to see young people thrive and excel both personally and academically. His focus is supporting and mentoring youth through the DOXA ministry throughout Scarborough.
+
+----
+
+Image:
+
+- michael-morrison.png
+
+----
+
+Alttext: Michael Morrison portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

@@ -1,0 +1,56 @@
+Title: Erin Hounsome
+
+----
+
+Name: Erin Hounsome
+
+----
+
+Position: The Shop Youth Worker
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="70234" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Erin is a Youth Worker who helps vulnerable youth by providing job training, wholistic support, and assisting with crisis care. She also carries out overseeing the office administration, including training and mentoring new interns. Erin is passionate about hearing youth stories and pointing them to God's hopeful presence in their lives.
+
+----
+
+Image:
+
+- erin-hounsome.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://facebook.com
+
+----
+
+Tags: the shop, intern

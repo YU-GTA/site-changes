@@ -1,0 +1,117 @@
+Title: Young Parents
+
+----
+
+Name: Young Parents
+
+----
+
+Lefttext: Bringing help and hope to young parents in the GTA so that they will become a transforming and redemptive presence in their homes and communities.
+
+----
+
+Righttext: We offer group meetings and 1:1 mentorship to pregnant youth, and parenting young mothers and fathers (ages 15-25).
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit the Young Parents Website  >
+
+----
+
+Learnlink:
+
+type: url
+value: https://youngparents.ca/
+
+----
+
+Headingone: Young Parent Initiatives
+
+----
+
+Titleone: Critical Care
+
+----
+
+Textone:
+
+**Young Moms Group** 
+
+Offering help and hope to pregnant and parenting youth (ages 15-25) through weekly support groups, life skills classes, family nights, one-to-one mentoring, guest speaker workshops, and parenting supports. We have young moms group that meet across the GTA (online during COVID) including: Brampton, Etobicoke, Toronto, Scarborough, and Durham.
+
+**Young Dads Group** 
+
+Offering help and hope to young fathers (ages 15-25) in the GTA through weekly support groups, life skills classes, family nights, one-to-one mentoring, guest speaker workshops, and parenting supports
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Help us Bring Hope to Young Parents
+
+----
+
+Stats: We're always looking for people to partner with us as we serve pregnant and parenting youth. Sign up for regular updates, financially support one of our Ministry Workers, be in prayer for our team and young parents, or volunteer at one of our sites in the GTA.
+
+----
+
+Image:
+
+- yp-v2.png
+
+----
+
+Alttext: Three young moms and their kids
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Young Parents

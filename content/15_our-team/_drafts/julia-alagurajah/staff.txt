@@ -1,0 +1,56 @@
+Title: Julia Alagurajah
+
+----
+
+Name: Julia Alagurajah
+
+----
+
+Position: Youth Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="81907" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Hi, my name is Julia Alagurajah and this summer I will be a part of the South-Central Etobicoke team and the Project Serve team. I will be helping out with camp, soccer program, leadership training and assisting with various ministries across the chapter. I am so excited to be serving alongside such an amazing ministry this summer and I can’t wait to see what God will do!
+
+----
+
+Image:
+
+- julia-alagurajah.png
+
+----
+
+Alttext: Headshot of Julia
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: Intern

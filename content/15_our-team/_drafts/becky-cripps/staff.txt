@@ -1,0 +1,56 @@
+Title: Becky Cripps
+
+----
+
+Name: Becky Cripps
+
+----
+
+Position: Director of South-Central Etobicoke
+
+----
+
+Team: South-Central Etobicoke
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34214" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Becky’s role is to serve as South-Central Etobicoke Director. She oversees a team of staff and volunteers who are using their strengths and gifts to invest in youth in their communities. Becky sees the value in investing in youth by sharing God’s love with them and has been doing this for over 20 years. Her experience working with youth has ranged from camp work, employment in group homes, youth drop-in centers, and serving homeless and street-involved youth through mentorship and mobile outreaches. In 2012 Becky graduated from Seneca College with a Social Service Worker diploma, and shortly afterwards took her first position with Youth Unlimited in the Light Patrol program.
+
+----
+
+Image:
+
+- layer-34.png
+
+----
+
+Alttext: Becky Cripps portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: South-Central Etobicoke

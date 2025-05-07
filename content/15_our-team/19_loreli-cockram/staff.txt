@@ -1,0 +1,56 @@
+Title: Loreli Cockram
+
+----
+
+Name: Loreli Cockram
+
+----
+
+Position: Director of Young Parents
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="30285" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Loreli is passionate about helping people grow. She loves drawing out the God-given abilities and gifts in others, building community, and paying attention to God's hopeful presence and activity in the world. In her role, Loreli develops a ministry that welcomes and supports pregnant and parenting youth and their children, who are especially dear to the heart of God.
+
+----
+
+Image:
+
+- layer-40.png
+
+----
+
+Alttext: Loreli Cockram portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

@@ -1,0 +1,6 @@
+name: Banner
+fields:
+  banner:
+    label: Banner
+    type: text
+    buttons: false

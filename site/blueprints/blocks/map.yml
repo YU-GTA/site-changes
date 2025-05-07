@@ -1,0 +1,9 @@
+name: Map
+fields:
+  heading:
+    label: Heading
+    type: text
+    buttons: false
+  text:
+    label: Text
+    type: text

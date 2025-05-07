@@ -1,0 +1,56 @@
+Title: Jennifer Khan
+
+----
+
+Name: Jennifer Khan
+
+----
+
+Position: Assistant to the Ministry Director
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34454" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Jennifer's role involves supporting YU's ministry leaders and staff in both practical and intangible ways! She coordinates scheduling and logistics, supports team leaders and field staff in reporting and metrics, compiles and analyzes ministry reports, and assists with special projects and the development of new ministry partnerships.
+
+----
+
+Image:
+
+- layer-69.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

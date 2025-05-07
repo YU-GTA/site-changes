@@ -1,0 +1,56 @@
+Title: Mark Evans
+
+----
+
+Name: Mark Evans
+
+----
+
+Position: Frontiers Team Leader & BlessUp Coordinator
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34221" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Youth Unlimited’s Frontiers Team is a group of talented and passionate program leaders and frontline staff, dedicated to making a positive impact in the lives of the GTA’s youth. This team is comprised of very diverse ministries located throughout the GTA. As Team Leader, Mark provides oversight and supervision – including strategic support, guidance and pastoral care.
+
+----
+
+Image:
+
+- layer-75.png
+
+----
+
+Alttext: Mark Evans portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers

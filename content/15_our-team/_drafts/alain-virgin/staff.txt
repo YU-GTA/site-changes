@@ -1,0 +1,67 @@
+Title: Alain Virgin
+
+----
+
+Name: Alain Virgin
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34476" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Alain has been part of the DOXA team since 2009. In partnership with St. Andrew’s church, he serves church and community youth in Scarborough. Alain has a lifelong passion for serving youth in Toronto; serving Jesus through various outreach and discipleship ministries since he was 11 years old.
+
+----
+
+Image:
+
+- layer-1.png
+
+----
+
+Alttext: Alain Virgin portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA
+
+----
+
+Link:
+
+type: page
+value: home
+
+----
+
+Date: 2021-01-16 21:50

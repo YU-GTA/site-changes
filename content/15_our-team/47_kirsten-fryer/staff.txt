@@ -1,0 +1,56 @@
+Title: Kirsten Fryer
+
+----
+
+Name: Kirsten Fryer
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="93967" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Kirsten has a passion for building relationships with youth. She loves helping young people in this period of life and showing them Jesus’ love through her actions and words. Having been part of DOXA herself, she knows the impact that YU can have on young people.
+
+----
+
+Image:
+
+- headshot-kirsten-fryer.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: intern

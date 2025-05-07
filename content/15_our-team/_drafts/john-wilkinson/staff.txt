@@ -1,0 +1,56 @@
+Title: John Wilkinson
+
+----
+
+Name: John Wilkinson
+
+----
+
+Position: Executive Coach & Strategist
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19470" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: John is the Executive Coach and Strategist for Youth Unlimited here in Toronto as well as Youth for Christ Canada – Eastern Region. He is a key resource for Scott Moore and the YU Board as well as being the Shepherd for the Central Services Team. In addition, he works with the local YFC Chapter Boards and EDs across Canada guiding them in their succession planning and in the coaching/training/resourcing of the new Executive Directors.
+
+----
+
+Image:
+
+- layer-59.png
+
+----
+
+Alttext: John Wilkinson portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

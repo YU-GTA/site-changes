@@ -1,0 +1,56 @@
+Title: Nicole Cho
+
+----
+
+Name: Nicole Cho
+
+----
+
+Position: Outreach Worker and Oversight Team
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="36625" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Nicole's love for art and youth in need has led her to become an outreach worker, alongside her administrative role with Light Patrol. She believes that God has instilled creativity in everyone, including street youth. Through art, she is passionate to see youth unlock their creative abilities, as they also build their self-esteem and worth as image-bearers of God.
+
+----
+
+Image:
+
+- layer-28.png
+
+----
+
+Alttext: Nicole Cho portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

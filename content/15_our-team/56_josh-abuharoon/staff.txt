@@ -1,0 +1,56 @@
+Title: Josh Abuharoon
+
+----
+
+Name: Josh Abuharoon
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="98655" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Josh is thankful to bring his passion for marginalized youth to the Light Patrol team and share God's love with those experiencing homelessness. Through his interests in mental health, addiction support, and compassionate care, he aims to walk with youth through challenging times and ultimately lead them to the loving arms of Christ.
+
+----
+
+Image:
+
+- josh-abuharoon.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: Light Patrol

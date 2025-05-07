@@ -1,0 +1,6 @@
+name: Header Our Team
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true

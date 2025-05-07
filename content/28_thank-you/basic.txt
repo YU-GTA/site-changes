@@ -1,0 +1,26 @@
+Title: Thank You
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-donate
+  isnew: true
+  _uid: navbar-donate_1671470270077_2185
+- 
+  heading: Your donation has been received.
+  text: '#Thank you for supporting the ongoing work of Youth Unlimited towards seeing *transformed youth transforming our city and beyond*!'
+  image:
+    - jf-seeds-of-hope-desktop.png
+  alttext: >
+    Joyful Seeds of Hope Camp kids reaching
+    for bubbles
+  imagemobile:
+    - jf-seeds-of-hope-mobile.png
+  alttextmobile: >
+    Joyful Seeds of Hope Camp kids reaching
+    for bubbles
+  _key: text-on-image
+  _uid: text-on-image_1671467571101_1167

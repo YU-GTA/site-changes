@@ -1,0 +1,52 @@
+name: Header Home
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  text:
+    label: Text
+    type: text
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+    required: true
+  button:
+    label: Button
+    type: link
+    required: true
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true
+  alttext:
+    label: Image Alt Text
+    type: text
+  backgroundimage:
+    label: Background Image
+    type: files
+    multiple: false
+    required: true
+  bottomsubhead:
+    label: Bottom Subheading
+    type: text
+    required: true
+  bottomheading:
+    label: Bottom Heading
+    type: text
+    required: true
+  bottomtext:
+    label: Bottom Text
+    type: text
+    required: true
+  mbuttontext:
+    label: Mobile Button Text
+    type: text
+    required: true
+  mbutton:
+    label: Mobile Button
+    type: link
+    required: true
+  

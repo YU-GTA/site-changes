@@ -1,0 +1,56 @@
+Title: Karen Bast
+
+----
+
+Name: Karen Bast
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="45507" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: From Drop-Ins to Campus Life to StreetLevel ministries, Karen has loved being part of the YU family since 2005. Driving her passion to work with Light Patrol is our call to GO to places otherwise ignored or forgotten, pointing people in the direction of healing and spiritual wholeness available only through the work of Jesus Christ.
+
+----
+
+Image:
+
+- layer-25.png
+
+----
+
+Alttext: Karen Bast portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

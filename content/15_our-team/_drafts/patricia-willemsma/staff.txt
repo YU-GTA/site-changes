@@ -1,0 +1,56 @@
+Title: Patricia Willemsma
+
+----
+
+Name: Patricia Rose
+
+----
+
+Position: Ministry Assistant
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34477" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Patricia provides leadership oversight to DOXA Journeys' yearly summer outreach trip to Serpent River First Nation. She also assists with youth gatherings, the winter retreat, and Remix, a week long mission experience in Toronto. Patricia is a youth leader at Wesley Chapel, where she creates opportunities for youth to learn more about themselves, each other, and Jesus.
+
+----
+
+Image:
+
+- patricia-rose.png
+
+----
+
+Alttext: Patricia Willemsma portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

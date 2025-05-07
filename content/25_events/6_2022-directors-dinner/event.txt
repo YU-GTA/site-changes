@@ -1,0 +1,86 @@
+Title: 2022 Directors Dinner
+
+----
+
+Name: 2022 Directors Dinner
+
+----
+
+Location: Bellagio Boutique Event Venue
+
+----
+
+Button: Register today
+
+----
+
+Link:
+
+type: url
+value: >
+  mailto:smoore@yugta.ca?subject=Please
+  register me for the Directors Dinner
+
+----
+
+Body:
+
+### **Youth Unlimited's Board of Directors and Executive Director, Scott Moore, invite you to join us at our Directors Dinner**.
+
+**THURSDAY, NOVEMBER 3, 2022**
+**Reception** — 6pm
+**Dinner & Program** — 6:30 to 9pm
+
+**Our evening together will feature:**
+- Inspiring stories of young people discovering their purpose-filled life
+- Update on our Making Space strategy and vision for the next four years
+- Staff & program impact on our youth & neighbourhoods across the GTA
+- Live music performed by Covenant Award winningfolk artist, Kyle Church
+
+**LOCATION**
+**Bellagio Boutique Event Venue**
+8540 Jane St, Concord
+(Hwy 400 & Langstaff)
+
+**RSVP / INFO**
+Email Scott Moore at (link: mailto:smoore@yugta.ca?subject=I would love to attend YU's Directors Dinner! text: smoore@yugta.ca)
+
+**ADMISSION
+$90 per person**
+Free parking onsite
+Business Casual
+
+**This is a fundraising event to support YU's work in addressing the critical needs of young people, families and communities throughout the GTA. **
+
+----
+
+Date: 2022-09-19 09:10
+
+----
+
+Eventdate: 2022-11-03 13:10
+
+----
+
+Topimage:
+
+- >
+  22-08-18-yu-dd22-abundant-life-invite-print-v2-02front-open.png
+
+----
+
+Alttext: Invitation with colourful graphic trees
+
+----
+
+Bottomimage:
+
+- events-bottom-image-1.png
+
+----
+
+Alttext2: Colourful graphic trees
+
+----
+
+Tags: Directors Dinner 2022

@@ -1,0 +1,59 @@
+Title: Fiona Lee
+
+----
+
+Name: Fiona Lee
+
+----
+
+Position: Associate Director
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="73162" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description:
+
+Fiona is dedicated to serving and evangelizing to the marginalized and broken; especially young women, youth, and their families, who have been impacted by the sex trade. She also offers her social services experience to help the Rahab ministry’s development. 
+Fiona is on a study leave, but encourages donors to support the Rahab Ministry program fund in her absence.
+
+----
+
+Image:
+
+- layer-31.png
+
+----
+
+Alttext: Fiona Lee portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab

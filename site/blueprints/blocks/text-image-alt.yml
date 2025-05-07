@@ -1,0 +1,24 @@
+name: Text and Image Alternate
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  text:
+    label: Text
+    type: text
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+  button:
+    label: Button
+    type: link
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true
+  alttext:
+    label: Image Alt Text
+    type: text

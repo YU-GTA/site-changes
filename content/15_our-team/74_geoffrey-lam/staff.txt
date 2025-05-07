@@ -1,0 +1,59 @@
+Title: Geoffrey Lam
+
+----
+
+Name: Geoffrey Lam
+
+----
+
+Position: Doxa Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="121360" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Geoffrey has combined his love of God and sports to begin to develop “All Aboard ministries”. This program is about connecting young people to Christ as individuals and the community through skateboarding and other ‘board’ sports such as snowboarding, skiing, stand-up paddle boarding, and board games - all in a positive, welcoming environment open to all skill levels.
+
+----
+
+Image:
+
+- geeoffrey-lam.png
+
+----
+
+Alttext: Headshot of Geoffrey
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: DOXA, All aboard

@@ -1,0 +1,109 @@
+Title: Intern Cohort
+
+----
+
+Name: Intern Cohort
+
+----
+
+Lefttext: Equipping and supporting young leaders and ministry workers to reach their full personal and vocational potential, released to serve in the areas of their gifting.
+
+----
+
+Righttext: We invite young leaders to grow as ministry workers through mentoring, whole person development, training, and hands on experience. If this sounds like something you're interested in, contact (email: mwilliams@yugta.ca text: Melissa Williams).
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Learn More
+
+----
+
+Learnlink:
+
+type: page
+value: internship-program
+
+----
+
+Headingone: Ways Interns Are Supported
+
+----
+
+Titleone: Training
+
+----
+
+Textone: Interns are provided training opportunities twice a month. Topics include spiritual growth, practical ministry equipping and leadership development.
+
+----
+
+Titletwo: Supervision
+
+----
+
+Texttwo: Under the guidance of YU's seasoned staff, interns are mentored and coached through their ministry work.
+
+----
+
+Titlethree: Ministry Experience
+
+----
+
+Textthree: Interns are offered hands on ministry within YU's diverse programs throughout the GTA.
+
+----
+
+Titlefour: Wholistic Personal Development
+
+----
+
+Textfour: Interns are given spiritual and whole person care under the direction of the Intern staff.
+
+----
+
+Titlefive: Peer Support
+
+----
+
+Textfive: Twice a month, interns meet together to share their experiences and provide peer support under the guidance of the Internship staff.
+
+----
+
+Titlesix: Ministry Partner Development
+
+----
+
+Textsix: Interns are guided through the process of developing their support teams and ministry partners.
+
+----
+
+Headingtwo: Invest in Young Leaders
+
+----
+
+Stats: Invest in the growth of our interns through individual donations or a contribution to the Seumas Doherty Internship Fund.
+
+----
+
+Image:
+
+- layer-2.png
+
+----
+
+Alttext: Zoom call screenshot of four people in an intern meeting
+
+----
+
+Footer: Donate to the Internship Fund today!
+
+----
+
+Tags: Intern Cohort

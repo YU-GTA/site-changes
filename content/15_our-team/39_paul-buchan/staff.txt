@@ -1,0 +1,56 @@
+Title: Paul Buchan
+
+----
+
+Name: Paul Buchan
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="40737" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Community sports programs provide a special opportunity to connect with, positively influence, and share Christ with youth. Paul is passionate about serving youth through sports. He has personally experienced the benefits that come from involvement in these activities, both as a lifelong participant in organized sports and through leadership roles as an adult.
+
+----
+
+Image:
+
+- layer-19.png
+
+----
+
+Alttext: Paul Buchan portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

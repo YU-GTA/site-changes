@@ -1,0 +1,194 @@
+Title: Volunteer
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1607629011476_7476
+- 
+  heading: A Committed Team of Volunteers
+  backgroundimage:
+    - headergibg.png
+  _key: header-volunteer
+  _uid: header-volunteer_1606242406314_575
+- 
+  heading: You Can Make A Difference Today
+  text: >
+    Each of our programs relies on a
+    hardworking group of volunteers who
+    invest their time and energy in youth
+    transformation through mentoring,
+    visiting, participating in our programs,
+    sharing a meal, checking in, and more.
+  buttontext: 'Volunteer With Us  ›'
+  button:
+    type: url
+    value: https://form.jotform.com/80805910546255
+  image:
+    - soccer-hi5.png
+  alttext: >
+    Female soccer leader high-fiving young
+    player
+  _key: text-image-alt
+  _uid: text-image-alt_1614258255519_6000
+- 
+  heading: Volunteer Opportunities
+  slide1heading: Youth Workers
+  slide1text: >
+    Mentoring, coaching, and walking
+    alongside young people as they explore
+    faith in Jesus and mature in life is at
+    the heart of YU’s desire to live out
+    wholistic transformation. As you listen
+    to, care for, and helpfully support
+    youth in our programs, not only will our
+    young people flourish, but you will
+    learn and grow too! As a volunteer, you
+    can be a youth worker in one of our
+    community outreach programs across the
+    city, in a formal coaching relationship
+    with a young Christian leader, as part
+    of a service project, or many other
+    potential places.
+  slide1topheading: ' '
+  slide1toptext: ' '
+  slide1bottomheading: ' '
+  slide1bottomtext: ' '
+  slide1image:
+    - launch.jpg
+  alttext1: >
+    Goofy group photo of youth volunteers
+    outside on a balcony
+  slide2heading: Young Parent Ministries
+  slide2text: >
+    Our young parents programs across the
+    city provide a unique opportunity to
+    support young dads and moms in being a
+    transformative presence in their homes
+    and communities. In these programs, you
+    can support through group interactions,
+    one-on-one mentoring, and childcare
+    during programming times.
+  slide2topheading: ' '
+  slide2toptext: ' '
+  slide2bottomheading: ' '
+  slide2bottomtext: ' '
+  slide2image:
+    - young-moms.jpg
+  alttext2: >
+    Group photo of young moms in Young
+    Parents program
+  slide3heading: 'Sports Programs & Activity Clubs'
+  slide3text: >
+    Whether it’s on the court, doing a
+    weights session after school, or working
+    on artwork, your consistent presence in
+    our activity or sports programs helps
+    create safe spaces for our young people,
+    and it is an amazing gateway to building
+    long-term relationships of trust and
+    care.
+  slide3topheading: ' '
+  slide3toptext: ' '
+  slide3bottomheading: ' '
+  slide3bottomtext: ' '
+  slide3image:
+    - soh-basketball.jpg
+  alttext3: >
+    Young man a blowing whistle and holding
+    a basketball
+  slide4heading: Street Outreach Teams
+  slide4text: >
+    Youth Unlimited has always been
+    committed to going where young people
+    are. Some of our programming includes
+    intentional street outreach to young
+    people experiencing homelessness or
+    young women facing exploitative
+    circumstances. Your participation as
+    part of a street or parlour outreach
+    team brings comfort, hope, and tangible
+    help to these young friends whom we
+    love.
+  slide4topheading: ' '
+  slide4toptext: ' '
+  slide4bottomheading: ' '
+  slide4bottomtext: ' '
+  slide4image:
+    - outreach-v3.jpg
+  alttext4: >
+    Light Patrol street outreach team
+    conversing outside on a sidewalk
+  slide5heading: Support Ministry Roles
+  slide5text: >
+    It’s not all about frontline work! In
+    order to reach young people across the
+    city, we need a great team of people
+    serving behind the scenes in a variety
+    of supporting roles. This could include
+    joining our prayer team, providing
+    clerical assistance with mailings and
+    other front office work, shooting photos
+    of our various programs, and helping run
+    fundraising or other events throughout
+    the year. Everyone has a place where
+    they can meaningfully impact the youth
+    of Toronto!
+  slide5topheading: ' '
+  slide5toptext: ' '
+  slide5bottomheading: ' '
+  slide5bottomtext: ' '
+  slide5image:
+    - kathy-at-ttc.jpg
+  alttext5: >
+    Female staff helping youths with
+    registration
+  _key: five-slides
+  _uid: five-slides_1614258359473_6495
+- 
+  heading: What To Expect
+  leftheading: What’s the time commitment?
+  lefttext: >
+    Because relationships of trust take time
+    to build, we look for a minimum one-year
+    commitment for involvement with youth.
+    Projects or events can be more
+    short-term.
+  midheading: Who can volunteer?
+  midtext: >
+    Due to the nature of our work with young
+    people, we generally prefer youth work
+    volunteers to be 21 or older. For those
+    mentoring youth, volunteers share our
+    faith-based approach to ministry.
+  rightheading: How else can I get involved?
+  righttext: >
+    We welcome student placements, interns,
+    and more! Get to know our team through
+    the site and send us an inquiry to learn
+    more.
+  linktext: 'Inquire about Volunteering Today  ›'
+  link:
+    type: url
+    value: https://form.jotform.com/80805910546255
+  _key: three-boxes
+  _uid: three-boxes_1613572998478_2133
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1606240989793_3276

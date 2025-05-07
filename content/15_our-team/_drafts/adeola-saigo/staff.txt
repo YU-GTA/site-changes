@@ -1,0 +1,56 @@
+Title: Adeola Saigo
+
+----
+
+Name: Adeola Saigo
+
+----
+
+Position: Director of Support Services
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="62199" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Adeola leads a dedicated and skilled team that shapes and delivers the operations infrastructure of YU, enabling our frontline staff to optimize their ministry and foster the wholistic transformation of young people across the GTA. Donors in the US, please go to yfci.org/donate/. Select Canada ~ Toronto, Ontario (#57400) and add "Adeola Saigo" in the comment box.
+
+----
+
+Image:
+
+- adeola-saigo.png
+
+----
+
+Alttext: Adeola Saigo portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: Central Services

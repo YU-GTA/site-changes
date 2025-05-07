@@ -1,0 +1,31 @@
+name: Three Boxes
+fields:
+  heading:
+    label: Heading
+    type: text
+    buttons: false
+  leftheading:
+    label: Left Heading
+    type: text
+  lefttext:
+    label: Left Text
+    type: text
+  midheading:
+    label: Mid Heading
+    type: text
+  midtext:
+    label: Mid Text
+    type: text
+  rightheading:
+    label: Right Heading
+    type: text
+  righttext:
+    label: Right Text
+    type: text
+  linktext:
+    label: Link Text
+    type: text
+  link:
+    label: Link
+    type: link
+    required: true

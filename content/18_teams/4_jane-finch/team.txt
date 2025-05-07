@@ -1,0 +1,153 @@
+Title: Jane-Finch
+
+----
+
+Name: Jane-Finch
+
+----
+
+Lefttext: Our dream is to see the young people we serve experience God and His love as they create communities of hope and become beacons of light in Jane & Finch.
+
+----
+
+Righttext: Through grassroot initiatives, we develop long term mentoring relationships. We walk with people through the ups and downs of life, helping them know God's deep love for them.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit the Jane-Finch website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: https://www.yujanefinch.ca/
+
+----
+
+Headingone: Jane-Finch Initiatives
+
+----
+
+Titleone: Community Outreach
+
+----
+
+Textone:
+
+**Jane-Finch Community Development** 
+
+An initiative working towards the transformation of lives & communities in Jane and Finch through wholistic development
+
+**Downsview Afterschool Program** 
+
+An afterschool program for youth (ages 12-17) including games, sports, snacks, and life discussions
+
+**Downsview Soccer Outreach** 
+
+A drop-in indoor soccer league for youth (ages 10-22)
+
+**Downsview Youth Group** 
+
+An evening youth group for youth (ages 10-22) including games, sports, snacks, and life discussions
+
+**Rexdale Ball Hockey League**
+
+A road hockey program running on Sunday afternoons in Rexdale with life discussions and snacks
+
+**Hoop to Hope Boys Jr Basketball** 
+
+A structured basketball league for boys (8-13 years) which provides a positive environment where Godly manhood is nurtured, affirmed and celebrated
+
+**Hoop to Hope Boys Sr Basketball** 
+
+A structured basketball league for boys (14-26 years) which provides a positive environment where Godly manhood is nurtured, affirmed and celebrated
+
+**Seeds of Hope After School Club**
+
+A safe, fun and an enriching program for kids (ages 6-15) to learn about God, get homework help, and to share a meal together
+
+----
+
+Titletwo: Leadership Developement
+
+----
+
+Texttwo:
+
+**BECC Internship Program** 
+
+A two-year paid internship program designed to develop young black male leaders who desire to impact the world for Christ, have a heart for serving young people through relational ministry and are deeply aware of the realities of living and working in Toronto's priority neighbourhoods
+
+----
+
+Titlethree: Trips & Camps & Events
+
+----
+
+Textthree:
+
+**Seeds of Hope Summer Day Camp** 
+
+A summer day camp for kids (ages 6 to 15) which provides a safe, fun and an enriching environment for youth to spend their summer while learning about God and being mentored by caring adults
+
+----
+
+Titlefour: Innovative Centres
+
+----
+
+Textfour:
+
+**Iron Fruits Strength-Training Program** 
+
+A strength and fitness conditioning program for young men (ages 14-23) that provides mentorship, builds relationships, creates discipline and develops positive characteristics
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Through Faith, Bring Hope, Show Love
+
+----
+
+Stats: We're looking for people to partner with us as we serve Jane & Finch. Sign up for regular updates to be in prayer for the community and our team. Do you have a heart to work with youth? Volunteer or join us! Are you able to financially partner with us? We have staff that would love to be full time!
+
+----
+
+Image:
+
+- jane-finch-v1.png
+
+----
+
+Alttext: Two young girls at Jane-Finch camp high-fiving many others in a line
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Jane-Finch

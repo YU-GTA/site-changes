@@ -1,0 +1,56 @@
+Title: Alison Chuck
+
+----
+
+Name: Alison Chuck
+
+----
+
+Position: Job Opportunity and Placement Coordinator
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="62032" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Alison is passionate about building into people & businesses for the glory of God. She is developing an employment ministry for youth who struggle with poverty, are out of school and unemployed, and lack belief in themselves. Youth are connected with caring mentors, equipped with employment skills, given work experience and are encouraged to be all God created them to be.
+
+----
+
+Image:
+
+- alison.png
+
+----
+
+Alttext: Alison Chuck portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: Frontiers

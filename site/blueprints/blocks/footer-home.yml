@@ -1,0 +1,30 @@
+name: Footer Home
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  Leftbuttontext:
+    label: Left Button Text
+    type: text
+    required: true
+  Leftbutton:
+    label: Left Button
+    type: link
+    required: true
+  Midbuttontext:
+    label: Mid Button Text
+    type: text
+    required: true
+  Midbutton:
+    label: Mid Button
+    type: link
+    required: true
+  Rightbuttontext:
+    label: Right Button Text
+    type: text
+    required: true
+  Rightbutton:
+    label: Right Button
+    type: link
+    required: true

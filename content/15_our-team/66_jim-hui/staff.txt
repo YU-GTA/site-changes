@@ -1,0 +1,56 @@
+Title: Jim Hui
+
+----
+
+Name: Jim Hui
+
+----
+
+Position: IT Manager
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34437" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: After spending 18 years working in the IT field at IBM, Jim wakes up each day knowing he uses his experience and technical skill to serve God in his role as YU's IT Manager. By working behind the scenes to support and equip our frontline workers, young people will be better served and transformed by God’s love and life-changing power to attain their full life potential.
+
+----
+
+Image:
+
+- jim-hui-2024.png
+
+----
+
+Alttext: Jim Hui portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

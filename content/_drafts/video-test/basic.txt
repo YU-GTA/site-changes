@@ -1,0 +1,114 @@
+Title: Video Test
+
+----
+
+Blocks:
+
+- 
+  heading: A Video
+  _key: header-news
+  _uid: header-news_1649158325283_6708
+- 
+  heading: Test
+  text: >
+    Lorem Ipsum is simply dummy text of the
+    printing and typesetting industry.
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/wJV0Az86JDo
+  caption: >
+    Lorem Ipsum is simply dummy text of the
+    printing and typesetting industry.
+  _key: video
+  _uid: video_1652824297754_744
+- 
+  heading: Test
+  text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  buttontext: Button
+  button:
+    type: page
+    value: home
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/wJV0Az86JDo
+  caption: >
+    Lorem Ipsum is simply dummy text of the
+    printing and typesetting industry.
+  position: 'true'
+  _key: video-text
+  _uid: video-text_1652824466152_1285
+- 
+  heading: Test
+  text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  buttontext: ""
+  button: null
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/embed/wJV0Az86JDo
+  caption: ""
+  position: 'false'
+  _key: video-text
+  _uid: video-text_1652824546966_2095
+- 
+  image1:
+    - headerhbg.png
+  link1:
+    type: page
+    value: home
+  image2:
+    - canoeing.png
+  link2:
+    type: page
+    value: home
+  image3:
+    - guys-laughing.png
+  link3:
+    type: page
+    value: home
+  image4:
+    - mheaderhbg.png
+  link4:
+    type: page
+    value: home
+  _key: image-grid
+  _uid: image-grid_1654645134928_1237
+- 
+  image1:
+    - guys-laughing.png
+  link1:
+    type: page
+    value: home
+  image2:
+    - mheaderhbg.png
+  link2:
+    type: page
+    value: home
+  image3:
+    - headerhbg.png
+  link3:
+    type: page
+    value: home
+  image4: [ ]
+  link4: null
+  _key: image-grid
+  _uid: image-grid_1654645230929_3014
+- 
+  image1:
+    - canoeing.png
+  link1:
+    type: page
+    value: home
+  image2:
+    - guys-laughing.png
+  link2:
+    type: page
+    value: home
+  image3: [ ]
+  link3: null
+  image4: [ ]
+  link4: null
+  _key: image-grid
+  _uid: image-grid_1654645280345_5660

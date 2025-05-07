@@ -1,0 +1,60 @@
+Title: Melat Hailu
+
+----
+
+Name: Melat Hailu
+
+----
+
+Position: Assistant Director
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="39919" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description:
+
+As the Young Parents Assistant Director, Melat provides encouragement and support to young moms (ages 15-25) by leading the downtown Toronto support group, as well as volunteer mobilization and event-planning for the greater Young Parents ministry.
+
+Melat is passionate about building community, fostering healthy relationships and accompanying young moms on a journey towards wholeness.
+
+----
+
+Image:
+
+- layer-41.png
+
+----
+
+Alttext: Melat Hailu portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

@@ -1,0 +1,56 @@
+Title: Abi Vanderheyden
+
+----
+
+Name: Abi Vanderheyden
+
+----
+
+Position: The Shop Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="52693" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Abigail has just become a youth worker intern at The Shop! She has been working at The Shop since 2019 as the receptionist and has just begun her journey to become more involved with youth entering The Shop’s program. She finds immense joy in providing people with help and fulfilling their needs. She hopes to be able to share her knowledge of God with others to be a helping hand in their walk with God.
+
+----
+
+Image:
+
+- layer-43.png
+
+----
+
+Alttext: Abi Vanderheyden portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: The Shop, Intern Cohort

@@ -1,0 +1,495 @@
+Title: Blocks Page
+
+----
+
+Blocks:
+
+- 
+  heading: uk
+  text: jhk
+  buttontext: hjk
+  button:
+    type: page
+    value: home
+  _key: grey-button
+  _uid: grey-button_1615405909178_7985
+- 
+  banner: This Is the Banner Block
+  _key: banner
+  _uid: banner_1613500486879_1557
+- 
+  heading: This Is The "Header Home" Block
+  text: The background image cannot be changed.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  bottomsubhead: This is a Mandatory Text Field
+  bottomheading: This is a Mandatory Text Field
+  bottomtext: >
+    The Yellow Logomark on the right cannot
+    be changed.
+  mbuttontext: Mobile Button
+  mbutton: null
+  _key: header-home
+  _uid: header-home_1613500489501_1771
+- 
+  heading: This is The "Header About Us" Block
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  bottomsubhead: The Orange bricks cannot be changed.
+  bottomhtext: This is a Mandatory Text Field
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  _key: header-aboutus
+  _uid: header-aboutus_1613501864392_20550
+- 
+  heading: >
+    This is the "Header Making Space" Block.
+    Only Text.
+  _key: header-makingspace
+  _uid: header-makingspace_1613502097062_21075
+- 
+  heading: This is the "Header What We Do" Block
+  video:
+    type: url
+    value: >
+      https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  text: >
+    This is a Mandatory Text Field. The
+    Yellow Logo Outline cannot be changed.
+  _key: header-whatwedo
+  _uid: header-whatwedo_1613502186841_21317
+- 
+  heading: This is the "Header Get Involved" Block
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  bottomsubhead: >
+    This is a Mandatory Text Field. The Lime
+    Green is unchangeable.
+  bottomhtext: This is a Mandatory Text Field.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1613502336882_21752
+- 
+  heading: >
+    This is the "Header Volunteer" Block.
+    Only Text.
+  _key: header-volunteer
+  _uid: header-volunteer_1613502442640_22217
+- 
+  heading: >
+    This is the "Header News" Block. Only
+    Text.
+  _key: header-news
+  _uid: header-news_1613502486958_22432
+- 
+  heading: >
+    This is the "Header Our Team" Block.
+    Only Text.
+  _key: header-ourteam
+  _uid: header-ourteam_1613502499410_22647
+- 
+  heading: >
+    This is the "Header Donate" Block. Only
+    Text.
+  _key: header-donate
+  _uid: header-donate_1613502515782_22862
+- 
+  heading: >
+    This is the "Navbar Home" Block. Only
+    Text.
+  _key: navbar-home
+  _uid: navbar-home_1613502529018_23077
+- 
+  heading: >
+    This is the "Navbar About Us" Block.
+    Only Text.
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1613502598647_23312
+- 
+  heading: >
+    This is the "Navbar Get Involved" Block.
+    Only Text.
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1613502618352_23527
+- 
+  heading: >
+    This is the "Navbar News" Block. Only
+    Text.
+  _key: navbar-news
+  _uid: navbar-news_1613502636437_23742
+- 
+  heading: >
+    This is the "Navbar Our Team" Block.
+    Only Text.
+  _key: navbar-ourteam
+  _uid: navbar-ourteam_1613502648228_23957
+- 
+  heading: >
+    This is the "Navbar Donate" Block. Only
+    Text.
+  _key: navbar-donate
+  _uid: navbar-donate_1613502659994_24172
+- 
+  heading: This is the "Grey and Button" Block
+  text: This is a Mandatory Text Field
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  _key: grey-button
+  _uid: grey-button_1613502711621_24407
+- 
+  iframescript: >
+    This is the "IFrame" Block. This is a
+    Mandatory Text Field. Only Text.
+  _key: iframe
+  _uid: iframe_1613502808718_24779
+- 
+  heading: This is the "FAQ" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text. Cannot add/remove question fields.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  question1: >
+    This is a Mandatory Text Field. Only
+    Text.
+  answer1: >
+    This is a Mandatory Text Field. Only
+    Text.
+  question2: >
+    This is a Mandatory Text Field. Only
+    Text.
+  answer2: >
+    This is a Mandatory Text Field. Only
+    Text.
+  question3: >
+    This is a Mandatory Text Field. Only
+    Text.
+  answer3: >
+    This is a Mandatory Text Field. Only
+    Text.
+  question4: >
+    This is a Mandatory Text Field. Only
+    Text.
+  answer4: >
+    This is a Mandatory Text Field. Only
+    Text.
+  _key: faq
+  _uid: faq_1613502865795_25088
+- 
+  heading: This is the "Map" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  _key: map
+  _uid: map_1613502970258_25721
+- 
+  texttopleft: This is the "Circles" Block
+  textbottomleft: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imageleft:
+    - yfc-yu-logomark-red.png
+  alttextleft: ""
+  texttopmid: >
+    This is a Mandatory Text Field. Only
+    Text.
+  textbottommid: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imagemid:
+    - yfc-yu-logomark-red.png
+  alttextmid: ""
+  texttopright: >
+    This is a Mandatory Text Field. Only
+    Text.
+  textbottomright: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imageright:
+    - yfc-yu-logomark-red.png
+  alttextright: ""
+  _key: circles
+  _uid: circles_1613502992066_25994
+- 
+  heading: This is the "Text and Image" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  _key: text-image
+  _uid: text-image_1613503109402_26638
+- 
+  heading: >
+    This is the "Text and Image Alternate"
+    Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  _key: text-image-alt
+  _uid: text-image-alt_1613503336707_27306
+- 
+  image:
+    - yfc-yu-logomark-red.png
+  subheading: >
+    This is a Mandatory Text Field. Only
+    Text.
+  heading: This is the "Image and Text" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  _key: image-text
+  _uid: image-text_1613503376518_27740
+- 
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  heading: >
+    This is the "Image and Text Alternate"
+    Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  _key: image-text-alt
+  _uid: image-text-alt_1613503535726_28398
+- 
+  heading: This is the "Three Boxes" Block
+  leftheading: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  lefttext: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  midheading: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  midtext: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  rightheading: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  righttext: >
+    This is NOT a Mandatory Text Field. Only
+    Text.
+  linktext: LINK TEXT
+  link:
+    type: page
+    value: home
+  _key: three-boxes
+  _uid: three-boxes_1613503618515_28849
+- 
+  heading: This is the "Text on Image" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  image:
+    - 000034.jpg
+  alttext: ""
+  imagemobile:
+    - 000034.jpg
+  alttextmobile: ""
+  _key: text-on-image
+  _uid: text-on-image_1613503949942_31694
+- 
+  heading: This is the "Three Image and Text" Block
+  subheadleft: >
+    This is a Mandatory Text Field. Only
+    Text.
+  textleft: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imageleft:
+    - yfc-yu-logomark-red.png
+  alttextleft: ""
+  subheadmid: >
+    This is a Mandatory Text Field. Only
+    Text.
+  textmid: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imagemid:
+    - yfc-yu-logomark-red.png
+  alttextmid: ""
+  subheadright: >
+    This is a Mandatory Text Field. Only
+    Text.
+  textright: >
+    This is a Mandatory Text Field. Only
+    Text.
+  imageright:
+    - yfc-yu-logomark-red.png
+  alttextright: ""
+  _key: three-image-text
+  _uid: three-image-text_1613504032978_32182
+- 
+  heading: This is the "Six Tab" Block
+  text: >
+    This is a Mandatory Text Field. Only
+    Text.
+  lefttoptext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  leftmidtext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  leftbottomtext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  righttoptext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  rightmidtext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  rightbottomtext: >
+    This is a Mandatory Text Field. Only
+    Text.
+  _key: six-tab
+  _uid: six-tab_1613504100741_32805
+- 
+  heading: This is the "Four Slides" Block
+  slide1heading: 'Slide 1 Heading *'
+  slide1text: 'Slide 1 Text *'
+  slide1topheading: Slide 1 Top Heading
+  slide1toptext: 'Slide 1 Top Text *'
+  slide1bottomheading: 'Slide 1 Bottom Heading *'
+  slide1bottomtext: 'Slide 1 Bottom Text *'
+  slide1image:
+    - yfc-yu-logomark-red.png
+  alttext1: ""
+  slide2heading: 'Slide 2 Heading *'
+  slide2text: 'Slide 2 Text *'
+  slide2topheading: 'Slide 2 Top Heading *'
+  slide2toptext: 'Slide 2 Top Text *'
+  slide2bottomheading: 'Slide 2 Bottom Heading *'
+  slide2bottomtext: 'Slide 2 Bottom Text *'
+  slide2image:
+    - yfc-yu-logomark-red.png
+  alttext2: ""
+  slide3heading: 'Slide 3 Heading *'
+  slide3text: 'Slide 3 Text *'
+  slide3topheading: 'Slide 3 Top Heading *'
+  slide3toptext: 'Slide 3 Top Text *'
+  slide3bottomheading: 'Slide 3 Bottom Heading *'
+  slide3bottomtext: 'Slide 3 Bottom Text *'
+  slide3image:
+    - yfc-yu-logomark-red.png
+  alttext3: ""
+  slide4heading: 'Slide 4 Heading *'
+  slide4text: 'Slide 4 Text *'
+  slide4topheading: 'Slide 4 Top Heading *'
+  slide4toptext: 'Slide 4 Top Text *'
+  slide4bottomheading: 'Slide 4 Bottom Heading *'
+  slide4bottomtext: 'Slide 4 Bottom Text *'
+  slide4image:
+    - yfc-yu-logomark-red.png
+  alttext4: ""
+  _key: four-slides
+  _uid: four-slides_1613504332524_34514
+- 
+  text: This is the "Eight Tab" Block
+  buttontext: Only Text
+  button:
+    type: page
+    value: home
+  lefttoptext: Only Text.
+  leftuppermidtext: Only Text.
+  leftlowermidtext: Only Text.
+  leftbottomtext: Only Text.
+  righttoptext: Only Text.
+  rightuppermidtext: Only Text.
+  rightlowermidtext: Only Text.
+  rightbottomtext: Only Text.
+  _key: eight-tab
+  _uid: eight-tab_1613504451565_36098
+- 
+  heading: This is the "Two Columns Text" Block
+  lefttext: 'Left Text *'
+  righttext: 'Right Text *'
+  _key: two-col-text
+  _uid: two-col-text_1613504719359_37229
+- 
+  heading: This is the "Footer Home" Block
+  leftbuttontext: 'Left Button Text *'
+  leftbutton:
+    type: page
+    value: home
+  midbuttontext: 'Mid Button Text *'
+  midbutton:
+    type: page
+    value: home
+  rightbuttontext: 'Right Button Text *'
+  rightbutton:
+    type: page
+    value: home
+  _key: footer-home
+  _uid: footer-home_1613504749294_37667
+- 
+  heading: This is the "Footer About Us" Block
+  buttontext: 'Button Text *'
+  button:
+    type: page
+    value: home
+  _key: footer-aboutus
+  _uid: footer-aboutus_1613504804139_38890
+- 
+  image:
+    - yfc-yu-logomark-red.png
+  alttext: ""
+  imagemobile:
+    - yfc-yu-logomark-red.png
+  alttextmobile: ""
+  heading: This is the "Footer Get Involved" Block
+  text: 'Text *'
+  buttontext: 'Button Text *'
+  button:
+    type: page
+    value: home
+  footerheading: This is the "Footer Get Involved" Block
+  leftbuttontext: 'Left Button Text *'
+  leftbutton:
+    type: page
+    value: home
+  midbuttontext: 'Mid Button Text *'
+  midbutton:
+    type: page
+    value: home
+  rightbuttontext: 'Right Button Text *'
+  rightbutton:
+    type: page
+    value: home
+  _key: footer-getinvolved
+  _uid: footer-getinvolved_1613504835774_39432

@@ -1,0 +1,408 @@
+Title: Our Strategy
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628925834_5064
+- 
+  heading: Gaining Ground Strategy
+  backgroundimage:
+    - headerabbgpng.png
+  _key: header-makingspace
+  _uid: header-makingspace_1605907861522_6966
+- 
+  image:
+    - hero-branded.png
+  alttext: >
+    Four young female adults giving
+    high-five and laughing outdoors by a
+    building.
+  heading: Our Focus from July 2023 to June 2027
+  text: >
+    Youth Unlimited continues to be guided
+    by our Making Space pathways in the
+    areas of vulnerable youth, mental
+    health, church integration of youth, and
+    living out wholistic transformation. In
+    the coming four years, we believe God is
+    inviting us to ‘gain ground’ – to
+    invest and reach into new places, new
+    spaces, and new ways of doing things to
+    see more and more transformed youth
+    transforming our city. Our Gaining
+    Ground strategy is guided by five
+    commitments. We are excited for you to
+    join us on the journey!
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1613600077297_7923
+- 
+  heading: '5 Commitments '
+  slide1heading: Stable Housing
+  slide1text: |
+    **Commitment 1: Address the urgent need for stable housing among youth and their families.**
+    
+    *Over the last two years, 88% of our ministry teams across the GTA have had to address housing insecurity with the youth they serve and support.*
+    
+    Recognizing the urgent need for stable housing among those we serve, we will support our YU youth and their families facing housing insecurity through a collaborative multi-faceted approach, including providing housing opportunities and fostering “radical hospitality” in the Christian community.
+  slide1topheading: ' '
+  slide1toptext: ' '
+  slide1bottomheading: ' '
+  slide1bottomtext: ' '
+  slide1image:
+    - 5-commit-stable-housing-branded.png
+  alttext1: >
+    Staff and a pregnant young mom sitting
+    in rocking chairs and talking in a
+    nursery.
+  slide2heading: Multi-Service Spaces
+  slide2text: |
+    **Commitment 2: Develop multi-service spaces offering wholistic supports to youth and their families.**
+    
+    *Studies show that youth with at least one consistent, trusted adult in their life minimize their risk of disengaging from education and employment, and more strongly develop their identity, empathy, and a sense of hope for the future.*
+    
+    In order to deepen our wholistic engagement with youth and their families, we will pilot safe and familiar multi-service spaces.
+  slide2topheading: ' '
+  slide2toptext: ' '
+  slide2bottomheading: ' '
+  slide2bottomtext: ' '
+  slide2image:
+    - 5-commit-multi-serv.png
+  alttext2: >
+    A group of school-aged children sitting
+    around a table doing arts and crafts
+    with a teenaged female camp leader
+    standing near by. The camp leader is
+    also Icutting paper.
+  slide3heading: Neighbourhood Church Mobilization
+  slide3text: |
+    **Commitment 3: Mobilize neighbourhood churches to integrate community youth and their families.**
+    
+    *According to 12 of our most experienced frontline staff, churches embedded in their neighbourhood with an intentional plan and multiple approaches to welcome and engage youth are most likely to help these young people experience long-term belonging in their faith community.*
+    
+    Given our desire to increase engagement between neighbourhood churches and community youth throughout their lives, we will proactively encourage, equip, mobilize and partner with local churches to design and implement effective support structures and ‘pathways of integration’ for neighbourhood youth.
+  slide3topheading: ' '
+  slide3toptext: ' '
+  slide3bottomheading: ' '
+  slide3bottomtext: ' '
+  slide3image:
+    - 5-commit-church-mobilization.png
+  alttext3: >
+    Two similing female summer camp
+    volunteers in greeen shirts. They are
+    sitting outdoors by a welcome table with
+    large colourful buckets on it.
+  slide4heading: 'New Ministries '
+  slide4text: |
+    **Commitment 4: Launch new ministries among both under-served youth and neighbourhoods.**
+    
+    *Youth Unlimited currently serves in five of Toronto’s 31 Neighbourhood Improvement Areas.*
+    
+    Given our vision and desire that every youth in the GTA will be transformed by God’s love, we will proactively start up ministry initiatives to serve new neighbourhoods and/or under-served youth populations.
+  slide4topheading: ' '
+  slide4toptext: ' '
+  slide4bottomheading: ' '
+  slide4bottomtext: ' '
+  slide4image:
+    - 5-commit-new-ministries-branded.png
+  alttext4: >
+    Two young boys with boxing gloves on
+    facing each other indoors. Sending next
+    to one of the young boxers is a staff
+    showing them a boxing stance.
+  slide5heading: South Sudan Partnership
+  slide5text: |
+    **Commitment 5: Cultivate a collaborative partnership with YFC South Sudan.**
+    
+    *After more than two decades of civil war, the median age of South Sudan is 18.6 years, compared to 41 years in Canada.*
+    
+    As part of the international YFC movement, in order to more effectively fulfill our shared vision of reaching every young person locally and globally, we will enter into a collaborative partnership with YFC South Sudan.
+  slide5topheading: ' '
+  slide5toptext: ' '
+  slide5bottomheading: ' '
+  slide5bottomtext: ' '
+  slide5image:
+    - 5-commit-south-sudan-branded.png
+  alttext5: >
+    A group photo of South Sudanese youth
+    holding certificates and standing
+    infront of a Youth for Christ banner.
+  _key: five-slides
+  _uid: five-slides_1678890960235_10082
+- 
+  heading: ' '
+  text: .
+  image:
+    - how-are-we-gg-banner-plain.png
+  alttext: >
+    Three green arrow heads of different
+    sizes pointing upwards with "How are we
+    Gaining Ground" overlaid.
+  imagemobile:
+    - how-are-we-gg-banner-mobile-plain.png
+  alttextmobile: >
+    Two green arrow heads of different sizes
+    pointing upwards with "How are we
+    Gaining Ground" over aid.
+  _key: text-on-image
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-on-image_1678824727300_7457
+- 
+  image:
+    - stable-housing.png
+  alttext: >
+    Threee young moms with arms around each
+    others shoulders laughing outdoors.
+  heading: Stable Housing
+  text: 'This commitment will:  1) Build upon our existing emergency residence; 2) Focus on raising awareness among the Christian community of the urgent need for housing, and 3) Provide opportunities for radical hospitality (such as training and equipping volunteers to offer short-term stays within their homes).  We will also explore partnerships with like-minded organizations building affordable housing to provide relational supports and contextual programming to youth and families transitioning to stable housing.'
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1678892678356_19872
+- 
+  heading: "Open Door" Progress
+  text: |
+    - Researched: 1) housing support needs within YU, 2) community organizations providing housing for youth, and 3) regulatory policies and best practices to inform the planning of our new "Open Door" program
+    - Broadened inclusion criteria for YU's emergency housing, so more youth have access to this initiative; improved supports for YU staff navigating housing issues with youth
+    - Began recruiting for Open Door Coordinator position
+  image:
+    - testimonial-banner.png
+  alttext: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  imagemobile:
+    - testimonial-banner-mobile.png
+  alttextmobile: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  _key: text-on-image
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-on-image_1681127725937_3990
+- 
+  heading: Multi-Service Spaces
+  text: >
+    Building upon the well-established
+    Scarborough presence of our DOXA team,
+    we will pilot a ‘hub’ space in this
+    community to offer comprehensive
+    supports to young people and their
+    families. This space will engage other
+    YU teams and partnering churches to
+    impact youth and families in a variety
+    of ways (job skills training,
+    counseling, fitness programs, etc.). As
+    our strategy unfolds, we will also
+    explore piloting a mobile space to meet
+    the unique needs of those served by our
+    Rahab team.
+  buttontext: ""
+  button: null
+  image:
+    - multi-service.png
+  alttext: >
+    A close-up if a school-aged boy on
+    laptop at a table, and a staff leaned
+    over to help.
+  _key: text-image-alt
+  uniquekey: 1
+  showpreviewinitially: false
+  _uid: text-image-alt_1678895435679_20648
+- 
+  heading: "DOXA Hub" Progress
+  text: |
+    - Researched the City of Toronto’s 2024 VITAL SIGNS Report to inform and guide our conversation on the needs and concerns of Toronto youth
+    - Ran pilots in Bridletowne community centred around DOXA Prep
+    - Determined key Hub roles for ministry engagement, community partnerships and physical space
+    - Added two new programs at the Hub pilot location: monthly DOXA Gatherings and the LevelUp student leadership program
+  image:
+    - testimonial-banner.png
+  alttext: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  imagemobile:
+    - testimonial-banner-mobile.png
+  alttextmobile: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  _key: text-on-image
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-on-image_1678895232496_20304
+- 
+  image:
+    - church-mobization-branded.png
+  alttext: >
+    Yellow blurb saying "Living out
+    wholistic transformation"
+  heading: Neighbourhood Church Mobilization
+  text: >
+    We will work to expand our network of
+    meaningful church partnerships,
+    especially among diaspora communities.
+    Specifically, we will pilot partnerships
+    with three churches in different
+    neighbourhoods and equip them to help
+    see youth flourish in these communities
+    of faith. Finally, we will grow and
+    train a network of volunteers within
+    church communities to offer wholistic
+    support through circles of care to youth
+    experiencing vulnerability.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1613608037879_3237
+- 
+  heading: Church Partnership Progress
+  text: |
+    - Conducted research to determine desired outcomes for pilots with partner churches
+    - Developed a self-assessment tool for churches to gauge readiness to integrate youth
+    - Created draft "menu" of YU offerings to support church integration of youth
+    - Launched a pilot partnership with a church in Mississauga
+  image:
+    - testimonial-banner.png
+  alttext: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  imagemobile:
+    - testimonial-banner-mobile.png
+  alttextmobile: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  _key: text-on-image
+  _uid: text-on-image_1678824587245_6953
+- 
+  heading: New Ministries
+  text: >
+    We will aim to launch three new
+    neighbourhood-based outreach programs in
+    under-served communities, as well as one
+    new specialized program reaching a
+    specific demographic of under-served
+    youth. To support this growth, our
+    recruitment strategy will focus on
+    building a team of young frontline
+    workers in these initiatives.
+  buttontext: ""
+  button: null
+  image:
+    - new-ministries-branded.png
+  alttext: Red Central Services blurb
+  _key: text-image-alt
+  _uid: text-image-alt_1613608226565_3882
+- 
+  heading: Progress in Oshawa and Brampton
+  text: |
+    - Researched & discerned new neighbourhoods in which God may be inviting YU to serve
+    - Created four positions in Oshawa & Brampton focused on a simple, grassroots ministry outreach model
+    - Through a discernment process, sensed God inviting us to increase our ministry focus on newcomer youth
+  image:
+    - testimonial-banner.png
+  alttext: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  imagemobile:
+    - testimonial-banner-mobile.png
+  alttextmobile: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  _key: text-on-image
+  uniquekey: 4
+  showpreviewinitially: false
+  _uid: text-on-image_1678895954732_22026
+- 
+  image:
+    - south-sudan.png
+  alttext: >
+    Outdoor group photo of South Sudanese
+    youth and staff photographed from a
+    higher angle. Most of them are holding a
+    small red book titled "Reach 4 Life".
+  heading: South Sudan Partnership
+  text: 'We will humbly and thoughtfully build upon our new relationship with YFC South Sudan to: (1) create opportunities for learning, (2) grow our interculturalness to effectively reach all youth, and (3) engage YU programs in the partnership to reach more youth locally and globally. We will seek opportunities to strategically support YFC South Sudan programs and launch effective and safe service opportunities.'
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1678896093307_22552
+- 
+  heading: Collaborative Partnership Progress
+  text: |
+    - Focused on relationship-building and collaborated on shared partnership goals with James & the South Sudan team
+    - Participated in quarterly rhythm of prayer and fasting
+    - Three council members took part in a vision trip to South Sudan in August 2024
+    - Learning through interaction with the South Sudan team, conversations with missionaries, and connecting with staff of a South Sudanese church in the GTA
+  image:
+    - testimonial-banner.png
+  alttext: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  imagemobile:
+    - testimonial-banner-mobile.png
+  alttextmobile: >
+    Dark green brick wall with two light
+    green arrow heads pointing upwards and
+    overlaid on the brick wall.
+  _key: text-on-image
+  uniquekey: 2
+  showpreviewinitially: false
+  _uid: text-on-image_1680544197815_3938
+- 
+  image:
+    - internship-2-branded.png
+  alttext: >
+    Smiling young adult interns standing in
+    a row indoors. There is a light green
+    arrow overlaid in the background.
+  heading: Supporting the Commitments
+  text: >
+    For Youth Unlimited to move forward with
+    this Gaining Ground strategy, recruiting
+    young ministry workers, primarily
+    through our internship program, will
+    remain a key focus. Over the next four
+    years, we will continue building the
+    internship program to support the growth
+    and development of both existing and new
+    ministries, while also developing youth
+    workers for effective service. Click the
+    link below to learn more about our
+    internship program. If you would like to
+    learn more about how you or your church
+    can help Youth Unlimited gain ground in
+    one of these five commitments, contact
+    Carl Nash, our Ministry Director, at
+    cnash@yugta.ca
+  buttontext: Email Carl
+  button:
+    type: url
+    value: >
+      mailto:cnash@yugta.ca?subject=Inquiring
+      about Gaining Ground
+  _key: image-text-alt
+  uniquekey: 1
+  showpreviewinitially: false
+  _uid: image-text-alt_1680543574219_3348
+- 
+  heading: 'Learn about our Internship Program '
+  buttontext: Internship Program
+  button:
+    type: page
+    value: internship-program
+  _key: footer-aboutus
+  _uid: footer-aboutus_1678824976977_4668

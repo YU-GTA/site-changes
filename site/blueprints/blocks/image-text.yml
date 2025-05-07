@@ -1,0 +1,10 @@
+name: Latest News
+fields:
+  subheading:
+    label: Subheading
+    type: text
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+    required: true

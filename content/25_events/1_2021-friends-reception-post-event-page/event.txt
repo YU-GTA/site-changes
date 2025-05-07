@@ -1,0 +1,57 @@
+Title: 2021 Friends Reception - Thank You
+
+----
+
+Name: 2021 Friends Reception: Restoring Connections
+
+----
+
+Location: Event was virtual as well as hosted in-person by staff
+
+----
+
+Button: Download colouring and activity sheets
+
+----
+
+Link:
+
+type: url
+value: >
+  https://drive.google.com/file/d/1mTEPPiVP6BWUjM7iLOnhdCl3MicyoeiF/view?usp=sharing
+
+----
+
+Body: Thank-you to all of you who were part of *restoring connections* to young people in the city and beyond by attending YU's Friends Reception on November 4th!
+
+----
+
+Date: 2021-11-09 20:45
+
+----
+
+Eventdate: 2021-11-04 19:00
+
+----
+
+Bottomimage:
+
+- events-bottom-image-fr2021.png
+
+----
+
+Alttext2: Friends Reception Thank You
+
+----
+
+Topimage:
+
+- events-top-image-fr2021-v1.jpg
+
+----
+
+Alttext: Friends Reception Thank You
+
+----
+
+Tags: Friends Reception

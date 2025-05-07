@@ -1,0 +1,56 @@
+Title: Sue Banik
+
+----
+
+Name: Sue Banik
+
+----
+
+Position: Junior High
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34186" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Sue is passionate about helping youth! Seeing the hope and potential in every young person, Sue enhances the transformation of lives and communities through her role as the DOXA Jr. High Coordinator. DOXA is a ministry of Youth Unlimited that uniquely impacts youth and young adults in Scarborough.
+
+----
+
+Image:
+
+- layer-13.png
+
+----
+
+Alttext: Sue Banik portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

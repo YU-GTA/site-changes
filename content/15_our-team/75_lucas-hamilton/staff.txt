@@ -1,0 +1,59 @@
+Title: Lucas Hamilton
+
+----
+
+Name: Lucas Hamilton
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="121651" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Lucas has been a part of Youth Unlimited’s Hoop to Hope program since middle school. During his time at Hoop to Hope, his relationship with God improved and he sought him more. Over the years Lucas became inspired by the work of YU. Now as a YU intern he wants to help youth experience, find purpose, and get closer to God.
+
+----
+
+Image:
+
+- lucas-hamilton.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: 

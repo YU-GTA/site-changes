@@ -1,0 +1,271 @@
+title: Site
+unlisted: true
+
+tabs:
+  pages:
+    label: Pages
+    icon: page
+    columns:
+      - width: 3/4
+        sections:
+          publishedpages:
+            headline: Published Pages
+            type: pages
+            empty: No pages yet
+            layout: cards
+            template: 
+              - basic
+              - news
+              - our-team
+              - stories
+              - publications
+              - events
+              - job-openings
+              - legal
+              - impact-report
+            size: tiny
+            status: published
+            image:
+              query: page.previewImage
+              cover: true
+              back: white
+      - width: 1/4
+        sections:
+          pagedrafts:
+            headline: Page Drafts
+            type: pages
+            status: draft
+            size: tiny
+            create: 
+              - basic
+              - news
+              - our-team
+              - stories
+              - publications
+              - events
+              - job-openings
+              - legal
+              - impact-report
+            empty: No drafts
+            layout: cards
+            image:
+              query: page.previewImage
+              cover: true
+              back: white
+  stories:
+    label: Stories
+    icon: text
+    columns:
+      - width: 3/4
+          sections:
+            publishedstories:
+              headline: Published Stories
+              type: pages
+              empty: No stories yet
+              parent: kirby.page("stories")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: story
+              size: large
+              status: published
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            storydrafts:
+              headline: Story Drafts
+              type: pages
+              parent: kirby.page("stories")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: story
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white
+  events:
+    label: Events
+    icon: calendar
+    columns:
+      - width: 3/4
+          sections:
+            publishedevents:
+              headline: Published Events
+              type: pages
+              empty: No events yet
+              parent: kirby.page("events")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: event
+              size: large
+              status: published
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            eventdrafts:
+              headline: Event Drafts
+              type: pages
+              parent: kirby.page("events")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: event
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white
+  publications:
+    label: Publications
+    icon: book
+    columns:
+      - width: 3/4
+          sections:
+            publishedpublications:
+              headline: Published Publications
+              type: pages
+              empty: No publications yet
+              parent: kirby.page("publications")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: publication
+              size: large
+              status: published
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            publicationdrafts:
+              headline: Publication Drafts
+              type: pages
+              parent: kirby.page("publications")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: publication
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white
+  jobs:
+    label: Job Openings
+    icon: search
+    columns:
+      - width: 3/4
+          sections:
+            publishedjobs:
+              headline: Published Jobs
+              type: pages
+              empty: No job openings yet
+              parent: kirby.page("job-openings")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: job
+              size: large
+              status: published
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            jobdrafts:
+              headline: Jobs Drafts
+              type: pages
+              parent: kirby.page("job-openings")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: job
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white
+  staff:
+    label: Staff
+    icon: user
+    columns:
+      - width: 3/4
+          sections:
+            publishedstaff:
+              headline: Published Staff
+              type: pages
+              empty: No staff yet
+              parent: kirby.page("our-team")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: staff
+              size: large
+              status: published
+              sortBy: "title asc"
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            staffdrafts:
+              headline: Staff Drafts
+              type: pages
+              parent: kirby.page("our-team")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: staff
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white
+  teams:
+    label: Teams
+    icon: users
+    columns:
+      - width: 3/4
+          sections:
+            publishedteams:
+              headline: Published Teams
+              type: pages
+              empty: No teams yet
+              parent: kirby.page("teams")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              template: team
+              size: large
+              status: published
+              image:
+                query: page.previewImage
+                cover: true
+                back: white
+      - width: 1/4
+          sections:
+            teamdrafts:
+              headline: Team Drafts
+              type: pages
+              parent: kirby.page("teams")
+              info: "{{ page.date.toDate('d.m.Y') }}"
+              create: team
+              sortBy: date desc
+              status: draft
+              size: tiny
+              empty: No drafts
+              layout: cards
+              image:
+                  query: page.previewImage
+                  cover: true
+                  back: white

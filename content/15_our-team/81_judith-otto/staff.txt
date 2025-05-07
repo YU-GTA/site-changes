@@ -1,0 +1,56 @@
+Title: Judith Otto
+
+----
+
+Name: Judith Otto
+
+----
+
+Position: Community Development
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="31458" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Judith believes Community Development is best accomplished when engaging, partnering and walking alongside the Jane-Finch residents and stakeholders who want to embrace the community for positive change. Her experience includes working as a Community Health Promoter, Volunteer Coordinator, and Outreach Worker/Coordinator for community organizations and health centres.
+
+----
+
+Image:
+
+- layer-17.png
+
+----
+
+Alttext: Judith Otto portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Jane-Finch

@@ -1,0 +1,134 @@
+name: Four Slides
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  slide1heading:
+    label: Slide 1 Heading
+    type: text
+    required: true
+  slide1text:
+    label: Slide 1 Text
+    type: textarea
+    required: true
+  slide1topheading:
+    label: Slide 1 Top Heading
+    type: text
+    required: true
+  slide1toptext:
+    label: Slide 1 Top Text 
+    type: text
+    required: true
+  slide1bottomheading:
+    label: Slide 1 Bottom Heading
+    type: text
+    required: true
+  slide1bottomtext:
+    label: Slide 1 Bottom Text 
+    type: text
+    required: true
+  slide1image:
+    label: Slide 1 Image
+    type: files
+    multiple: false
+    required: true
+  alttext1:
+    label: Image Alt Text
+    type: text
+  slide2heading:
+    label: Slide 2 Heading
+    type: text
+    required: true
+  slide2text:
+    label: Slide 2 Text
+    type: textarea
+    required: true
+  slide2topheading:
+    label: Slide 2 Top Heading
+    type: text
+    required: true
+  slide2toptext:
+    label: Slide 2 Top Text 
+    type: text
+    required: true
+  slide2bottomheading:
+    label: Slide 2 Bottom Heading
+    type: text
+    required: true
+  slide2bottomtext:
+    label: Slide 2 Bottom Text 
+    type: text
+    required: true
+  slide2image:
+    label: Slide 2 Image
+    type: files
+    multiple: false
+    required: true
+  alttext2:
+    label: Image Alt Text
+    type: text
+  slide3heading:
+    label: Slide 3 Heading
+    type: text
+    required: true
+  slide3text:
+    label: Slide 3 Text
+    type: textarea
+    required: true
+  slide3topheading:
+    label: Slide 3 Top Heading
+    type: text
+    required: true
+  slide3toptext:
+    label: Slide 3 Top Text 
+    type: text
+    required: true
+  slide3bottomheading:
+    label: Slide 3 Bottom Heading
+    type: text
+    required: true
+  slide3bottomtext:
+    label: Slide 3 Bottom Text 
+    type: text
+    required: true
+  slide3image:
+    label: Slide 3 Image
+    type: files
+    multiple: false
+    required: true
+  alttext3:
+    label: Image Alt Text
+    type: text
+  slide4heading:
+    label: Slide 4 Heading
+    type: text
+    required: true
+  slide4text:
+    label: Slide 4 Text
+    type: textarea
+    required: true
+  slide4topheading:
+    label: Slide 4 Top Heading
+    type: text
+    required: true
+  slide4toptext:
+    label: Slide 4 Top Text 
+    type: text
+    required: true
+  slide4bottomheading:
+    label: Slide 4 Bottom Heading
+    type: text
+    required: true
+  slide4bottomtext:
+    label: Slide 4 Bottom Text 
+    type: text
+    required: true
+  slide4image:
+    label: Slide 4 Image
+    type: files
+    multiple: false
+    required: true
+  alttext4:
+    label: Image Alt Text
+    type: text

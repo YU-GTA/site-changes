@@ -1,0 +1,7 @@
+title: Impact Report
+fields:
+  pdf:
+    label: PDF
+    type: files
+    multiple: false
+    required: true

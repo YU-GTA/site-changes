@@ -1,0 +1,56 @@
+Title: Michelle Lau
+
+----
+
+Name: Michelle Lau
+
+----
+
+Position: Director of People Development
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="60189" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Michelle strategically shapes and oversees both the internal culture and the care and development of all YU’s staff and volunteers, so that everyone ministers out of wholeness and rootedness in Christ. She desires to see Shalom (peace, wholeness) multiplied across our city as each person participates with Christ in seeing transformed youth transforming our city.
+
+----
+
+Image:
+
+- michelle-lau.png
+
+----
+
+Alttext: Michelle Lau portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

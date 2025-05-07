@@ -1,0 +1,56 @@
+Title: Joanna Yee
+
+----
+
+Name: Joanna Yee
+
+----
+
+Position: Director of Rahab
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="39380" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: In 2009, Joanna heard the Lord call her to be a friend of prostitutes, and she responded to that call by founding Rahab Ministry. Joanna graduated from Tyndale Seminary in 2010 with an MDiv. She is an ordained minister of Evangelical Christian Church in Canada and is currently a McMaster Divinity College part-time student pursuing a Doctor of Practical Theology degree.
+
+----
+
+Image:
+
+- layer-32.png
+
+----
+
+Alttext: Joanna Yee portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab

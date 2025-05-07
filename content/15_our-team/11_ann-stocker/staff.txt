@@ -1,0 +1,56 @@
+Title: Ann Stocker
+
+----
+
+Name: Ann Stocker
+
+----
+
+Position: Critical Care Consultant
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34467" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Ann researches, resources and supports our frontline workers and ministries in the areas of youth mental health and family issues. She has worked with at-risk families and in marginalized communities for 30 years and is also a therapist. Ann also sits on the executive of Young Parents of No Fixed Address, a city-wide network of agencies serving young families in the GTA.
+
+----
+
+Image:
+
+- layer-53.png
+
+----
+
+Alttext: Ann Stocker portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers

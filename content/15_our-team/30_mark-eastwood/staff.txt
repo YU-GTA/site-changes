@@ -1,0 +1,56 @@
+Title: Mark Eastwood
+
+----
+
+Name: Mark Eastwood
+
+----
+
+Position: Team Shepherd
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34218" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mark serves on the People Development team as Team Shepherd/Chaplain to the Internship program and younger male staff across the chapter. After 14 years with YU and 12 prior to that serving those in crisis and facing life barriers, Mark understands the deep need for staff to have someone walk with them on their faith journey and maintain their wellbeing while serving others.
+
+----
+
+Image:
+
+- layer-74.png
+
+----
+
+Alttext: Mark Eastwood portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: central services, people development

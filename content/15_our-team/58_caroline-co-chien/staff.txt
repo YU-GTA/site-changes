@@ -1,0 +1,56 @@
+Title: Caroline Co Chien
+
+----
+
+Name: Caroline Co Chien
+
+----
+
+Position: Associate Director of Rahab
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="51920" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Driven by God’s calling to help victims of injustices and of exploitation, Caroline has been serving with Rahab since 2014. She reaches out, helps and supports young women exit the sex trade to renew and rebuild their lives, and restore their dignity with new hope in and through Christ. She also works with those in imminent risk of entering the sex trade.
+
+----
+
+Image:
+
+- layer-29.png
+
+----
+
+Alttext: Caroline Co Chien portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Rahab

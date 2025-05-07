@@ -1,0 +1,35 @@
+name: Header About Us
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true
+  alttext:
+    label: Image Alt Text
+    type: text
+  backgroundimage:
+    label: Background Image
+    type: files
+    multiple: false
+    required: true
+  bottomsubhead:
+    label: Bottom Subheading
+    type: text
+    required: true
+  bottomhtext:
+    label: Bottom Text
+    type: text
+    required: true
+  buttontext:
+    label: Button Text
+    type: text
+    required: true
+  button:
+    label: Button
+    type: link
+    required: true

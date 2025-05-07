@@ -1,0 +1,56 @@
+Title: Julie Chu
+
+----
+
+Name: Julie Chu
+
+----
+
+Position: Rahab Social Worker
+
+----
+
+Team: Rahab
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="101772" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Julie immigrated to Canada in 2022. She is a registered social worker, and God has called her to serve young women in the sex trade. Her desire is to bring the love and hope of Christ to them, journey with them, and give them the confidence to step out of the darkness to explore other possibilities and exit the sex trade.
+
+----
+
+Image:
+
+- julie-chu.png
+
+----
+
+Alttext: Headshot of Julie
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: 

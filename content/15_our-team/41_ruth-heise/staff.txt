@@ -1,0 +1,56 @@
+Title: Ruth Heise
+
+----
+
+Name: Ruth Heise
+
+----
+
+Position: People Development Associate & Team Shepherd
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34394" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: After 30 years on the frontlines, Ruth knows how valuable it is to have someone walk with you to work through the heart and faith journey of ministry. Ruth’s role at YU is Team Shepherd/Chaplain to three of our larger staff teams. It is a role of journeying with staff as they minister to youth on the frontlines.
+
+----
+
+Image:
+
+- ruth-heise.png
+
+----
+
+Alttext: Ruth Heise portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

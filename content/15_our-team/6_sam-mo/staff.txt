@@ -1,0 +1,56 @@
+Title: Sam Mo
+
+----
+
+Name: Sam Mo
+
+----
+
+Position: Frontiers Associate - Projects and Support
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34458" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As a Frontiers Associate, Sam serves alongside the Frontiers Team Leader, using his strong administrative and coordinating gifts to bring greater effectiveness to the team. Sam also preaches and teaches at ETCBC, looks to use his IT skills to help others and continue to engage with people who have backgrounds different from his so he can always keep learning.
+
+----
+
+Image:
+
+- layer-77.png
+
+----
+
+Alttext: Sam Mo portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers

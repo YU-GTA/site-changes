@@ -1,0 +1,165 @@
+Title: Central Services
+
+----
+
+Name: Central Services
+
+----
+
+Lefttext: We bring strategic and administrative support, training, equipping, and resourcing to our ministries and field staff across the city.
+
+----
+
+Righttext: We exist to serve and support the programs and people of YU so they can flourish as they invest in the wholeness of our young people.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Get Involved  ›
+
+----
+
+Learnlink:
+
+type: page
+value: get-involved
+
+----
+
+Headingone: Team Initiatives
+
+----
+
+Titleone: Areas of Support
+
+----
+
+Textone:
+
+**Strategic Planning**: We guide our ministry leaders in shaping effective programs that foster wholistic transformation.
+
+**People Development:** We provide training, equipping, and pastoral care for our staff and volunteers, prioritizing their wholeness and development.
+
+**Administrative Support:** We provide behind-the-scenes supports and resources to help the frontlines focus on their work with youth.
+ 
+**Financial Management:** We steward all of the monies YU receives with the utmost care and intentionality.
+
+**Fundraising:** We raise the funds necessary to support the foundational and strategic operations of YU.
+
+**Organizational Stewardship:** We ensure adequate policies, procedures, and guidelines are in place so our programs and people can operate safely and effectively.
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Transform Our City
+
+----
+
+Stats: With so many ways to get involved, let's all work together to see transformed youth, transforming our city!
+
+----
+
+Image:
+
+- central-services.png
+
+----
+
+Alttext: Two female Central Services staff helping with event registration
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Central Services
+
+----
+
+Titletop: COMMUNITY OUTREACH
+
+----
+
+Texttop:
+
+**DOXA Church Partnership: St. Andrews Presbyterian Church**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Brampton Basketball**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Bridletowne Prison Visits**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Oshawa Outreach**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**South-Central Etobicoke Lakeshore Soccer League**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+----
+
+Titlebottom: SPECIALIZED INITIATIVES
+
+----
+
+Textbottom:
+
+**DOXA Journeys: Serpent River**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Project Serve: Toronto Service Projects**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.

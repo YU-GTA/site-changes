@@ -1,0 +1,56 @@
+Title: Dave Burridge
+
+----
+
+Name: Dave Burridge
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34209" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Dave has served young people and their families in the Chester Le/Bridletowne Circle since 2002. He builds relationships of trust through sports, mentoring, prison ministry and his 3D archery course outside of Toronto. His goal is to show the love of Jesus, share his message of reconciliation and forgiveness, and help our students become better citizens of Canada.
+
+----
+
+Image:
+
+- layer-76.png
+
+----
+
+Alttext: Dave Burridge portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Bridletowne, Anchor Point 3-D Archery

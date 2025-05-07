@@ -1,0 +1,56 @@
+Title: Maimunat Ajayi
+
+----
+
+Name: Maimunat Ajayi
+
+----
+
+Position: Young Parents Toronto Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="33849" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Maimunat is passionate about partnering with the local church to encourage, equip and empower pregnant and parenting youth (15-25), so that they might become a transformative presence in their homes and communities. Maimunat has always been drawn to helping roles with her background in Early Childhood Education, in Church ministries and her degree in Child & Youth Work.
+
+----
+
+Image:
+
+- maimunat-ajayi.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: young parents

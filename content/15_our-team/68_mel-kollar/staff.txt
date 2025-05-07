@@ -1,0 +1,56 @@
+Title: Mel Kollar
+
+----
+
+Name: Mel Kollar
+
+----
+
+Position: Development Coordinator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="30798" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mel's longstanding history with YU is a testament to the power of investing in youth mentorship. She has a deep heart for people and focuses on building relationships with ministry supporters. Mel helps YU achieve its vision of seeing young lives transformed by ensuring our programs and initiatives are effectively resourced through fundraising and event coordination.
+
+----
+
+Image:
+
+- mel-kollar-2024.png
+
+----
+
+Alttext: Mel Kollar portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

@@ -1,0 +1,56 @@
+Title: Stephanie Ironside
+
+----
+
+Name: Stephanie Ironside
+
+----
+
+Position: Program Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="67614" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Having experienced the joys and struggles of being a mother, Stephanie is excited to journey with pregnant and parenting youth, and is passionate about creating a village for what can be a very isolating time in a youth's life. Her hope is to connect young moms with community that will enrich all aspects of their lives and build confidence in who they are in Christ.
+
+----
+
+Image:
+
+- staff-photo-stephanie-ironside.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: young parents

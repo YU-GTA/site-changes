@@ -1,0 +1,133 @@
+Title: Partner with Us
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-getinvolved
+  isnew: true
+  _uid: navbar-getinvolved_1655437105057_13716
+- 
+  heading: Partner with Us
+  image:
+    - 0000_partner-header.png
+  backgroundimage:
+    - headergibg.png
+  alttext: Four people playing basketball outdoors
+  bottomsubhead: We Value Local Partnerships
+  bottomhtext: >
+    Here at Youth Unlimited we know we are
+    part of something bigger than ourselves
+    — namely, God’s desire for wellbeing
+    for all in our city. So we are committed
+    to collaborating with local churches and
+    other organizations with a shared vision
+    to impact young lives, their families,
+    and their neighbourhoods.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1614338267337_5136
+- 
+  heading: Shared Mission
+  text: >
+    Let’s work together to reach the youth
+    in your community through models such as
+    sharing ministry staff or mobilizing
+    volunteers to assist in outreach
+    programs.
+  buttontext: 'Contact us to learn more  ›'
+  button:
+    type: url
+    value: https://form.jotform.com/210626158222246
+  image:
+    - 0015_partner-shared-mission.png
+  alttext: >
+    Group photo of many YU ministry
+    participants and volunteers
+  _key: text-image-alt
+  _uid: text-image-alt_1614338840666_5529
+- 
+  image:
+    - 0014_partner-shared-space-2.png
+  alttext: "Two women conversing while sitting in rocking chairs in a baby's room"
+  heading: Shared Space
+  text: >
+    Open up your facility to enable us to
+    reach the youth in your community
+    through regular programming, large group
+    events or training and equipping
+    opportunities.
+  buttontext: "Let's talk about shared space  ›"
+  button:
+    type: url
+    value: https://form.jotform.com/210626158222246
+  _key: image-text-alt
+  _uid: image-text-alt_1614339100075_5979
+- 
+  heading: Shared Resources
+  text: >
+    Support our mission in practical ways
+    such as ‘adopting-a-missionary’ or
+    participating in a ‘gift-in-kind’
+    campaign.
+  buttontext: 'Join us today  ›'
+  button:
+    type: url
+    value: https://form.jotform.com/210626158222246
+  image:
+    - 0012_partner-shared-resources.png
+  alttext: >
+    Care package with water, snacks, socks,
+    tissues and toiletries
+  _key: text-image-alt
+  _uid: text-image-alt_1614339197006_6405
+- 
+  image:
+    - 0011_partner-shared-community.png
+  alttext: >
+    Pastor speaking and church members in
+    front row seats during service
+  heading: Shared Community
+  text: >
+    Help us in our desire to see community
+    youth experience safety, belonging and
+    support as they are integrated into the
+    life of a local church.
+  buttontext: "Let's Talk  ›"
+  button:
+    type: url
+    value: https://form.jotform.com/210626158222246
+  _key: image-text-alt
+  _uid: image-text-alt_1614339246506_6831
+- 
+  heading: Shared Partnership
+  text: >
+    We would love for you to support
+    businesses that are supporting youth
+    transformation throughout the GTA
+  buttontext: See Businesses ›
+  button:
+    type: page
+    value: businesses
+  image:
+    - 0016_partner-shared-patnership.png
+  alttext: Two female youthlaughing and hugging
+  _key: text-image-alt
+  _uid: text-image-alt_1655306245201_37456
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1614894971435_24006

@@ -1,0 +1,59 @@
+Title: Sierra Fernandes
+
+----
+
+Name: Sierra Fernandes
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="104323" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Sierra is thrilled to join YU as an intern, where her passion for spreading God's love can truly flourish. This opportunity allows her to blend her enthusiasm for faith with practical experience, contributing to a mission that resonates deeply with her values. Sierra is eager to learn, grow, and make a meaningful impact by sharing and embodying the love and compassion of God.
+
+----
+
+Image:
+
+- sierra-ferandes.png
+
+----
+
+Alttext: Headshot of Sierra
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: intern

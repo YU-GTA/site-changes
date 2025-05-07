@@ -1,0 +1,56 @@
+Title: Jeff Smyth
+
+----
+
+Name: Jeff Smyth
+
+----
+
+Position: High School Coordinator
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34465" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Jeff is working with DOXA, a multi-faceted urban-style ministry arm of Youth Unlimited in Scarborough. Currently he serves DOXA’s staff team, interns, program volunteers and program initiatives as the High School Coordinator.
+
+----
+
+Image:
+
+- layer-9.png
+
+----
+
+Alttext: Jeff Smyth portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

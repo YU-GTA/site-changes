@@ -1,0 +1,127 @@
+Title: Get Involved
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1607628973059_6158
+- 
+  heading: Get Involved in Changing Young Lives
+  image:
+    - get-involved_475x701_blue-this-one.png
+  backgroundimage:
+    - headergibg.png
+  alttext: Young boy raising his hand
+  bottomsubhead: ' '
+  bottomhtext: >
+    At Youth Unlimited, we believe everyone
+    has a part to play in seeing young
+    people experience joy in Jesus,
+    wholistic wellbeing, healthy community,
+    and hope for a bright future.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1606166798098_179
+- 
+  heading: >
+    Make an impact as part of our growing
+    team
+  text: >
+    We are growing our team of resilient
+    leaders who have a heart for young
+    people, a vibrant faith, and believe
+    that transformation of our city is
+    possible through the transformation of
+    the youth we serve.
+  buttontext: "We're Hiring  ›"
+  button:
+    type: page
+    value: careers
+  image:
+    - rob-with-yds.png
+  alttext: Three male staff standing arm-in-arm
+  _key: text-image-alt
+  _uid: text-image-alt_1606168892580_708
+- 
+  image:
+    - text-image-cut-corner-making-space.png
+  alttext: >
+    group of youth on the sidewalk with
+    their arms around each other
+  heading: Dive into an internship
+  text: >
+    Want to use the skills you’ve gained
+    in college or university to serve youth
+    and families? Considering a career in
+    ministry? Youth Unlimited’s internship
+    program is an exciting opportunity for
+    you!
+  buttontext: 'Internship Program  ›'
+  button:
+    type: page
+    value: internship-program
+  _key: image-text-alt
+  _uid: image-text-alt_1677880033903_31939
+- 
+  image:
+    - canoeing.png
+  alttext: >
+    Group of young men wearing life jackets
+    and holding canoeing oars
+  heading: >
+    Create change with 500+ volunteers
+    across the city
+  text: >
+    Each of our programs relies on a
+    hardworking group of volunteers who
+    invest their time and energy in youth
+    transformation through mentoring,
+    visiting, sharing a meal, checking in,
+    and other ways of journeying with them.
+  buttontext: 'Volunteer with Us  ›'
+  button:
+    type: page
+    value: volunteer
+  _key: image-text-alt
+  _uid: image-text-alt_1606168888789_270
+- 
+  heading: >
+    Grow your impact as an organizational
+    partner
+  text: >
+    We are committed to partnering with
+    local churches and like-minded agencies
+    to collaboratively impact and empower
+    the young people we serve.
+  buttontext: 'Partner with Us  ›'
+  button:
+    type: page
+    value: partner-with-us
+  image:
+    - >
+      text-image-alternate-2-cut-corners-organizational-partnership.png
+  alttext: >
+    students working on laptops at a table
+    with a leader helping
+  _key: text-image-alt
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-image-alt_1614032447239_1163
+- 
+  heading: ' Get Involved'
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1614897140195_54949

@@ -1,0 +1,56 @@
+Title: David Dolores
+
+----
+
+Name: David Dolores
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="93969" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: David has been part of Youth Unlimited’s Jane and Finch program since he was in middle school. During this time he learned about and experienced God in many ways, and has seen others also impacted by the ministry of YU. As a YU intern David will help youth know and experience God, and find purpose in following Him
+
+----
+
+Image:
+
+- headshot-david-dolores.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: 

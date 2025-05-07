@@ -1,0 +1,59 @@
+Title: Noah Virgo
+
+----
+
+Name: Noah Virgo
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="128102" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Noah's vision is to create a space where everyone can unapologetically be themselves and feel loved for who they are. As a youth leader at Weston Park Baptist church, he enjoys putting smiles on people's faces and showing God's love. After hearing about YU's impact on youth, Noah decided to partner with them to grow his skills so that he can achieve his goal.
+
+----
+
+Image:
+
+- noah-virgo.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: 

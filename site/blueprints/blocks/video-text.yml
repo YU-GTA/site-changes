@@ -1,0 +1,27 @@
+name: Video and Text
+fields:
+  heading:
+    label: Heading
+    type: text
+  text:
+    label: Text
+    type: textarea
+  buttontext:
+    label: Button Text
+    type: text
+  button:
+    label: Button
+    type: link
+  video:
+    label: Video
+    type: link
+    required: true
+  caption:
+    label: Caption
+    type: text
+  position:
+    label: Left/Right Video Alignment
+    type: toggle
+    text: 
+      - "Left"
+      - "Right"

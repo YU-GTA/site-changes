@@ -1,0 +1,34 @@
+Title: Encountering Injustice
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1637202639075_917
+- 
+  heading: As We Encounter Injustice
+  backgroundimage:
+    - headerabbg.png
+  _key: header-makingspace
+  _uid: header-makingspace_1637202799583_4060
+- 
+  heading: ' '
+  lefttext: |
+    ***In 2021, we undertook an intentional process to express our heart–both as an organization and as a collective of urban ministry workers–when we encounter injustice. Our desire was to continue to deepen our understanding of, commitment to, and rootedness in Jesus in the face of injustices, as well as to remain buoyant in the hope we profess as we serve young people, families, and communities throughout the Greater Toronto Area. What follows is the expression of this desire and commitment:***
+    
+    As we scroll through social media and watch the news, we are bombarded with images and stories of injustice. We can become overwhelmed, feeling both helpless as we consider the immense scale of suffering, and hopeless as we face the endless cycles of hurt. We may find ourselves numb over our limited capacity to engage, or jaded as all too often attempts to address injustice actually make things worse. It’s common to feel anger or grief when human dignity is violated and the beauty of God’s image in humanity is dishonored.
+    
+    In the midst of all this, as we consider our own and our community’s experiences of injustice, we may recall ways in which we have been mistreated and ways in which we have mistreated others.  We may also recognize the need to confess our complicity in systemic injustices.
+    
+    As a Christian organization that has been working among the victims of injustice for decades, we often find ourselves wondering, “How are we making a difference?” and, “Where are You, God?” We grieve that these injustices cause such sorrow, destruction, and pain.
+  righttext: |
+    Yet Scripture reminds us that two thousand years ago, God Himself was born as a man into oppression and captivity and grew up among those who were mistreated and oppressed.  He noticed those who were ignored, He befriended the poor and marginalized, He cared for the vulnerable. In the face of systemic injustice, He brought a message of compassion, peace, and grace. He challenged those who perpetuated injustice and called them to Himself and His ways. He condemned everything that stood against God’s desires for both humanity and creation. This man named Jesus truly demonstrated God’s love, care, and compassion for all people as He embodied our suffering and grief when He gave up His power and subjected Himself to death at the hands of oppression and injustice.
+    
+    But that wasn’t the end. Jesus was raised to life, breaking the power of death, evil, and injustice. His victory brings hope to each of us in times of feeling powerless, hopeless, and forgotten.  We recognize that the ongoing pain caused by oppression and injustice can remain heavy upon us, but we look forward to a day when Jesus will heal all things.
+    
+    In light of this, we invite you to join us as advocates and allies for justice as we continue to pursue Jesus’ invitation to listen and learn, love and grieve, and be led by His Spirit to share His hope, compassion, and peace with those suffering in our communities.
+  _key: two-col-text
+  _uid: two-col-text_1637202859668_4460

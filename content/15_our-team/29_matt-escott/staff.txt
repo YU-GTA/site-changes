@@ -1,0 +1,56 @@
+Title: Matt Escott
+
+----
+
+Name: Matt Escott
+
+----
+
+Position: Circles Program Coordinator
+
+----
+
+Team: Light Patrol
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34220" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Matt's focus is on researching and developing strategies & initiatives that contribute to the prevention of youth homelessness. Currently Matt is developing Circles, a mentorship program that works to see youth in foster care thrive by experiencing the love and support of a long-term community who is unconditionally "for" them up to and beyond their 18th birthday.
+
+----
+
+Image:
+
+- layer-26.png
+
+----
+
+Alttext: Matt Escott portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Light Patrol

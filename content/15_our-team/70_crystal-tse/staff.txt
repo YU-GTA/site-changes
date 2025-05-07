@@ -1,0 +1,58 @@
+Title: Crystal Tse
+
+----
+
+Name: Crystal Tse
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="104319" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Crystal is passionate about working with youth to create a good foundation of faith and have a strong identity in Christ. She wants to build leaders who will lead their communities and help those around them. She wants more youth to know Christ and feel God's love for them; to help the broken become whole.
+
+----
+
+Image:
+
+- crystal-tse.png
+
+----
+
+Alttext: Headshot of Crystal
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: Intern

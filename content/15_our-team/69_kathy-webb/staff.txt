@@ -1,0 +1,56 @@
+Title: Kathy Webb
+
+----
+
+Name: Kathy Webb
+
+----
+
+Position: Administrator - Donations & HR Systems
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19469" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Kathy has served with YU as part of the Central Services team since 2004. Her role includes a variety of administrative functions with a focus on donation processing and HR systems.
+
+----
+
+Image:
+
+- kathy-webb.png
+
+----
+
+Alttext: Kathy Webb portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

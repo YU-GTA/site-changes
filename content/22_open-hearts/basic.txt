@@ -1,0 +1,67 @@
+Title: Open Hearts Together
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-donate
+  _uid: navbar-donate_1608309007379_1208
+- 
+  heading: Open Hearts Together Assistance Fund
+  backgroundimage:
+    - projectserve-140-1.jpg
+  _key: header-donate
+  _uid: header-donate_1608308542156_242
+- 
+  image:
+    - layer-2.png
+  alttext: Three staff members laughing
+  heading: What is this fund?
+  text: >
+    As urban ministry workers, our staff
+    participate in forming a support team
+    whose purpose includes the financial
+    provision for the ministry in which the
+    staff serve at Youth Unlimited. The
+    "Open Hearts Assistance Fund" provides
+    financial assistance to those staff who
+    have not yet reached their full funding
+    level through their support team. The
+    root of these challenges is often linked
+    to one’s network, personality and
+    gifting, heritage, culture, gender,
+    and/or ethnicity. It is the Fund’s aim
+    to address these challenges through
+    collective effort, and thereby assist in
+    increasing the diversity and breadth of
+    our staff team across the city,
+    increasingly bringing wellbeing to all.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1614519234376_8529
+- 
+  iframescript: |
+    <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="64615" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+  script: '<script id=ch_cdn_embed type=text/javascript src=https://www.canadahelps.org/secure/js/cdf_embed.js charset=utf-8 data-language=en data-page-id=15983 data-root-url=https://www.canadahelps.org data-formtype=0 data-cfasync=false></script>hjfvjvjh'
+  link: null
+  _key: iframe
+  _uid: iframe_1610680618948_3784
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1614898532108_12251

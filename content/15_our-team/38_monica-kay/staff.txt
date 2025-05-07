@@ -1,0 +1,63 @@
+Title: Monica Kay
+
+----
+
+Name: Monica Kay
+
+----
+
+Position: Leadership Development Facilitator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19989" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Monica is passionate about investing in others and has been involved in leadership development for over two decades. Having benefited from the Arrow Leadership Program and her current Doctor of Ministry studies, Monica is keen to apply her learnings as she serves the YU staff, helping to spur on spiritual, character and leadership growth.
+
+----
+
+Image:
+
+- 0001_launch-monica-kay.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: CENTRAL SERVICES
+
+----
+
+Link:
+
+type: page
+value: teams/launch

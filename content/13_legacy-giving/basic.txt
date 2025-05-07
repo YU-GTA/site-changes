@@ -1,0 +1,132 @@
+Title: Legacy Giving
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-donate
+  _uid: navbar-donate_1614516947712_3250
+- 
+  heading: Legacy Giving
+  backgroundimage:
+    - legacy-hands-v2.png
+  _key: header-donate
+  _uid: header-donate_1614516953542_3464
+- 
+  heading: Telling our Stories
+  text: |
+    We all want to tell our stories. And we all want our stories to end well. For our legacies to count and be remembered. Often we don’t know how to go about formulating our legacy plan or who to trust to help us to do it. At YU, we understand that this task is daunting. **We can help**.
+    
+    We want to share what a legacy gift is and what its benefits are. As well, we invite you to take advantage of our free, friendly, high-quality estate-planning service with **Advisors with Purpose**.
+  image:
+    - legacy-giving.png
+  alttext: Two men running on a blue running track
+  imagemobile:
+    - legacy-giving.png
+  alttextmobile: Two men running on a blue running track
+  _key: text-on-image
+  _uid: text-on-image_1614606390930_9216
+- 
+  heading: What is a legacy gift?
+  text: 'A legacy gift is a planned future donation to a registered charity like Youth Unlimited through a will or trust or some other form of designation. It can include: a Bequest in a Will, Life insurance gifts, Gift Annuities, Stocks and other securities, Gifts from property-holdings, or Allocation of Retirement Plans (RRSPs & RRIFs).'
+  buttontext: 'Download our Booklet  ›'
+  button:
+    type: url
+    value: >
+      http://www.renga.studio/youthunlimited/media/pages/publications/legacy-giving-your-story-our-story/2919959254-1614806877/yu-legacy-booklet-2021.pdf
+  image:
+    - legacy-doxa-group.png
+  alttext: DOXA group photo with youth and staff
+  _key: text-image-alt
+  _uid: text-image-alt_1614606630040_9703
+- 
+  heading: More About Legacy Giving
+  lefttext: |
+    **Why make a legacy gift?**
+    
+    1.	**Reduces taxes** without taking any inheritance away from your heirs.
+    2.	Ensures **good stewardship** of the financial assets with which God has blessed you.
+    3.	Provides **peace of mind** knowing that together with Youth Unlimited you are building a better future for your own offspring and our GTA youth.
+    4.	Ensures **sustainability** of Youth Unlimited’s impact into the future that goes beyond your current support.
+  righttext: |
+    **How is a legacy gift made?**
+    
+    Create or update your estate plan by taking advantage of our partnership with ADVISORS with Purpose –  an estate-planning ministry that can help you create a plan that aligns with your faith, values, and heart – free-of-charge and completely confidential. When you meet with ADVISOR with Purpose, there is *no expectation of designating a gift to Youth Unlimited*, or any pressure to do so. This truly is a value-added service for your peace of mind. As a next step, you can:
+    
+    1. (link: https://calendly.com/advisors-with-purpose-estate-specialist/initial-meeting-youth-unlimited-gta text: Schedule time with an AwP advisor)
+    2. You may also contact ADVISORS with Purpose directly at 1-866-336-3315 or email (email: plan@advisorswithpurpose.ca text: plan@advisorswithpurpose.ca)
+    3. Register for an informative AwP webinar (see list below to register directly).
+  _key: two-col-text
+  _uid: two-col-text_1614606802047_10598
+- 
+  image:
+    - legacy-hands-v1.png
+  alttext: Two hands holding each other
+  heading: We are here to help
+  text: >
+    With a good estate plan, you’ll have
+    peace of mind and assurance that every
+    cent of your estate is spent wisely and
+    that your family, heirs and favourite
+    causes are all well taken care of. For
+    more information, contact Mel today via
+    email or 416-383-1229 ext. 7245.
+  buttontext: 'Email Us Today  ›'
+  button:
+    type: url
+    value: >
+      mailto:mkollar@yugta.ca?subject=Legacy
+      Giving Inquiry
+  _key: image-text-alt
+  _uid: image-text-alt_1614607279336_11173
+- 
+  heading: >
+    Register for Free 45-minute Webinars on
+    Financial Stewardship
+  lefttext: |
+    **March 24**
+    3pm Eastern
+    Ray Borg
+    
+    **Your money counts – A biblical perspective on finances**
+    Many people are experiencing financial challenges, such as debt, a frustrating job, or inadequate savings The Bible has a lot to say about money. There are, in fact, over 2,350 verses that address everything you need to know about handling money. Indeed, the Bible is a blueprint for managing your finances. We will  discover the profound impact handling money has on your relationship with God.
+    (link: https://calendly.com/awpwebinar/your-money-counts-mar-24 text: *Click here to Register*)
+    
+    **April 28th**
+    3pm Eastern
+    Lorne Jackson
+    
+    **Knowledge is Power – Knowing what you need to know about Will Planning**
+    Having a plan is just a good idea. It ensures that you have all the correct information, helps you consider the options, allows you to work out your decisions and know exactly what you will be doing before you sit down to write your Will.
+    (link: https://calendly.com/awpwebinar/knowledge-is-power-april-28 text: *Click here to Register*)
+  righttext: |
+    **May 26**
+    8pm Eastern
+    Cindy Byker
+    
+    **Your Farm and Estate Planning – Create your farm legacy**
+    As a farmer, you’ve worked hard to build your business and you want to ensure that it is stewarded well whether the next generation succeeds you or whether you sell to others.
+    
+    This webinar will help you consider the specific estate planning needs of those in farming.
+    (link: https://calendly.com/awpwebinar/your-farm-and-estate-planning-may-26 text: *Click here to Register*)
+    
+    **June 16**
+    3pm Eastern
+    Lorne Jackson
+    
+    **After the faith decision – the rest is stewardship**
+    A personal journey story of life, faith, grace and learning generosity.
+    (link: https://calendly.com/awpwebinar/after-the-faith-decision-june-16 text: *Click here to Register*)
+  _key: two-col-text
+  _uid: two-col-text_1614807262638_6917
+- 
+  heading: View our Legacy Giving Booklet
+  buttontext: Download Here
+  button:
+    type: url
+    value: >
+      http://www.renga.studio/youthunlimited/media/pages/publications/legacy-giving-your-story-our-story/2919959254-1614806877/yu-legacy-booklet-2021.pdf
+  _key: footer-aboutus
+  _uid: footer-aboutus_1614806402039_1232

@@ -1,0 +1,56 @@
+Title: Zaneta Angeles
+
+----
+
+Name: Zaneta Angeles
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="93968" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Zaneta has a passion to build intentional relationships with youth and to reach the lost. She loves to listen to youth share their life stories and serve them in a way that reflects Christ’s love so that they may find the same hope and peace that she has in Jesus.
+
+----
+
+Image:
+
+- headshot-zaneta-angeles.png
+
+----
+
+Alttext: Portrait of Zaneta
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: the shop, intern

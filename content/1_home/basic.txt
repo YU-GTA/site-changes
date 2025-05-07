@@ -1,0 +1,125 @@
+Title: Home
+
+----
+
+Blocks:
+
+- 
+  banner: "Hot off the press - YU's Signs of the Times 2025! Read about planting seeds of healthy relationships."
+  _key: banner
+  _uid: banner_1607536136590_1198
+- 
+  heading: ""
+  _key: navbar-home
+  _uid: navbar-home_1648851567715_10809
+- 
+  heading: Transformed youth, transforming our city
+  text: "We're a faith-based charity investing in the whole life transformation of youth, their families, and their communities."
+  buttontext: 'See What We Do  ›'
+  button:
+    type: page
+    value: what-we-do
+  image:
+    - largehead.png
+  alttext: Two youths posing and laughing
+  backgroundimage:
+    - home-banner.jpg
+  bottomsubhead: Who We Serve
+  bottomheading: >
+    There are over 1 million young people in
+    the Toronto Area alone
+  bottomtext: "Youth Unlimited’s vision is to see every one of them transformed by God's love & life-changing power. Our hope is that by cultivating relationships with caring adults who will mentor and cheer them on, our young people will be able to bring about positive change to our city – both now and in the future."
+  mbuttontext: 'Donate today  ›'
+  mbutton:
+    type: page
+    value: donate
+  banner: >
+    Announcement Event/News bar links down
+    to news section
+  _key: header-home
+  _uid: header-home_1605498046685_797
+- 
+  texttopleft: 3,426
+  textbottomleft: Youth Reached
+  imageleft:
+    - circles-youth-reached-2022.jpg
+  alttextleft: >
+    A young woman and youth with a friendly
+    hug
+  texttopmid: "431"
+  textbottommid: Staff + Volunteers
+  imagemid:
+    - circles-staff-volunteers-2022-v2.jpg
+  alttextmid: >
+    Five staff and volunteers laughing
+    together by a vehicle
+  texttopright: "63"
+  textbottomright: Active Initiatives
+  imageright:
+    - home-initiatives-2022.jpg
+  alttextright: Young girl with a soccerball in the air.
+  _key: circles
+  _uid: circles_1604873977960_506
+- 
+  heading: YU Across the City
+  text: >
+    In order to come alongside young people
+    to address their unique challenges and
+    vulnerabilities, Youth Unlimited
+    develops grassroots initiatives in local
+    partnerships throughout our city, which
+    includes Toronto, York, Peel, Durham,
+    and Halton. Explore the map to see where
+    we are engaging youth today!
+  image:
+    - mapdemo.png
+  _key: map
+  _uid: map_1604867723537_1236
+- 
+  heading: Gaining Ground Strategy
+  text: >
+    From 2023-2027, we believe God is
+    inviting us to ‘gain ground’ – to
+    invest and reach into new places, new
+    spaces, and new ways of doing things to
+    see more and more transformed youth
+    transforming our city.
+  buttontext: 'Learn More  ›'
+  button:
+    type: page
+    value: our-strategy
+  image:
+    - hero-branded.png
+  alttext: 'Four youth laughing & giving high five'
+  _key: text-image
+  _uid: text-image_1604867825577_2397
+- 
+  subheading: Latest Events + Stories
+  buttontext: 'Learn More  ›'
+  image:
+    - screen-shot-2022-09-02-at-1.12.50-pm.png
+  heading: Summer Snapshots 2022
+  text: '**Summer Snapshots 2022!**'
+  button:
+    type: url
+    value: https://www.yugta.ca/publications
+  _key: image-text
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: image-text_1648702208728_2294
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1605498621849_1382

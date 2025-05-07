@@ -1,0 +1,59 @@
+Title: Dan Bagg
+
+----
+
+Name: Dan Bagg
+
+----
+
+Position: The Shop Youth Worker
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="130530" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Dan is a youth worker at The Shop who is responsible for mentoring youth in difficult circumstances. He has the goal of caring for the hearts of youth and sharing the gospel with them as they work on cars together. Dan is passionate about imitating Christ’s love and compassion for those who are hurting. He has a wife named Jordy and they have two daughters named Abigail and Lucia.
+
+----
+
+Image:
+
+- placeholder.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: the shop

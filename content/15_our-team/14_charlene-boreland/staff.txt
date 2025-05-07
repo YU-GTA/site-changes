@@ -1,0 +1,56 @@
+Title: Charlene Boreland
+
+----
+
+Name: Charlene Boreland
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34208" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Charlene works with DOXA, a multifaceted urban-style ministry arm of Youth Unlimited in Scarborough. Charlene works in partnership with a local church and focuses on mentorship and discipleship in one of Toronto’s high priority neighborhoods in Scarborough.
+
+----
+
+Image:
+
+- layer-5.png
+
+----
+
+Alttext: Charlene Boreland portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: DOXA

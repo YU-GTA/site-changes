@@ -1,0 +1,56 @@
+Title: Jenn Mikelait
+
+----
+
+Name: Jenn Mikelait
+
+----
+
+Position: New Ministry Strategist
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="28627" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Jenn seeks to use her ministry and leadership experience to come alongside YU staff who are building new ministries. Through coaching and workshops she helps to provide structure, support, and education for new initiatives. Jenn has a role in proactively launching new ministries initiatives and is on the council that is starting YU's new partnership with South Sudan YFC.
+
+----
+
+Image:
+
+- layer-78.png
+
+----
+
+Alttext: Jenn Mikelait portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers

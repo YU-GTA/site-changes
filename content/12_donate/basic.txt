@@ -1,0 +1,130 @@
+Title: Donate
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-donate
+  _uid: navbar-donate_1608309007379_1208
+- 
+  heading: Donate Today
+  backgroundimage:
+    - headerdbg.png
+  _key: header-donate
+  _uid: header-donate_1608308542156_242
+- 
+  image:
+    - 0016_donate-financial-statements.png
+  alttext: >
+    Graffiti art of the word "fearful"
+    crossed out and the word "courageous"
+    bolded in orange
+  heading: Your Financial Partnership Matters
+  text: >
+    Impacting hundreds of young lives with
+    the life-changing love of Jesus requires
+    the faithful and generous partnership of
+    people like you. Join us in being
+    difference makers in our city through
+    the youth we serve today.
+  buttontext: ""
+  button: null
+  _key: image-text-alt
+  _uid: image-text-alt_1614519234376_8529
+- 
+  iframescript: |
+    <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="15983" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+  script: '<script id=ch_cdn_embed type=text/javascript src=https://www.canadahelps.org/secure/js/cdf_embed.js charset=utf-8 data-language=en data-page-id=15983 data-root-url=https://www.canadahelps.org data-formtype=0 data-cfasync=false></script>hjfvjvjh'
+  link: null
+  _key: iframe
+  _uid: iframe_1610680618948_3784
+- 
+  heading: Other Ways to Give
+  leftheading: Mail, Phone or E-transfer
+  lefttext: 'Send your gift of support via cheque to Youth Unlimited at the address in the footer. Or call us at 416.383.1477. Or e-transfer donations@yugta.ca with details in the memo: Your full name, address, the staff/program to which you would like to designate the funds.'
+  midheading: Donate Securities
+  midtext: >
+    Donating stocks, bonds, or mutual funds
+    is the most tax-efficient and
+    cost-saving way of giving to YU. Email
+    smoore@yugta.ca to donate via a simple
+    form today.
+  rightheading: Legacy Giving
+  righttext: >
+    You can make a generational impact on
+    young lives through your estate plan
+    with our partners, ADVISORS with
+    Purpose.
+  linktext: 'Learn More  ›'
+  link:
+    type: page
+    value: legacy-giving
+  _key: three-boxes
+  _uid: three-boxes_1608309676493_307
+- 
+  heading: Making Giving Easy
+  text: >
+    We are here to help you with any
+    questions you might have about
+    partnering financially with Youth
+    Unlimited. Every gift is cherished, and
+    impactful in the lives of the young
+    people we serve.
+  buttontext: Email Us ›
+  button:
+    type: page
+    value: partner-with-us
+  question1: >
+    Is donating online secure? Can I give
+    offline, too?
+  answer1: 'Yes! We are proud to partner with CanadaHelps, which upholds gold standard industry security practices. When you give online, CanadaHelps will send you a tax receipt and forward the money to YU within one week. You can also give offline by printing and mailing us (link: https://drive.google.com/file/d/1CQfK8uHLYaEsbFAHF_0J1MCfsmpHQxwi/view?usp=sharing text: this form).'
+  question2: >
+    How do I set up a monthly donation or
+    update my monthly support, or make a
+    change to how my donations are
+    designated?
+  answer2: "Please email yuadmin@yugtca or give us a call at 416-383-1477, and we'll be happy to help you. If your current monthly donation is via CanadaHelps, you'll have to change with them — but we can help you with that, too!"
+  question3: "What is YU's charity registration number and restricted giving policy?"
+  answer3: 'We operate as Youth Unlimited with the legal name Toronto Youth For Christ. Our charitable registration number is 140813502 RR 0001. Our restricted giving policy is: If a designated account is at some future time closed, any funds remaining in it will be re-allocated to another project or account as needed. If the annual need for a designated account has been met, the program/project leader may request that any surplus be designated towards other critical staff needs. All such decisions are approved by the Executive Director and/or Board of Directors.'
+  question4: When will I receive my tax receipt?
+  answer4: "We are so grateful for your support! YU sends out tax receipts in February for all giving in the prior tax year. If you didn't receive one, please call 416-383-1477 and we'd be happy to send you a replacement receipt. Please note that if you gave online through CanadaHelps, your tax receipt is handled by CanadaHelps and emailed to you. "
+  _key: faq
+  _uid: faq_1614514930979_1830
+- 
+  heading: Know how your donations are used
+  text: >
+    We strive to be excellent and effective
+    stewards of every gift we receive,
+    operating with integrity and an eye to
+    maximizing the impact of our supporters.
+    We post our audited financial statements
+    for transparency.
+  buttontext: 'See more financial details  ›'
+  button:
+    type: page
+    value: financial-statements
+  image:
+    - photo-how-donations-used.png
+  alttext: >
+    Male and female camp leaders helping a
+    young boy with a craft
+  _key: text-image-alt
+  _uid: text-image-alt_1614518068644_7822
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1614898532108_12251

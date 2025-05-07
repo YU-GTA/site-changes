@@ -1,0 +1,56 @@
+Title: Andrew Murrell
+
+----
+
+Name: Andrew Murrell
+
+----
+
+Position: DOXA Journeys Ministry Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="46875" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Andrew is a youth worker who just finished his undergrad at Tyndale University. He has a strong passion for missions and caring for at-risk children and youth. He will use his experience to pour into the lives of young people that Youth Unlimited reaches in the East Toronto area.
+
+----
+
+Image:
+
+- layer-82.png
+
+----
+
+Alttext: Andrew Murrell portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: doxa

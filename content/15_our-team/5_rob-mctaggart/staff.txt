@@ -1,0 +1,56 @@
+Title: Rob McTaggart
+
+----
+
+Name: Rob McTaggart
+
+----
+
+Position: The Shop Youth Worker
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="73777" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Rob has a passion for helping youth meet Jesus through one-on-one mentoring as they work on vehicles and build relationships. He joined The Shop in 2022 after serving in vocational sports and kids ministry. Rob is married to Molly and they have one child named Levi.
+
+----
+
+Image:
+
+- rob-mctaggart.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: The Shop

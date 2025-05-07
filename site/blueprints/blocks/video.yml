@@ -1,0 +1,15 @@
+name: Video
+fields:
+  heading:
+    label: Heading
+    type: text
+  text:
+    label: Text
+    type: text
+  video:
+    label: Video
+    type: link
+    required: true
+  caption:
+    label: Caption
+    type: text

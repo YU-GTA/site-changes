@@ -1,0 +1,56 @@
+Title: Rachel Thiessen
+
+----
+
+Name: Rachel Thiessen
+
+----
+
+Position: Director of Engagement
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="61597" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Rachel supports the sustainable growth and impact of YU through team leadership, relationship building, and fundraising, recruitment and communication strategies. She has a passionate heart to see the transformation of young people in the GTA, and is thrilled to use her expertise in communications to serve YU’s staff and Toronto’s youth each day.
+
+----
+
+Image:
+
+- rachel-thiessen.png
+
+----
+
+Alttext: Rachel Thiessen portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

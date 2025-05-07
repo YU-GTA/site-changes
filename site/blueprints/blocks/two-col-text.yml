@@ -1,0 +1,14 @@
+name: Two Column Text
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  lefttext:
+    label: Left Text
+    type: textarea
+    required: true
+  righttext:
+    label: Right Text
+    type: textarea
+    required: true

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>YU Map Demo</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    @font-face {
+      font-family: 'Gotham Bold';
+      src: url('../fonts/Gotham Bold.otf');
+    }
+
+    @font-face {
+      font-family: 'Gotham Medium';
+      src: url('../fonts/Gotham Medium.otf');
+    }
+
+    @font-face {
+      font-family: 'Calluna';
+      src: url('../fonts/Calluna.otf');
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+
+    .mapboxgl-popup-content {
+      padding: 5% 15%;
+      width: 100%;
+      max-width: 13.89vw;
+    }
+
+    .popupborder {
+      border-top: 1px solid #000000;
+      margin: 10% 0;
+      opacity: 0.1;
+    }
+
+    .popuptext {
+      font-size: 1rem;
+      font-family: "Calluna"
+    }
+
+    .popupteams {
+      font-size: 1rem;
+      font-family: "Calluna";
+      opacity: 0.6;
+      font-style: italic;
+    }
+
+    .popupheading {
+      font-size: 1.5rem;
+      font-family: "Gotham Medium";
+      color: #E3599C;
+      line-height: 117%;
+    }
+
+    .popupsubheading {
+      font-size: 0.75rem;
+      font-family: "Gotham Bold";
+      color: #000000;
+      line-height: 114.03%;
+      letter-spacing: 0.15em;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="map"></div>
+
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoieXVndGEiLCJhIjoiY2trMnJqcm0xMGRwZzJxbnVxN2ViNXE5MiJ9.EGJpk3Lx5gcU4PFonjNqWQ';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/yugta/cklr089ge01d617pk1r3ve3gu',
+      center: [-79.383, 43.750],
+      zoom: 9.5
+    });
+
+    map.on('load', function () {
+      map.addSource('areas', {
+        'type': 'geojson',
+        'data': 'https://api.mapbox.com/datasets/v1/yugta/ckl9s5mwa0a1z20qovft4uorf/features?access_token=pk.eyJ1IjoieXVndGEiLCJhIjoiY2trMnJqcm0xMGRwZzJxbnVxN2ViNXE5MiJ9.EGJpk3Lx5gcU4PFonjNqWQ'
+      });
+
+      map.addLayer({
+        'id': 'areas',
+        'type': 'fill',
+        'source': 'areas',
+        'paint': {
+          'fill-color': {
+            type: 'identity',
+            property: "color"
+          },
+          'fill-opacity': 0.5
+        }
+      });
+
+      map.on('click', 'areas', function (e) {
+        new mapboxgl.Popup()
+          .setLngLat(e.lngLat)
+          .setHTML(
+            "<h2 class='popupheading'>" + e.features[0].properties.area + "</h2>" +
+            "<p class='popupsubheading'>ACTIVE INITIATIVES</p>" +
+            "<p class='popuptext'><span class='popupsubheading'>" + e.features[0].properties.community + "</span>   Community Outreach</p>" +
+            "<p class='popuptext'><span class='popupsubheading'>" + e.features[0].properties.marketplace + "</span>   Marketplace Initiative</p>" +
+            "<p class='popuptext'><span class='popupsubheading'>" + e.features[0].properties.specialized + "</span>   Specialized Initiatives</p>" +
+            "<div class='popupborder'></div>" +
+            "<p class='popupsubheading'>ACTIVE TEAMS</p>" +
+            "<p class='popupteams'>" + e.features[0].properties.teams + "</p>"
+          )
+          .addTo(map);
+      });
+
+      map.on('mouseenter', 'areas', function () {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+
+      map.on('mouseleave', 'areas', function () {
+        map.getCanvas().style.cursor = '';
+      });
+    });
+
+    map.scrollZoom.disable();
+
+    map.addControl(new mapboxgl.NavigationControl());
+  </script>
+</body>
+
+</html>

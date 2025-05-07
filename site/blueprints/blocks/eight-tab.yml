@@ -1,0 +1,37 @@
+name: Eight Tab
+fields:
+  text:
+    label: Text
+    type: text
+  buttontext:
+    label: Button Text
+    type: text
+    required: true
+  button:
+    label: Button
+    type: link
+    required: true
+  lefttoptext:
+    label: Left Top Text
+    type: text
+  leftuppermidtext:
+    label: Left Upper Mid Text
+    type: text
+  leftlowermidtext:
+    label: Left Lower Mid Text
+    type: text
+  leftbottomtext:
+    label: Left Bottom Text
+    type: text
+  righttoptext:
+    label: Right Top Text
+    type: text
+  rightuppermidtext:
+    label: Right Upper Mid Text
+    type: text
+  rightlowermidtext:
+    label: Right Lower Mid Text
+    type: text
+  rightbottomtext:
+    label: Right Bottom Text
+    type: text

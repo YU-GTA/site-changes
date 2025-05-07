@@ -1,0 +1,63 @@
+Title: 2022 Golf Tournament : Tee It Up For Transformation 35th Anniversary
+
+----
+
+Name: Tee It Up For Transformation
+
+----
+
+Location: Blue Springs Golf Club
+
+----
+
+Button: Registration closed
+
+----
+
+Link:
+
+type: url
+value: https://form.jotform.com/220656523290251
+
+----
+
+Body:
+
+Thank you to the golfers and sponsors who teed it up for youth transformation on Monday, May 9, 2022 at Blue Springs Golf Club in Acton, Ontario.
+
+For **35 years** Youth Unlimited’s annual charity golf tournament has raised significant funds and built long-lasting partnerships that daily impact young lives throughout the GTA. This year's funds were raised in support of YU's Job Opportunity and Placement Initiative.
+
+**It was worth the drive to help kids thrive!**
+
+----
+
+Date: 2022-03-05 01:55
+
+----
+
+Eventdate: 2022-05-09 14:00
+
+----
+
+Bottomimage:
+
+- events-gt22-bottom-image-blank.jpg
+
+----
+
+Alttext2: Two golfers cheering at a hole.
+
+----
+
+Topimage:
+
+- >
+  events-bottom-image-gt2022-post-event-photo.png
+
+----
+
+Alttext: Golfer holds signs that say "It was worth the drive to help kids thrive"
+
+----
+
+Tags: Golf Tournament

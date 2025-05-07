@@ -1,0 +1,47 @@
+Title: Accessibility
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-home
+  isnew: true
+  _uid: navbar-home_1625000533241_1538
+- 
+  heading: "What is Youth Unlimited / TYFC's Accessibility Policy?"
+  text: >
+    Please click on the below button to read
+    our Accessibility Policy.
+  buttontext: Click Here to Read More
+  button:
+    type: url
+    value: >
+      https://drive.google.com/file/d/1_ojcGaTys5tAm1r0J_nx2kxDlVGHcMEq/view?usp=sharing
+    popup: true
+    text: |
+      YOUTH UNLIMITED’S ACCESSIBILITY POLICY Accessibility: All persons that connect to a TYFC program or facility, be they staff, volunteers, youth, children, family, visitors, inquirers, applicants or others, will be received courteously and with every effort to accommodate any disabilities and to prevent and remove barriers to accessibility. Disabilities may include, but are not limited to, physical, mental, learning, reading and speaking disabilities. Disabilities may be obvious or hidden. Persons with disabilities may be comfortable or uncomfortable disclosing their needs. Attentiveness, sensitivity, thoughtfulness and sometimes consultation will be required by all TYFC staff and volunteers in order to accommodate those with disabilities. This policy is required by the Accessibility for Ontarians with Disabilities Act. a) Effort will be made to treat everyone with disabilities in ways that are consistent with the principles of independence, dignity, integration and equality of opportunity. b) Effort will be made to accommodate any needed assistive devices, service animals and/or support persons; any extra fees required in order to include support persons will be waived. If the need for assistive devices, service animals and/or support persons is unclear, staff or program leaders will consult with the person with disabilities, will consider the health and safety of all involved, and may also request that the person with disabilities provide documentation from a regulated health professional. c) Effort will be made to take disabilities into account when communicating with individuals whether in spoken, written or electronic form. d) Staff or program leaders are responsible to ensure that any supervisees, volunteers, youth or guests with disabilities understand and have accessible emergency procedures in every location, program or office. e) If TYFC's ability to accommodate disabilities is temporarily disrupted, effort will be made to communicate this to all who may be impacted, explaining the reason, the duration and any alternatives available. f) Every location and program will request feedback from participants: at TYFC sites, typically through "How are we doing?" signs that invite feedback and instruct how to give it; in programs, typically through regular participant feedback forms or cards. g) "How are we doing?" signs will also indicate that this policy is available upon request. h) Any feedback received will be reported to the Team Leader and Personnel Director in order to develop a plan to respond to the feedback. i) All staff and volunteer ministry workers, and all administrative staff will receive training in this area during their orientation training sessions in accordance with the Ontario Customer Service Standard and in the Ontario Human Rights Code as it relates to people with disabilities within the first 6 months of their involvement with TYFC. j) Any staff member or volunteer that is likely in the course of their duties to be interacting with persons with disabilities will have an individual preparation session with the Personnel Department and may require more extensive training. k) As part of their annual Safety Plan, Ministry Leaders will be required to report that they have a plan to accommodate those with disabilities. l) Any staff member or volunteer that needs assistance in developing a plan to accommodate those with disabilities will consult with their Supervisor, Team Leader or the Personnel Director as needed. m) TYFC’s Accessibility Policies will be posted in the TYFC Central Office and on the TYFC website. Staff Interview: The Team Leader will conduct a formal interview. A Personnel Associate will be present at this interview. Administrative applicants may be required to complete relevant skills tests. A spouse may be invited to join the interview. Accommodation will be made for applicants with disabilities. Job Accommodation: If a staff member has or develops a disability that requires accommodation in order for him or her to do his or her job or develop professionally, he or she will notify his or her Supervisor, Team Leader and/or the Personnel Director. The Personnel Director is responsible to ensure that a written, individualized, accessibly-formatted accommodation plan is developed with input from all affected parties, as well as external consultants if required. A copy of this plan will be kept as confidential information in the staff member’s file. The Supervisor will monitor the effectiveness of the plan, with feedback from the staff member, so that suitable adjustments can be made. This plan will also be reviewed as part of his or her annual performance review.
+  question1: "What is Youth Unlimited / TYFC's Multi-Year Accessibility Plan?"
+  answer1: '(link: https://drive.google.com/file/d/1a-qxXjV4Kz4pfVfrCjMTmzsfvSISebVA/view?usp=sharing text: Click here to read our Multi-Year Accessibility Plan)'
+  question2: >
+    How do I send feedback about
+    accessibility?
+  answer2: >
+    We want to hear about your experience.
+    If you have questions or would like to
+    provide feedback, please call (416)
+    383-1477 or email us at info@yugta.ca or
+    come into our office during the hours of
+    operation. We are ready to make any of
+    our publicly available written
+    information or other forms of
+    communication accessible to individual
+    needs.
+  question3: ' '
+  answer3: ' '
+  question4: ' '
+  answer4: ' '
+  _key: faq
+  isnew: true
+  _uid: faq_1624988540155_1244

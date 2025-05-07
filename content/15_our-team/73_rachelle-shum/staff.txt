@@ -1,0 +1,59 @@
+Title: Rachelle Shum
+
+----
+
+Name: Rachelle Shum
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="61036" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Rachelle loves supporting youth and their families. At Youth Unlimited, she is excited to use her passion for social work alongside her calling for ministry. She enjoys helping and seeing others take their next steps towards Jesus.
+
+----
+
+Image:
+
+- rachelle-shum.png
+
+----
+
+Alttext: Portrait of Rachelle
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: Intern, Internship

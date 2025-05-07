@@ -1,0 +1,56 @@
+Title: Sarah Burton
+
+----
+
+Name: Sarah Burton
+
+----
+
+Position: DOXA Associate Director
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34210" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: God used my mission experiences to deeply impact my life; they were a catalyst for me to join the DOXA team! My role with YU is training and mentoring students and volunteers, and planning future DOXA Journeys trips. I have a heart for the youth of our city and I love to see students encounter God in a new way as they learn to be “globally conscious and locally active”.
+
+----
+
+Image:
+
+- layer-12.png
+
+----
+
+Alttext: Sarah Burton portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com
+
+----
+
+Tags: DOXA

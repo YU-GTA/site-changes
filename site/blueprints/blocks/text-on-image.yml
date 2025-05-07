@@ -1,0 +1,26 @@
+name: Text on Image
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  text:
+    label: Text
+    type: textarea
+    required: true
+  image:
+    label: Image
+    type: files
+    multiple: false
+    required: true
+  alttext:
+    label: Image Alt Text
+    type: text
+  imagemobile:
+    label: Mobile Image
+    type: files
+    multiple: false
+    required: true
+  alttextmobile:
+    label: Image Alt Text
+    type: text

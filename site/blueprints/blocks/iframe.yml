@@ -1,0 +1,6 @@
+name: IFrame
+fields:
+  iframescript:
+    label: IFrame Script
+    type: textarea
+    required: true

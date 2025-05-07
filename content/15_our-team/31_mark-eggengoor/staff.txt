@@ -1,0 +1,56 @@
+Title: Mark Eggengoor
+
+----
+
+Name: Mark Eggengoor
+
+----
+
+Position: Stepping Stones: Manager
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="46900" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Mark is passionate about serving young people by building relationships with them in a life and employment skills social enterprise. Mark is also passionate about landscaping and mountain biking. Through a landscaping social enterprise and a bike shop, youth are engaged and employed while steadfastly receiving and experiencing God’s life-changing message.
+
+----
+
+Image:
+
+- layer-79.png
+
+----
+
+Alttext: Mark Eggengoor portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Stepping Stones Property Services, heartbeat, bikes

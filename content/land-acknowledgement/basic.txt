@@ -1,0 +1,82 @@
+Title: Land Acknowledgement
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1671205401977_6146
+- 
+  heading: Land Acknowledgement
+  backgroundimage:
+    - header-land-acknowledgement.png
+  _key: header-makingspace
+  _uid: header-makingspace_1671205350177_5796
+- 
+  heading: ' '
+  lefttext: |
+    **Youth Unlimited (YFC Toronto) acknowledges that the land here upon which we work is the traditional territory of many nations including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and the Wendat peoples and is now home to many diverse First Nations, Inuit, and Métis Peoples. We also acknowledge that Toronto is covered by Treaty 13 signed with the Mississaugas of the Credit, and the Williams Treaties signed with multiple Mississaugas and Chippewa bands**.
+    
+    **This land was appropriated by the British Crown in what was called “The Toronto Purchase” (Treaty 13) in 1787 — an unjust scenario where Indigenous people generously understood the agreement was for lease of the land and safe passageway, not for outright purchase. **
+  righttext: |
+    **As we work on this sacred land, we grieve deeply the injustices imposed on many generations of Indigenous peoples in Canada. **
+    
+    **We commit to not become weary in doing good in partnership with Indigenous peoples and raising a generation of young people that are passionate about making things right together with the Indigenous peoples who have shared their land with us.**
+    
+    *While this land acknowledgement recognizes the geographical territory where our head office is located, we acknowledge that we work with a multitude of communities and First Nations on Indigenous land across the GTA and beyond. We recognize that each community has their own treaties that we honour and respect. We acknowledge our responsibility to uphold and support these treaties and all Indigenous communities.*
+  _key: two-col-text
+  _uid: two-col-text_1671202975557_360
+- 
+  image:
+    - web-land-acknowledgement.png
+  alttext: >
+    Original artwork of landscape by Youth
+    Unlimited staff Tim Huff
+  heading: ' '
+  text: >
+    This original artwork, created by YU
+    staff member Tim Huff, is on display in
+    the reception area of our head office,
+    accompanied by our land acknowledgement.
+    Scroll down to read a message from Tim.
+  buttontext: Larger view of the artwork
+  button:
+    type: url
+    value: >
+      https://yugta.ca/media/pages/land-acknowledgement/2584427398-1671207854/land-acknowledgement-large.png
+  _key: image-text-alt
+  _uid: image-text-alt_1671203355015_1298
+- 
+  iframescript: |
+    ## **Message From the Artist**
+    
+    Tim Huff, YU Compassion Series Team Lead
+    
+    Though hardly worthy to speak to such things - commissioned as a white settler, with a deep heart for the Indigenous story and people of Canada, to illustrate a companion piece for Toronto Youth Unlimited’s Land Acknowledgement - these are the sensibilities of my modest and humble attempts:
+    
+    - The vibrant colours reflect the vast beauty and diversity of Indigenous regalia, music, dance, language, food and culture.
+    
+    - The unfinished edges identify that Creator and His creation can not be boxed in, and that the Indigenous story is not done.
+    
+    - The multiple river currents represent tears of mourning, tears of hope, and tears of joy.
+    
+    - The sun represents abundance and its reflection represents provision and peace.
+    
+    - The tall, full trees represent countless generations of strength, courage and wisdom.
+    
+    - The rocks in the stream and the flowers reaching over the shoreline represent the significant challenges of, and prayerful work towards, (re)conciliation.
+  _key: iframe
+  _uid: iframe_1671206007202_10848
+- 
+  iframescript: |
+    ## **Learn More About:**
+    
+    • **Indigenous communities** across Canada and the treaties signed across Canada: (link: https://www.whose.land/en/ text: whose.land)
+    
+    • The historical impact of the **Doctrine of Discovery**: (link: https://www.anglican.ca/primate/tfc/drj/doctrineofdiscovery/ text: anglican.ca/doctrineofdiscovery)
+    
+    • The recommendations of **Canada's Truth and Reconciliation Commission**: (link: https://nctr.ca/ text: nctr.ca)
+  _key: iframe
+  _uid: iframe_1671206323945_13352

@@ -1,0 +1,6 @@
+name: Navbar Get Involved
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: false

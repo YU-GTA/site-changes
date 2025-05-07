@@ -1,0 +1,12 @@
+title: Legal Page
+fields:
+  heading:
+    label: Heading
+    type: text
+  subheading:  
+    label: Subheading
+    type: text
+  text:
+    label: Text
+    type: textarea
+    size: large

@@ -1,0 +1,56 @@
+Title: Tim Huff
+
+----
+
+Name: Tim Huff
+
+----
+
+Position: Compassion Series: Team Lead
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34397" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Tim develops an interactive program, complimented by original curriculum, that addresses complex social justice issues in a safe, thoughtful and age appropriate manner for both faith-based and values-based schools, school boards, community groups, and families. He also delivers creative and supportive presentations for educators, education leaders, and parents.
+
+----
+
+Image:
+
+- layer-81.png
+
+----
+
+Alttext: Tim Huff portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Compassion Series

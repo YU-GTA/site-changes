@@ -1,0 +1,94 @@
+Title: Financial Statements
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-donate
+  _uid: navbar-donate_1614517015012_4242
+- 
+  heading: Your Giving. Your Impact.
+  backgroundimage:
+    - 0001_financial-statements.png
+  _key: header-donate
+  _uid: header-donate_1614517017123_4456
+- 
+  heading: How donations were used
+  text: "The following is a high-level look at YU's expenses for the year ending June 30, 2024. In this year, 88% of donated funds were used for our programs and directly related support activities. *Non-Cash Expenses include amortization and other accounting charges."
+  buttontext: 'Learn about what we do  ›'
+  button:
+    type: page
+    value: what-we-do
+  image:
+    - >
+      241212-yu-website-financial-statements_01-how-donations-were-used.png
+  alttext: 'Pie chart of donation usage, categorized by: expenses, operations, gifts and non-cash expenses'
+  _key: text-image-alt
+  _uid: text-image-alt_1614546525468_977
+- 
+  heading: Diverse Programming
+  text: "We've broken down our $4.8M of program expenses (including staffing) into our six programming categories, as well as program development and support."
+  buttontext: 'Learn more about our programs  ›'
+  button:
+    type: page
+    value: what-we-do
+  image:
+    - >
+      241212-yu-website-financial-statements_02-diverse-programming.png
+  alttext: >
+    Pie chart of program expenses split into
+    seven categories
+  _key: text-image-alt
+  _uid: text-image-alt_1614562065789_2340
+- 
+  heading: Operating for Impact
+  text: "YU's Operating (or General) Fund supports the strategic operations and ongoing impact of Youth Unlimited among the youth of the GTA. Here's how our operating expenses stewarded the monies of $1M invested in supporting our vision of transformed youth transforming our city."
+  buttontext: "Support YU's General Operations  ›"
+  button:
+    type: page
+    value: donate
+  image:
+    - >
+      241212-yu-website-financial-statements_03-operating-for-impact-1.png
+  alttext: >
+    Pie chart of operating expenses split
+    into seven categories
+  _key: text-image-alt
+  _uid: text-image-alt_1614549247188_1634
+- 
+  heading: Staff Funding Levels
+  text: >
+    As urban ministry workers, our staff
+    participate together in raising funds to
+    support their work among the youth of
+    the GTA. In the past year, 15 staff have
+    not yet reached full funding levels
+    representing a gap of $221,913, and 3
+    staff are in the start-up period of
+    building a support team. Learn more
+    about our Open Hearts Fund by clicking
+    the button, where your support can help
+    undergird these staff specifically.
+  buttontext: 'Donate to Open Hearts Assistance Fund  ›'
+  button:
+    type: page
+    value: open-hearts
+  image:
+    - >
+      241212-yu-website-financial-statements_04-staff-funding-levels.png
+  alttext: >
+    Pie chart of staff funding levels;
+    either fully funded or short of target
+  _key: text-image-alt
+  _uid: text-image-alt_1614537896687_1922
+- 
+  heading: View our latest Financial Statements
+  buttontext: Download Now
+  button:
+    type: url
+    value: >
+      https://drive.google.com/file/d/1s1u1koqfSl1gFPVexGm3Bzbc4MiPQOBN/view?usp=sharing
+  _key: footer-aboutus
+  _uid: footer-aboutus_1614534016058_1561

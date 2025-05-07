@@ -1,0 +1,109 @@
+Title: Fundraise
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-getinvolved
+  _uid: navbar-getinvolved_1607629034858_7980
+- 
+  heading: >
+    Make A Difference, All It Takes Is An
+    Idea!
+  image:
+    - about-us_475x701_blue-this-one.png
+  backgroundimage:
+    - headergibg.png
+  alttext: Young girl smiling and receiving a plant
+  bottomsubhead: ' '
+  bottomhtext: >
+    We know one person with one idea can
+    make an impact in our city and there are
+    so many creative ways that you might
+    raise money for Youth Unlimited.
+  _key: header-getinvolved
+  _uid: header-getinvolved_1614337079071_1268
+- 
+  heading: Participate in a Community Event
+  text: >
+    YU participates in many crowd-funding
+    events like the annual Gaining Ground
+    Walk-a-thon or the Tee it Up for
+    Transformation Golf Tournament. Join the
+    YU team and invite your friends to join
+    you in a meaning-filled adventure!
+  buttontext: 'Visit our events page to learn more  ›'
+  button:
+    type: url
+    value: https://yugta.ca/events
+  image:
+    - 0017_fundraise-centurion.png
+  alttext: >
+    Four people participating in biking
+    fundraiser event
+  _key: text-image-alt
+  _uid: text-image-alt_1613575427648_9655
+- 
+  image:
+    - 0016_fundraise-event.png
+  alttext: >
+    Group photo at annual Friends Reception
+    event
+  heading: >
+    Host an Advocacy Gathering at your home
+    or YU event
+  text: "We believe that joining with YU in our mission is fun and life-changing, and we hope you do too. Raise funds and awareness by hosting a small gathering or inviting a group of friends & family to a YU event. It's a great way to share the joy of impacting young lives."
+  buttontext: 'Email Scott to learn more  ›'
+  button:
+    type: url
+    value: "mailto:smoore@yugta.ca?subject=I'd like to host an advocacy gathering"
+  _key: image-text-alt
+  _uid: image-text-alt_1613574673689_7741
+- 
+  heading: Create your own Initiative!
+  text: >
+    We partner with CanadaHelps to create a
+    platform where you can bring your great
+    ideas to life to come alongside
+    vulnerable youth in our city. Whether
+    it’s dedicating your birthday gifts to
+    helping young parents, committing to
+    riding your bike everywhere for 1 month
+    to send kids to camp, shaving your head,
+    or walking 3km a day to help homeless
+    youth find housing, it’s as easy as
+    setting up a campaign page at
+    CanadaHelps and getting your friends and
+    family involved.
+  buttontext: 'Launch your campaign now  ›'
+  button:
+    type: url
+    value: >
+      https://www.canadahelps.org/en/fundraise/
+  image:
+    - fundraise-2k-kids.jpg
+  alttext: >
+    Kids running in neon green jerseys to
+    fundraise
+  _key: text-image-alt
+  uniquekey: 0
+  showpreviewinitially: false
+  _uid: text-image-alt_1614337421866_1587
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: careers
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1608274424937_7939

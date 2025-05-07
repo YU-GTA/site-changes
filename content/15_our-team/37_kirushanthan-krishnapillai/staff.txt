@@ -1,0 +1,56 @@
+Title: Kirushanthan Krishnapillai
+
+----
+
+Name: Kirushanthan Krishnapillai
+
+----
+
+Position: Community Youth Worker
+
+----
+
+Team: DOXA
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="52142" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Kirushanthan develops programs for community youth, organizes DOXA gatherings, invests into the lives of young people through 'discipling cohorts' and assists in the DOXA Journeys ministry. Kirushanthan has a passion for sharing God's love with others and making disciples, and desires to walk like Jesus did in all areas of his life.
+
+----
+
+Image:
+
+- layer-102.png
+
+----
+
+Alttext: Kirushanthan Krishnapillai portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: DOXA

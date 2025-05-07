@@ -1,0 +1,197 @@
+Title: DOXA
+
+----
+
+Name: DOXA
+
+----
+
+Lefttext: To pursue kingdom partnerships in Scarborough in which young people centre their lives within the mission and message of Jesus.
+
+----
+
+Righttext: We are a multifaceted collaborative ministry design on large group outreach (DOXA Gatherings), service and mission experiences (DOXA Journeys) and leader and student training and discipling seminars and cohorts (DOXA Equip).
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit the DOXA website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: 'https://www.doxatoronto.com/ '
+
+----
+
+Headingone: DOXA Initiatives
+
+----
+
+Titleone: Community Outreach
+
+----
+
+Textone:
+
+**Parkway Church Partnership** 
+
+Community outreach partnership with Parkway Bible Church in Scarborough
+
+**St. Andrews Church Partnership** 
+
+Community outreach partnership with St. Andrews Presbyterian Church in Scarborough
+
+**Wesley Chapel Church Partnership** 
+
+Community outreach partnership with Wesley Chapel in Scarborough
+
+**Wilmar Heights Church Partnership** 
+
+Community outreach partnership with Wilmar Heights Baptist Church in Scarborough
+
+**Scarborough Junior High & High School Gatherings** 
+
+Monthly gatherings designed for Scarborough youth to learn about Jesus and to discover what it means to follow in His ways
+
+**DOXA Journeys GTA** 
+
+A six-month hands-on disciple-making initiative allowing Scarborough youth the opportunity to engage with issues of poverty and justice as they serve locally in the GTA
+
+----
+
+Titletwo: Leadership Developement
+
+----
+
+Texttwo:
+
+**Scarborough Youth Workers Network** 
+
+Equipping ministry leaders to embrace the disciple-making model of Jesus and to collaboratively journey together to serve the youth of Scarborough
+ 
+**REMIX Urban Ministry Week** 
+
+A week-long urban mission experience designed to equip, train and inspire young people to center their lives within the mission and message of Jesus
+
+**PREMIX Urban Ministry Week** 
+
+A two-day urban mission experience design to equip, train and inspire youth in grades 6-8 center their lives within the mission and message of Jesus
+
+----
+
+Titlethree: Trips & Camps & Events
+
+----
+
+Textthree:
+
+**Serpent River First Nations Ministry** 
+
+A six-month hands-on disciple-making initiative allowing Scarborough youth to build ongoing relationships through camps and community programs with Serpent River First Nation
+
+**Young Adults International Service Project (Dominican Republic)** 
+
+A six-month hands-on disciple-making initiative which gives students the opportunity to effect changes in their own lives, communities and in the Dominican Republic
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Kingdom Partnerships
+
+----
+
+Stats: As we seek to have a greater kingdom impact in Scarborough and beyond, our DOXA team would love to support your youth ministry throughout Scarborough. Through church partnerships, large group outreaches, discipling cohorts, and mission opportunities, DOXA is here to engage with you around the mission and message of Jesus.
+
+----
+
+Image:
+
+- doxa.png
+
+----
+
+Alttext: DOXA Summer Camp female leader and two young boys sitting on the floor, drawing
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: 
+
+----
+
+Titletop: COMMUNITY OUTREACH
+
+----
+
+Texttop:
+
+**DOXA Church Partnership: St. Andrews Presbyterian Church**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Brampton Basketball**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Bridletowne Prison Visits**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Oshawa Outreach**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**South-Central Etobicoke Lakeshore Soccer League**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+----
+
+Titlebottom: SPECIALIZED INITIATIVES
+
+----
+
+Textbottom:
+
+**DOXA Journeys: Serpent River**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.
+
+**Project Serve: Toronto Service Projects**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt egestas venenatis lectus at netus enim. Morbi in turpis aliquam, elementum, tortor, gravida tempor.

@@ -1,0 +1,56 @@
+Title: Meiling Kim
+
+----
+
+Name: Meiling Kim
+
+----
+
+Position: Engagement Team Associate
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="28810" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: As Engagement Team Associate, Meiling bolsters the Engagement Team’s communication, fundraising and recruitment efforts across Youth Unlimited through administrative, project coordination and design support. Meiling desires to see, share and engage people in Youth Unlimited's vision of transformed young people transforming their communities, our city and beyond.
+
+----
+
+Image:
+
+- meiling-kim-2024.png
+
+----
+
+Alttext: Meiling Kim portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

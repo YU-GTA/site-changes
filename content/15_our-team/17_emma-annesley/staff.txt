@@ -1,0 +1,56 @@
+Title: Emma Annesley
+
+----
+
+Name: Emma Annesley
+
+----
+
+Position: Program Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="43738" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: David and Emma came to Toronto as missionaries more than 14 years ago, and continue to serve those living in vulnerable and marginalised communities, sharing the love and hope they’ve found in knowing Christ. Emma supports, encourages and walks with parenting young women on their journey towards health and wholeness and an identity rooted in Christ.
+
+----
+
+Image:
+
+- layer-37.png
+
+----
+
+Alttext: Emma Annesley portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

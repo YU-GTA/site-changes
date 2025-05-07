@@ -1,0 +1,59 @@
+Title: Jaden Barrett
+
+----
+
+Name: Jaden Barrett
+
+----
+
+Position: Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="104322" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Jaden is passionate about working in ministry and is currently involved in the youth ministry at Bayview Glen Church. In her role as a YU ministry intern, she is enthusiastic about serving the younger generation and is excited to see what God is doing, and will do, through the youth we serve.
+
+----
+
+Image:
+
+- jaden-barrett.png
+
+----
+
+Alttext: Headshot of Jaden
+
+----
+
+Facebooklink:
+
+type: url
+value: >
+  https://www.facebook.com/youthunlimitedtoronto?mibextid=ZbWKwL
+
+----
+
+Instagramlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Twitterlink:
+
+type: url
+value: >
+  https://www.instagram.com/youthunlimitedtoronto?igsh=MW1kYTk0c2Q2M2htcQ==
+
+----
+
+Tags: intern

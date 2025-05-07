@@ -1,0 +1,121 @@
+Title: Light Patrol
+
+----
+
+Name: Light Patrol
+
+----
+
+Lefttext: Light Patrol envisions that all young people in the GTA would have the opportunity to know the peace of having a home and a place of belonging within a supportive Christian community.
+
+----
+
+Righttext: Youth experiencing homelessness face significant barriers in many aspects of their lives. Light Patrol goes to where these youth are: under bridges, on street corners, and encamped in parks.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Get Involved  ›
+
+----
+
+Learnlink:
+
+type: page
+value: get-involved
+
+----
+
+Headingone: Light Patrol Initiatives
+
+----
+
+Titleone: Critical Care
+
+----
+
+Textone:
+
+**Curb Light Street Ministry** 
+
+Mobile outreach program to youth experiencing homelessness in downtown Toronto
+
+**Health Light Street Ministry** 
+
+Health assessments and basic medical care for youth experiencing homelessness in downtown Toronto
+
+**1:1 Youth Care** 
+
+Ongoing relational support for youth experiencing homelessness and youth who are newly housed
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: The Reality of Youth Homelessness
+
+----
+
+Stats: While Toronto is one of the wealthiest cities in Canada, it also has the largest population of those experiencing homelessness, and 28% of those experiencing homelessness are youth. It is our joy to get to know the people and stories behind this number, and to support them as they work towards realizing their goals and dreams.
+
+----
+
+Image:
+
+- lp.png
+
+----
+
+Alttext: A group of people standing outside the Light Patrol outreach truck
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Light Patrol

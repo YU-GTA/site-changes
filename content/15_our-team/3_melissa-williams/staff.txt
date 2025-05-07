@@ -1,0 +1,56 @@
+Title: Melissa Williams
+
+----
+
+Name: Melissa Williams
+
+----
+
+Position: Internship Director
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34478" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: In her role as Internship Director, Melissa welcomes young adults into an internship program designed to Equip and Support young leaders and ministry workers to reach their full personal and vocational potential, released to serve in the areas of their gifting in or outside our organization.
+
+----
+
+Image:
+
+- layer-64.png
+
+----
+
+Alttext: Melissa Williams portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services, Intern Cohort

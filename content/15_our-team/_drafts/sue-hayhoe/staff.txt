@@ -1,0 +1,56 @@
+Title: Sue Hayhoe
+
+----
+
+Name: Sue Hayhoe
+
+----
+
+Position: Group Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type='text/javascript' src="https://www.canadahelps.org/secure/js/cdf_embed.js" charset='utf-8' data-language="en" data-page-id="33849" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Sue has worked as a volunteer with our Brampton Young Moms group for over 12 years. She is a passionate mother to four, and now grandma to seven!  When her own children were grown, she had an ache in her heart to continue to be a “mother” to others.  After having a friend introduce her to the Brampton Young Moms group, it just seemed like a natural fit. After some time, Sue moved to volunteer leader. She loves to share her faith in Jesus  and be a mentor to the young moms and other volunteers in the Brampton group.
+
+----
+
+Image:
+
+- layer-101.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: facebook.com
+
+----
+
+Tags: Young Parents

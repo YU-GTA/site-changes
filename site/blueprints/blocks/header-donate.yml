@@ -1,0 +1,11 @@
+name: Header Donate
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true
+  backgroundimage:
+    label: Background Image
+    type: files
+    multiple: false
+    required: true

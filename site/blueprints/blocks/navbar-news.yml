@@ -1,0 +1,6 @@
+name: Navbar News
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: false

@@ -1,0 +1,6 @@
+name: Header News
+fields:
+  heading:
+    label: Heading
+    type: text
+    required: true

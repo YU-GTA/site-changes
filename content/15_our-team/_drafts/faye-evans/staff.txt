@@ -1,0 +1,56 @@
+Title: Faye Evans
+
+----
+
+Name: Faye Evans
+
+----
+
+Position: Administrative Support
+
+----
+
+Team: South-Central Etobicoke
+
+----
+
+Script: .
+
+----
+
+Description: Faye has been married for 42 years and has 3 children and 5 grandchildren. She worked in the Banking Industry for over 40 years and is now retired. She prayed and asked God how she could use her time productively in ministry. Faye knew about Youth Unlimited and contacted Becky Cripps to see if any help would be needed. So the journey began, first working at Light Patrol and now for South Central Etobicoke supporting the work to help transform youth by God’s love in our community.
+
+----
+
+Image:
+
+- layer-35.png
+
+----
+
+Alttext: Faye Evans portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: South-Central Etobicoke

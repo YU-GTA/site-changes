@@ -1,0 +1,56 @@
+Title: Lydia Marr
+
+----
+
+Name: Lydia Marr
+
+----
+
+Position: Administrative Assistant
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="80225" data-root-url="" data-formtype="0" data-cfasync="false"></script>
+
+----
+
+Description: Lydia's love for young people fuels her passion for person centered care and support of young parents and their children. Through commitment of excellence in administration and communication she uses her passions and skills to enhance the effectiveness of the Young Parents Director and ministry team through administrative support and finding joy in everyday tasks.
+
+----
+
+Image:
+
+- lydia-marr.png
+
+----
+
+Alttext: Headshot of Young Parents Intern Lyndia
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Young Parents

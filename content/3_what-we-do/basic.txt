@@ -1,0 +1,183 @@
+Title: What We Do
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1607628893332_4560
+- 
+  heading: ' What We Do'
+  image:
+    - about-us_475x701_yellow-this-one.png
+  alttext: Youths smiling with hands raised
+  backgroundimage:
+    - headerabbg.png
+  bottomsubhead: Grassroots, entrepreneurial partnerships
+  bottomhtext: >
+    Youth Unlimited partners with local
+    churches and organizations in grassroots
+    programming to foster the wholistic
+    transformation of young people and their
+    communities.
+  buttontext: 'Meet Our Team  ›'
+  button:
+    type: page
+    value: our-team
+  _key: header-aboutus
+  _uid: header-aboutus_1613741912552_3735
+- 
+  heading: Our Programs
+  slide1heading: Community Outreach
+  slide1text: |
+    ***Connecting in neighbourhoods through team and mentoring relationships***
+    Our Community Outreach initiatives journey alongside youth within GTA neighbourhoods.  These multifaceted programs are shaped by the needs and desires of the local community, and brought to life through the passions, skills and expertise of our people.
+    They include: Academic Support, School Programs, Neighbourhood Drop-Ins, Recreational Sports, Neighbourhood Church Partnerships, and Virtual Outreach.
+  slide1topheading: "20"
+  slide1toptext: Active Initiatives
+  slide1bottomheading: "4"
+  slide1bottomtext: Teams Leading Initiatives
+  slide1image:
+    - vic_village.jpg
+  alttext1: Four men in a kitchen preparing meals
+  slide2heading: Critical Care
+  slide2text: |
+    ***Supporting youth experiencing systemic vulnerability***
+    These programs provide wholistic care and tangible support to youth experiencing systemic vulnerability, as well as strategic advocacy and/or allyship. They include:
+    • Mobile Presence - prison visits, street outreach, massage parlour outreach
+    • Safe Housing - temporary housing residence, Home Stay program
+    • Young Parent Support
+    • Physical/Health Support - food, clothing, medical care
+    • Mental Health Support
+    • Advocacy & “Allyship”
+  slide2topheading: "16"
+  slide2toptext: Active Initiatives
+  slide2bottomheading: "5"
+  slide2bottomtext: Teams Leading Initiatives
+  slide2image:
+    - critical-care-2.jpg
+  alttext2: Light Patrol staff conversing outdoors
+  slide3heading: Innovative Centres
+  slide3text: |
+    ***Pursuing shared interests in inspiring environments***
+    These activities inspire youth as they gather together to grow and develop in areas of shared interests and passion.
+    These include: Sports & Fitness Training, and Artistic Development (future).
+  slide3topheading: "2"
+  slide3toptext: Active Initiatives
+  slide3bottomheading: "2"
+  slide3bottomtext: Teams Leading Initiatives
+  slide3image:
+    - jiujitsupromos-133.jpg
+  alttext3: >
+    Two young girls kneeling on a mat in a
+    busy jiu jitsu class
+  slide4heading: Leadership Development
+  slide4text: |
+    ***Growing and discovering God’s purpose for life***
+    Our Leadership Development programs provide mentorship, growth and discipling relationships for youth, as well as networking and equipping opportunities for parents, teachers and youth workers. These include:
+    • Parent and Youth Worker Equipping
+    • Intentional Mentorship
+    • Discipleship Cohorts
+    • Youth Leadership Training
+  slide4topheading: "11"
+  slide4toptext: Active Initiatives
+  slide4bottomheading: "5"
+  slide4bottomtext: Teams Leading Initiatives
+  slide4image:
+    - leadership-development-2.jpg
+  alttext4: Three volunteers smiling in soup kitchen
+  slide5heading: Marketplace Initiatives
+  slide5text: |
+    ***Developing employment skills and entrepreneurship***
+    Our Marketplace Initiatives support the development of sustainable livelihoods for young people through mentoring relationships that focus on employment readiness, job-skills training, employment placement and entrepreneurship. These include:
+    • Employment Support - readiness, placement, mentoring
+    • Social Enterprise
+    • Skills Training
+  slide5topheading: "6"
+  slide5toptext: Active Initiatives
+  slide5bottomheading: "2"
+  slide5bottomtext: Teams Leading Initiatives
+  slide5image:
+    - market-place-initiatives.jpg
+  alttext5: >
+    Two young women changing a car tire in
+    The Shop
+  slide6heading: 'Trips, Camps & Events'
+  slide6text: |
+    ***Sharing experiences, adventure and social impact***
+    Our Trips, Camps & Events enable youth to join with friends as they share adventures and experiences, and participate in short-term service and mission projects.
+    These include:
+    • Short-Term Mission Trips - Serpent River, Dominican Republic
+    • Camps - day camp, overnight camp
+    • Service Projects - Project Serve
+    • Day Trips - farm, archery, fishing
+  slide6topheading: "6"
+  slide6toptext: Active Initiatives
+  slide6bottomheading: "6"
+  slide6bottomtext: Teams Leading Initiatives
+  slide6image:
+    - seeds_of_hope.jpg
+  alttext6: Youths dancing at Seeds of Hope camp
+  _key: six-slides
+  _uid: six-slides_1606718084500_2337
+- 
+  heading: Our Approach
+  subheadleft: "DISCERNING GOD'S INVITATION"
+  textleft: >
+    Since we depend on God to bring about
+    the transformation of youth and our
+    city, we seek His invitation and
+    guidance in our daily activities and
+    strategic decisions.
+  imageleft:
+    - guiding-principle-image-1-v5.png
+  alttextleft: Folded hands on top of an open bible
+  subheadmid: LONG-TERM RELATIONSHIPS
+  textmid: >
+    Since we know wholistic transformation
+    takes time, trust and modelling, we seek
+    to develop meaningful, long-term
+    relationships with youth.
+  imagemid:
+    - guiding-principle-image-2.png
+  alttextmid: >
+    Three women sitting at a table
+    conversing outdoors
+  subheadright: LIFE-LONG TRANSFORMATION
+  textright: 'Since we desire young people to be on a life-long faith journey with Jesus, we  seek to integrate youth into vibrant faith communities where they can find belonging and purpose.'
+  imageright:
+    - guiding-principle-image-3-v2.png
+  alttextright: >
+    Male volunteer teaching young boy to
+    ride a bike
+  _key: three-image-text
+  _uid: three-image-text_1615547173671_2059
+- 
+  heading: See Where Youth Unlimited Works
+  text: >
+    Our 59 active initiatives serve young
+    people across the Greater Toronto Area.
+    Learn more about where and how we are
+    engaging young people and their
+    communities by type of programming,
+    area, or YU team!
+  _key: map
+  _uid: map_1605729898522_715
+- 
+  heading: Get Involved
+  leftbuttontext: 'Careers  ›'
+  leftbutton:
+    type: page
+    value: job-openings
+  midbuttontext: 'Volunteer  ›'
+  midbutton:
+    type: page
+    value: volunteer
+  rightbuttontext: 'Fundraise  ›'
+  rightbutton:
+    type: page
+    value: fundraise
+  _key: footer-home
+  _uid: footer-home_1605729915420_924

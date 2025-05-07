@@ -1,0 +1,56 @@
+Title: Helen Wyse
+
+----
+
+Name: Helen Wyse
+
+----
+
+Position: People Care Facilitator
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="19471" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Helen serves as our People Care Facilitator. She will be facilitating people care throughout our chapter, developing and supporting our team shepherds, and helping us stay attuned to the whole-person well-being of our workers. A quarter of her time will be supporting YFC Canada with matters related to people care and development.
+
+----
+
+Image:
+
+- headshots-helen-wyse.png
+
+----
+
+Alttext: Helen Wyse portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services

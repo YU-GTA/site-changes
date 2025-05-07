@@ -1,0 +1,56 @@
+Title: Elim Cheung
+
+----
+
+Name: Elim Cheung
+
+----
+
+Position: Administrator - Special Projects & Office Operations
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="28809" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Elim's heart for young people can be summarized in Matthew 10:31 - "So don’t be afraid; you are worth more than many sparrows!" After working overseas in East Asia, Elim returned to Toronto in 2013. Now her role of administration at Youth Unlimited includes a variety of special projects, office operations, reception and being a general liaison for the public.
+
+----
+
+Image:
+
+- elim-cheung-2024.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: central services

@@ -1,0 +1,56 @@
+Title: Benjamin Osei
+
+----
+
+Name: Benjamin Osei
+
+----
+
+Position: Outreach Worker
+
+----
+
+Team: Jane-Finch
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34459" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Ben has been serving in the Jane-Finch community since 2003, coordinating Hoop 2 Hope Basketball and Seeds of Hope Summer Camp. Known as “Uncle Ben”, he has the privilege of being a father figure to many young people, sharing the good news of God's Kingdom and walking alongside them during the often difficult years of growing up.
+
+----
+
+Image:
+
+- layer-14.png
+
+----
+
+Alttext: Benjamin Osei portrait
+
+----
+
+Facebooklink:
+
+type: page
+value: home
+
+----
+
+Instagramlink:
+
+type: page
+value: home
+
+----
+
+Twitterlink:
+
+type: page
+value: home
+
+----
+
+Tags: Jane-Finch

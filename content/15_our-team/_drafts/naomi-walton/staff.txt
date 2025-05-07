@@ -1,0 +1,56 @@
+Title: Naomi Walton
+
+----
+
+Name: Naomi Walton
+
+----
+
+Position: South Central Etobicoke Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="52297" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Naomi is currently attending York University with the goal to work with youth and children in challenging situations, as well as to help them develop in order to reach their full potential. Over the past few years she has gained experience by working with the youth at her local church. She will use her experience to help support and invest in the lives of the youth she will be working with in the South – Etobicoke community. This is also an opportunity for her to improve her leadership skills in her ministry working with youth and children.
+
+----
+
+Image:
+
+- layer-36.png
+
+----
+
+Alttext: Naomi Walton portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: South-Central Etobicoke, Intern Cohort

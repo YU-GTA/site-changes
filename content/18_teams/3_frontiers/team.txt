@@ -1,0 +1,121 @@
+Title: Frontiers
+
+----
+
+Name: Frontiers
+
+----
+
+Lefttext: The Frontiers team at YU is a collection of unique and fearless frontliners on a mission to carry out God's will throughout the city.
+
+----
+
+Righttext: The Frontiers team is home to a diverse group of ministries, spread across the GTA, each comprised of 1 or 2 staff members. Also acting as a ministry incubator, it is the place where ministries that are new to YU find support and structure as they grow into self-sustaining programs.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Get Involved  ›
+
+----
+
+Learnlink:
+
+type: page
+value: get-involved
+
+----
+
+Headingone: Frontier Initiatives
+
+----
+
+Titleone: Community Outreach
+
+----
+
+Textone:
+
+**Bridletowne Community Outreach** - Sports and mentoring outreach for young people (ages 10-24) in the Chester Le/Bridletowne Circle community.
+Oshawa Outreach - 
+(link: https://sites.google.com/yugta.ca/blessup/ text: **BlessUP**) - A texting initiative created and designed to uplift and encourage participants through carefully crafted texts.
+(link: https://southcentraletobicoke.yugta.ca/ text: **South Etobicoke Community Outreach**) - Soccer league and program along with mentoring, leadership training for young people in the South Central Etobicoke community.
+
+----
+
+Titletwo: Trips & Camps & Events
+
+----
+
+Texttwo:
+
+(link: https://anchorpoint3d.com/ text: **Anchor Point 3D Archery**) - A unique, character-building archery course experience for youth.
+(link: https://www.projectservetoronto.ca/ text: **Project Serve**) - Local and international service project opportunities for teams of youth designed to educate and equip young people to serve God and others.
+
+----
+
+Titlethree: Critical Care
+
+----
+
+Textthree:
+
+**Prison Visits** - Supportive visits for youth involved in the criminal justice system.
+(link: https://compassionseries.com/ text:** Compassion Series**) - Multifaceted social justice program designed to inspire, challenge and educate children and youth, and to support and encourage parents and educators.
+(link: https://reroutedcounselling.com/ text: **Re Routed**) - Counselling (in-person & virtual) for teens, young adults and families provided by a Registered Psychotherapist.
+
+----
+
+Titlefour: Marketplace Initiatives
+
+----
+
+Textfour: (link: https://sites.google.com/yugta.ca/steppingstones/home text: **Stepping Stones Property Services**) - Social enterprise program offering life skills development, on-the-job trades training, paid employment in a professional property services setting and in supported placement with partnering employers.
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Join the Frontiers Team
+
+----
+
+Stats: If you're interested in joining early stage ministry development, we're hiring for a few new roles. Check out our job openings.
+
+----
+
+Image:
+
+- frontiers-stepping-stone.png
+
+----
+
+Alttext: Four men leaning against back of a truck carrying tree branches
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Frontiers, Compassion Series, Re Routed, Project Serve, BlessUP, Stepping Stones Property Services, Bridletowne, Durham Outreach, Anchor Point 3-D Archery

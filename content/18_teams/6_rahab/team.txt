@@ -1,0 +1,115 @@
+Title: Rahab
+
+----
+
+Name: Rahab
+
+----
+
+Lefttext: We envision that God calls His people among sex workers and their families; those who are hidden, exploited, and bounded. As they experience His presence, love, hope, glory and life-transforming power, they will become a redemptive community of worship, service and fellowship.
+
+----
+
+Righttext: Empowering young women and children in the sex trade to be liberated and restored.
+
+----
+
+Donatelink:
+
+type: page
+value: donate
+
+----
+
+Buttontext: Visit the Rahab website  ›
+
+----
+
+Learnlink:
+
+type: url
+value: http://rahab.yugta.ca/
+
+----
+
+Headingone: Rahab Initiatives
+
+----
+
+Titleone: Critical Care
+
+----
+
+Textone:
+
+**Rahab Massage Parlour Outreach** - An outreach program to women working in the massage parlour sex trade industry
+
+**Rahab Sex Trade Exit Assistance** - Empowers and assists women to exit the sex trade through whole person support (financial, emotional, spritual,  social)
+
+**Rahab Residence** - Temporary shelter for persons who need a safe and stress-free residential environment to rehabilitate from their personal crisis
+
+----
+
+Titletwo: 
+
+----
+
+Texttwo: 
+
+----
+
+Titlethree: 
+
+----
+
+Textthree: 
+
+----
+
+Titlefour: 
+
+----
+
+Textfour: 
+
+----
+
+Titlefive: 
+
+----
+
+Textfive: 
+
+----
+
+Titlesix: 
+
+----
+
+Textsix: 
+
+----
+
+Headingtwo: Friends of the Exploited
+
+----
+
+Stats: We visit massage parlours to offer our services and friendship. We help sexually exploited individuals and trafficking victims to find safety. We build trust and relationships by making friends with the women and their families, provide assistance when they need, witness Christ in their lives, bring them to church, love them as Christ loves us and receive them as part of our community.
+
+----
+
+Image:
+
+- rhab-v2.png
+
+----
+
+Alttext: Woman looking upward and stretching out her arms while standing on a beach by the water
+
+----
+
+Footer: Support Us Today!
+
+----
+
+Tags: Rahab

@@ -1,0 +1,56 @@
+Title: Marianne Deeks
+
+----
+
+Name: Marianne Deeks
+
+----
+
+Position: Re Routed: Outreach Worker
+
+----
+
+Team: Frontiers
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="34217" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Marianne has partnered with BridgeNorth, a home for women exiting human trafficking. She is a counsellor and also co-facilitates a group program. The other parts of her ministry include meeting one-on-one with young women in her community, and speaking across Southern Ontario on adolescent sexuality, depression and anxiety, resiliency and issues surrounding raising girls.
+
+----
+
+Image:
+
+- layer-73.png
+
+----
+
+Alttext: Marianne Deeks portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Frontiers, Re Routed

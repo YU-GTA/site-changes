@@ -1,0 +1,56 @@
+Title: Rafael Gonzales
+
+----
+
+Name: Rafael Gonzales
+
+----
+
+Position: Communications Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="44000" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: By stepping into this internship Youth Unlimited, Rafael hopes to be able to tell the stories of our programs and the youth we serve. He has always had a heart for storytelling, so with this internship he aims to seize this opportunity to incorporate his gifts with his call to further the kingdom of God.
+
+----
+
+Image:
+
+- layer-65.png
+
+----
+
+Alttext: Rafael Gonzales portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: Central Services, Intern Cohort

@@ -1,0 +1,56 @@
+Title: Kayla Verkaik
+
+----
+
+Name: Kayla Verkaik
+
+----
+
+Position: Youth Worker
+
+----
+
+Team: The Shop
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" data-page-id="38414" data-cfasync="false" data-formtype="1" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>
+
+----
+
+Description: Kayla is zealous about The Shop’s vision to see youth experience God through relationships with mentors, discover their strengths and reach their full potential. As a Youth Worker, she helps achieve this vision by providing spiritual teaching, mentoring and character modelling. Kayla has a challenging past, but a deep heart for people. Using both she will focus on building deep relationships with the youth she mentors.
+
+----
+
+Image:
+
+- layer-45.png
+
+----
+
+Alttext: Kayla Verkaik portrait
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: The Shop

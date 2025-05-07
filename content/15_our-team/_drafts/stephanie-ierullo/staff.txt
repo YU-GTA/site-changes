@@ -1,0 +1,56 @@
+Title: Stephanie Ierullo
+
+----
+
+Name: Stephanie Ierullo
+
+----
+
+Position: Youth Ministry Intern
+
+----
+
+Team: Intern Cohort
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="78812" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Stephanie has a strong commitment to helping families, communities, and young people. With a background in social work, she values cultivating authentic relationships through a very people-centered holistic view, to see positive change in our city. Her ultimate goal is to extend God's love and act as his hands and feet by using the talents God has given her.
+
+----
+
+Image:
+
+- stephanie-ierullo.png
+
+----
+
+Alttext: Headshot of intern Stephanie
+
+----
+
+Facebooklink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Instagramlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Twitterlink:
+
+type: url
+value: https://www.facebook.com/
+
+----
+
+Tags: intern, Young Parents

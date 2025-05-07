@@ -1,0 +1,56 @@
+Title: Ronna Wetmore
+
+----
+
+Name: Ronna Wetmore
+
+----
+
+Position: Young Parents Program Co-Leader
+
+----
+
+Team: Young Parents
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="102404" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Ronna encourages, equips and empowers pregnant and parenting youth (ages 15-25) in Scarborough.  The mother of five, she understands the challenges and joys of parenting and desires to walk with the young women on their own journeys and encourage them to find their own identity in Christ.  She lives in Toronto with her husband Andrew and their children.
+
+----
+
+Image:
+
+- ronna-wetmore.jpg
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: young parents

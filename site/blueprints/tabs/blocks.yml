@@ -1,0 +1,49 @@
+label: Page Blocks
+icon: box
+fields:
+  blocks:
+    label: Page blocks
+    type: builder
+    columns: 1
+    fieldsets:
+      banner: blocks/banner
+      header-home: blocks/header-home
+      header-aboutus: blocks/header-aboutus
+      header-makingspace: blocks/header-makingspace
+      header-whatwedo: blocks/header-whatwedo
+      header-getinvolved: blocks/header-getinvolved
+      header-volunteer: blocks/header-volunteer
+      header-news: blocks/header-news
+      header-ourteam: blocks/header-ourteam
+      header-donate: blocks/header-donate
+      navbar-home: blocks/navbar-home
+      navbar-aboutus: blocks/navbar-aboutus
+      navbar-getinvolved: blocks/navbar-getinvolved
+      navbar-news: blocks/navbar-news
+      navbar-ourteam: blocks/navbar-ourteam
+      navbar-donate: blocks/navbar-donate
+      grey-button: blocks/grey-button
+      iframe: blocks/iframe
+      faq: blocks/faq
+      map: blocks/map
+      circles: blocks/circles
+      text-image: blocks/text-image
+      text-image-alt: blocks/text-image-alt
+      image-grid: blocks/image-grid
+      image-text: blocks/image-text
+      image-text-alt: blocks/image-text-alt
+      three-boxes: blocks/three-boxes
+      text-on-image: blocks/text-on-image
+      three-image-text: blocks/three-image-text
+      six-tab: blocks/six-tab
+      three-slides: blocks/three-slides
+      four-slides: blocks/four-slides
+      five-slides: blocks/five-slides
+      six-slides: blocks/six-slides
+      eight-tab: blocks/eight-tab
+      two-col-text: blocks/two-col-text
+      footer-home: blocks/footer-home
+      footer-aboutus: blocks/footer-aboutus
+      footer-getinvolved: blocks/footer-getinvolved
+      video: blocks/video
+      video-text: blocks/video-text

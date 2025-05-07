@@ -1,0 +1,56 @@
+Title: Manuela Stephens
+
+----
+
+Name: Manuela Stephens
+
+----
+
+Position: Executive Assistant
+
+----
+
+Team: Central Services
+
+----
+
+Script: <script id="ch_cdn_embed" type="text/javascript" src="https://www.canadahelps.org/secure/js/cdf_embed.2.js" charSet="utf-8" data-language="en" data-page-id="74990" data-root-url="https://www.canadahelps.org" data-formtype="1" data-cfasync="false"></script>
+
+----
+
+Description: Manuela works alongside Scott Moore, YU's Executive Director, to support his strategic and spiritual leadership of the organization. She provides administrative, logistical, and project support in all areas of Scott's responsibilities. Manuela is passionate about making things run smoothly as she serves behind the scenes to see young lives transformed across the GTA.
+
+----
+
+Image:
+
+- manuela.png
+
+----
+
+Alttext: 
+
+----
+
+Facebooklink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Instagramlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Twitterlink:
+
+type: url
+value: www.facebook.com
+
+----
+
+Tags: central services

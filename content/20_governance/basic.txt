@@ -1,0 +1,142 @@
+Title: Governance
+
+----
+
+Blocks:
+
+- 
+  heading: ""
+  _key: navbar-aboutus
+  _uid: navbar-aboutus_1614702619309_1200
+- 
+  heading: 'Board of Directors & Governance'
+  backgroundimage:
+    - headerabbg.png
+  _key: header-makingspace
+  _uid: header-makingspace_1614702730264_1414
+- 
+  image:
+    - downsview-pick-up.png
+  alttext: ""
+  heading: ' '
+  text: >
+    As a faith-based charitable
+    organization, our leaders and governing
+    body work in the best interest of our
+    youth (those we serve) and supporters
+    (those who donate their time and money).
+    The Board of Directors is Youth
+    Unlimited’s governing body and
+    oversees all matters involving Youth
+    Unlimited, now and into the future.
+  buttontext: 'See Financial Stewardship  ›'
+  button:
+    type: page
+    value: financial-statements
+  _key: image-text-alt
+  _uid: image-text-alt_1614638038205_11728
+- 
+  heading: Executive Committee
+  subheadleft: KAREN WILLSON — CHAIR
+  textleft: >
+    Karen is a retired SVP of Ketchum Canada
+    Inc. and has been on the YU Board since
+    2002. She and her husband attend Spring
+    Garden Baptist Church in North York.
+    Karen enjoys spending time with her
+    family and friends and loves both
+    curling and golf.
+  imageleft:
+    - karen-willson.png
+  alttextleft: ""
+  subheadmid: 'JOHN TOMPKINS - SECRETARY'
+  textmid: "John is a retired SVP from Aon Hewitt. John has been on the YU Board since 2002. He and his wife attend The Well in Maple. John's passions include his family, serving on other missions boards, cottaging, various sports and travel."
+  imagemid:
+    - john-tompkins.png
+  alttextmid: ""
+  subheadright: 'BRUCE DACCORD - TREASURER'
+  textright: >
+    Bruce is the President of Transcourt
+    Inc. and joined the YU Board in 2013.
+    Bruce and his wife attend the Meeting
+    House in Brampton. They have three
+    children, love being grandparents, and
+    enjoy reading, sports, and travel.
+  imageright:
+    - bruce-daccord.jpg
+  alttextright: ""
+  _key: three-image-text
+  _uid: three-image-text_1614607897965_16652
+- 
+  heading: Members At Large
+  subheadleft: CINDY ATKINSON
+  textleft: >
+    Cynthia is a Senior Manager of Finance
+    at CSA Group. She joined the YU Board in
+    2023. Cynthia and her family attend
+    Grace at The Sharing Place church and
+    food bank in Toronto. She enjoys
+    spending time with family, trying to
+    stay active, and volunteering when she
+    can.
+  imageleft:
+    - cindy-atkinson.png
+  alttextleft: ""
+  subheadmid: 'GERD FIEBIG '
+  textmid: 'Gerd is the Senior Director of Talent Acquisition & Special Projects at GEA Group and joined the YU Board in 2020. He and his family attend the Campus Church in Aurora.'
+  imagemid:
+    - gerd-fiebig.jpg
+  alttextmid: ""
+  subheadright: 'KAARINA HSIEH    '
+  textright: 'Kaarina serves at a diverse and vibrant community as Lead Pastor of Parkway Forest Community Church  in Toronto. Kaarina joined the YU Board in 2020.'
+  imageright:
+    - kaarina-hsieh.png
+  alttextright: ""
+  _key: three-image-text
+  _uid: three-image-text_1614633118788_8813
+- 
+  heading: ' '
+  subheadleft: 'SEAN HUME - VICE CHAIR'
+  textleft: 'Sean is a Sales Associate of Individual Life Insurance for iA Financial Group. He previously worked for YU from 2010-2016 as a youth worker at The Shop and started New Ground, which was a social enterprise assisting youth with employment barriers. He and his family attend Springvale Church in Stouffville.   '
+  imageleft:
+    - sean-hume.png
+  alttextleft: ""
+  subheadmid: LEN JILLARD
+  textmid: 'Len is a retired SVP of McDonalds Corporation where he served as the International Chief People Officer and has now repatriated back to Canada.  Len joined the Board in June 2023. He and his wife attend Yorkminster Baptist Church in Toronto. Their passions include family & friends, travel, tennis, golf, hockey, hiking and canoeing.'
+  imagemid:
+    - len-andrews.png
+  alttextmid: ""
+  subheadright: ' ANOUSHKA MARTIL'
+  textright: >
+    Anoushka is a Principal at Avaanz Ltd.
+    and joined the YU Board in 2017. She and
+    her family are members of Friendship
+    Community Church in Toronto.
+  imageright:
+    - anoushka-martil.png
+  alttextright: ""
+  _key: three-image-text
+  _uid: three-image-text_1687879965850_1552
+- 
+  heading: Board Responsibilities
+  lefttext: |
+    The Board performs an overall directing and monitoring role and delegates operational leadership to the Executive Director (“ED”).
+    
+    The Board’s responsibilities are to:
+    - Design the Board structure and processes.
+    - Establish Board policies for the organization.
+    - Govern the missional and strategic planning process.
+    - Delegate management authority and responsibility to the ED.
+    - Support and provide development for the ED.
+    - Oversee risk management.
+    - Monitor compliance and measure results.
+    - Assess the effectiveness of the Board.
+  righttext: |
+    In additional to our own internal standards, as an affiliate member of the (link: https://www.cccc.org/ text: Canadian Centre for Christian Charities), Youth Unlimited also operates within the external standards expected of a Christian charity:
+    - We are committed to the Christian faith.
+    - We are diligent in our governance with an independent and active Board.
+    - We demonstrate transparent and proper financial oversight, including (link: https://www.yugta.ca/financial-statements text: public disclosure of our financial statements).
+    - We operate with the utmost integrity, and adhere to all applicable laws.
+    - Our fundraising is ethical and respects the dignity and interests both of those we serve and our donors.
+  _key: two-col-text
+  _uid: two-col-text_1614698624795_3365
