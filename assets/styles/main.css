@@ -589,7 +589,7 @@ body {
   font-size: .75rem;
   line-height: 133%;
   color: #786b6b;
-  opacity: .5;
+  opacity: 1;
   margin-top: 17%
 }
 
@@ -1034,7 +1034,7 @@ body {
   font-size: .75rem;
   line-height: 133%;
   color: #786b6b;
-  opacity: .5;
+  opacity: 1;
   margin-top: 18%
 }
 
@@ -5262,9 +5262,12 @@ a.footerlink:active {
 
   .footergi3,
   .footergiimg,
-  .navbar,
-  .social {
+  .navbar{
     display: none
+  }
+  
+  .social {
+    width: 5%;
   }
 
   .mfootergiimg {
