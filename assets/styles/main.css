@@ -2569,7 +2569,7 @@ a.footerlink:active {
   font-style: normal;
   font-size: .75rem;
   line-height: 160%;
-  opacity: .3;
+  opacity: .55;
   letter-spacing: .08em;
   text-transform: uppercase
 }
