@@ -1,0 +1,61 @@
+Title: 2025 Golf Tournament : Thank You for Teeing It Up For Transformation
+
+----
+
+Name: Thank You for Teeing It Up For Transformation
+
+----
+
+Location: King's Riding Golf Club
+
+----
+
+Button: Registration Closed
+
+----
+
+Link:
+
+type: url
+value: >
+  https://www.yugta.ca/events/2025-golf-tournament-38th-anniversary-thank-you
+
+----
+
+Body:
+
+Thank you to the golfers and sponsors who teed it up for youth transformation on Tuesday, May 6, 2025 at King's Riding Gold Club in King City, Ontario
+
+For **38 years** Youth Unlimited’s annual charity golf tournament has raised significant funds and built long-lasting partnerships that daily impact young lives throughout the GTA. The funds were raised in support of YU's Summer Raise campaign which is vital in the essential and operational needs of 15 summer YU programs across the GTA
+
+----
+
+Date: 2025-05-06 01:55
+
+----
+
+Eventdate: 2025-05-05 10:00
+
+----
+
+Bottomimage:
+
+- img_7957.jpg
+
+----
+
+Alttext2: Four golfers posed with their golf clubs on the course.
+
+----
+
+Topimage:
+
+- events-top-image.png
+
+----
+
+Alttext: Four golfers by a hole congratulating each other.
+
+----
+
+Tags: Golf Tournament

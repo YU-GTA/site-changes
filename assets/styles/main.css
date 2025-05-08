@@ -2341,7 +2341,7 @@ a.footerlink:active {
   font-size: .75rem;
   line-height: 133%;
   color: #000;
-  opacity: .4;
+  opacity: .55;
   letter-spacing: .08em;
   text-transform: uppercase
 }
@@ -2925,6 +2925,11 @@ a.footerlink:active {
 
 .search {
   padding-top: 2.3%
+}
+
+.jobdate.latest {
+  color:#5e60d5;
+  opacity: .95;
 }
 
 @media (max-width:1440px) {

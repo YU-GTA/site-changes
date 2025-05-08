@@ -3484,6 +3484,11 @@ a.footerlink:active {
   display: none;
 }
 
+.jobdate.latest {
+  color:#5e60d5;
+  opacity: .95;
+}
+
 @media (max-width:768px) {
   .wrapper {
     position: relative; /* Needed for absolute positioning */

@@ -26,7 +26,7 @@
             <p class="latestsub">Latest Stories + Events</p>
             <h2 class="latestheader"><?= $entry->name() ?></h2>
             <div class="storysum"><?= $entry->body()->excerpt(100)->kt() ?></div>
-            <time class="jobdate"><?= $entry->date()->toDate('d / m / Y') ?></time>
+            <time class="jobdate latest"><?= $entry->date()->toDate('d / m / Y') ?></time>
           </div>
         </figure>
       </a>
