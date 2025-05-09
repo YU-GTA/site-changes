@@ -15,7 +15,7 @@
       <a class="joblink" target="_blank" href="<?= $job->link()->toLinkObject() ?>">
         <figure>
           <div class="jobtitle"><?= $job->jobtitle() ?><img class="jobarrow" src=".\assets\images\svgs\bluearrow.svg"></div>
-          <time class="jobdate"><?= $job->date()->toDate('d / m / Y') ?></time>
+          <time class="jobdate jobopenings"><?= $job->date()->toDate('d / m / Y') ?></time>
         </figure>
       </a>
     </li>

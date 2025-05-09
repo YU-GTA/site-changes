@@ -2932,6 +2932,11 @@ a.footerlink:active {
   opacity: .95;
 }
 
+.jobdate.jobopenings {
+  color:#5e60d5;
+  opacity: .95;
+}
+
 @media (max-width:1440px) {
 
   .sixtabgrid,
