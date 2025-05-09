@@ -4508,11 +4508,18 @@ a.footerlink:active {
     padding-right: 10%
   }
 
-  .threeboxes2,
+  /* .threeboxes2, */
   .threeboxes3,
   .threeboxes4 {
     padding: 17% 10%;
     background-image: url("../images/svgs/mthreeboxborder.svg");
+    background-size: contain;
+    background-repeat: no-repeat
+  }
+
+  .threeboxes2 {
+    padding: 17% 10%;
+    background-image: url("../images/svgs/mthreeboxbordertall.svg");
     background-size: contain;
     background-repeat: no-repeat
   }
