@@ -1966,7 +1966,7 @@ body {
   line-height: 121%;
   display: block;
   padding-top: 20%;
-  color: #fff
+  color: #727272;
 }
 
 .tab button,
@@ -2932,7 +2932,7 @@ a.footerlink:active {
   opacity: .95;
 }
 
-.jobdate.jobopenings {
+.jobdate.jobopenings{
   color:#5e60d5;
   opacity: .95;
 }
